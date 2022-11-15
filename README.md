@@ -9,4 +9,4 @@
   - assessments: the final tga reports for the study object
   - evaluation_documentation.md : steps I took to execute test in the respective study object
   - samples: the samples I searched for false positives
-
+  - "get_project_resource_file_extensions.sh" is the script for collecting all file-extensions in a directory and its subdirectories I mentioned in the thesis.
