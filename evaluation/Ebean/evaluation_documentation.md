@@ -85,3 +85,6 @@ assessments/**
 ## How to Execute the tests
 
 use the `execute_(no_)real_read_tests_with_agent.sh`
+
+## Changes in source-code files:
+I considered all *.java files source-code

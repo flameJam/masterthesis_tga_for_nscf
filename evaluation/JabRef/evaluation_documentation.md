@@ -5,7 +5,7 @@ Jabref version (commit hash): 1797af8e3bcc6105563b337223e5257abc97ca35 (main bra
 
 Java Version: 17 (has to be changed in build.gradle)
 
-FileAccessAgent Version (commit hash): def8f54c63b1c8297b27e3dc0ff1c52d344b8306 (real_read_dev branch) **TODO: maybe update, maybe delete?**
+File-Access-Log-Agent Version (commit hash): def8f54c63b1c8297b27e3dc0ff1c52d344b8306 (real_read_dev branch)
 
 **--> use the ./buildAgentForBranch.sh script to build the agent and put it into the right spot!**
 ## How to Add the Java Agent during Testing:
@@ -132,10 +132,5 @@ exclude due to size: /buildres/csl/csl-styles/dependent (has 7830 entries)
 - docs
 - licenses
 
-
-
-## What did I do to get the number of changed source-code files in Jabref?
-
-Analysis with only *.java files
--> store resource tga report
--> use modification and addition to separate
+## Changes in source-code files:
+I considered all *.java files source-code
