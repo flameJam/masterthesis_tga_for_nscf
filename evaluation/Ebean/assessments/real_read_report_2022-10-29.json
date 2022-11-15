@@ -1,0 +1,3649 @@
+[
+    {
+        "uniformPath": "ebean-postgis/pom.xml",
+        "assessment": "MODIFICATION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1665707478000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_CHANGE"
+    },
+    {
+        "uniformPath": "platforms/hana/src/main/resources/META-INF/services/io.ebean.config.dbplatform.DatabasePlatformProvider",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1648620082000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/testconfig/ebean-postgres.properties",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1638304545000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/db2zos/1.3.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-ddl-generator/src/test/resources/assert/changeset-dropAll.txt",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": "ebean-ddl-generator/src/test/resources/scripts/test-script-2.sql",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/db2zos/1.2__dropsFor_1.1.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1648007191000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-core/src/test/resources/application-test.properties",
+        "assessment": "MODIFICATION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1648365635000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_CHANGE"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest-history/dbmigration/model/1.0__initial.model.xml",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1644269020000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/bean/example-list-contains.json",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1643669726000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-querybean/src/test/resources/ebean.mf",
+        "assessment": "MODIFICATION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1665698929000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_CHANGE"
+    },
+    {
+        "uniformPath": "ebean-api/pom.xml",
+        "assessment": "MODIFICATION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1665707478000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_CHANGE"
+    },
+    {
+        "uniformPath": "composites/ebean-h2/pom.xml",
+        "assessment": "MODIFICATION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1665707478000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_CHANGE"
+    },
+    {
+        "uniformPath": "ebean-test/testconfig/ebean-mariadb.properties",
+        "assessment": "MODIFICATION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1638320095000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_CHANGE"
+    },
+    {
+        "uniformPath": "ebean-jackson-mapper/src/main/resources/META-INF/services/io.ebean.core.type.ScalarJsonMapper",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1665704383000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "tests/test-java16/src/test/resources/logback-test.xml",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/oracle11/1.0__initial.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/hsqldb/R__order_views_hsqldb.sql",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1644269020000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-ddl-generator/src/test/resources/test-dbmigration/2.1.sql",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/contains/nested-array-missExpected.json",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/contains/check-type-actual.json",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/cockroach/1.3.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-ddl-generator/src/test/resources/mysql/procedures/mysql/1.2__dropsFor_1.1.sql",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1642738008000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": ".github/workflows/build.yml",
+        "assessment": "MODIFICATION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1656368675000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_CHANGE"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/EQL.g4",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": "platforms/sqlite/src/main/resources/META-INF/services/io.ebean.config.dbplatform.DatabasePlatformProvider",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1648620082000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/db2fori/1.2__dropsFor_1.1.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1648007191000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/oracle11/1.2__dropsFor_1.1.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1648007191000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/postgres/R__multi_comments.sql",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1644269020000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/yugabyte/R__order_views.sql",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1644269020000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "querybean-generator/README.md",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/mariadb-noprocs/1.3.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/yugabyte/1.3.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/db2legacy/1.1.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/contains/nested-array-both.json",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-core/src/test/ddl-review/sqlserver-create-all.sql",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/mysql55/1.4__dropsFor_1.3.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "composites/ebean-postgres/pom.xml",
+        "assessment": "MODIFICATION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1665707478000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_CHANGE"
+    },
+    {
+        "uniformPath": "pom.xml",
+        "assessment": "MODIFICATION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1665707478000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_CHANGE"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/oracle/1.4__dropsFor_1.3.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-core/test-dummy2.yaml",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/bean/contains-minimal.json",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "platforms/nuodb/pom.xml",
+        "assessment": "MODIFICATION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1665707478000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_CHANGE"
+    },
+    {
+        "uniformPath": "ebean-test/testconfig/ebean-sqlserver19.properties",
+        "assessment": "MODIFICATION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1651046522000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_CHANGE"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/sqlanywhere/1.4__dropsFor_1.3.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/contains/nested-array-extraExpected.json",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-ddl-generator/src/test/resources/dbmigration/app2/v1.0__one.sql",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": "ebean-ddl-generator/src/test/resources/dbmigration/index2/idx_h2.migrations",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-autotune/src/test/resources/autotune/test-autotune.xml",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": ".travis.yml",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/nuodb/1.1.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-externalmapping-xml/src/test/resources/ebean.mf",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1651544149000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/hsqldb/1.1.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "platforms/db2/pom.xml",
+        "assessment": "MODIFICATION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1665707478000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_CHANGE"
+    },
+    {
+        "uniformPath": "kotlin-querybean-generator/src/main/resources/META-INF/services/javax.annotation.processing.Processor",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/postgres/1.4__dropsFor_1.3.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-ddl-generator/src/test/resources/dbmigration/index/R__view_1.sql",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "platforms/hana/pom.xml",
+        "assessment": "MODIFICATION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1665707478000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_CHANGE"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/clickhouse/1.2__dropsFor_1.1.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1648007191000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-ddl-generator/src/test/resources/dbmigration/app2/v3.1.sql",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": "ebean-core/src/main/java/io/ebeaninternal/server/deploy/generatedproperty/package.html",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/db2luw/R__order_views.sql",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1644269020000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/sqlserver16/1.4__dropsFor_1.3.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-redis/src/test/resources/logback-test.xml",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/mariadb-noprocs/idx_mariadb.migrations",
+        "assessment": "MODIFICATION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_CHANGE"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/mysql/1.1.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/mariadb/R__order_views.sql",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1644269020000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-autotune/pom.xml",
+        "assessment": "MODIFICATION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1665707478000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_CHANGE"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/test-properties/foo.yml",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": "ebean-ddl-generator/src/test/resources/logback-test.xml",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": "ebean-ddl-generator/src/test/resources/mysql/procedures/mysql/idx_mysql.migrations",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1642738008000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": "ebean-ddl-generator/src/test/resources/dbmigration/app3/model_smaller/v2.0.model.xml",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/db2fori/1.1.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-ddl-generator/src/test/resources/io/ebeaninternal/dbmigration/model/7.0__renameTable.errNewTable.xml",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1653346511000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-ddl-generator/src/test/resources/dbmigration/myapp/v2.0.xml",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": "ebean-core/src/test/ddl-review/pg-drop-all.sql",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/docker-run.properties",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": "ebean-api/src/main/java/io/ebean/stylesheet.css",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": "composites/ebean-sqlite/pom.xml",
+        "assessment": "MODIFICATION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1665707478000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_CHANGE"
+    },
+    {
+        "uniformPath": "ebean-core/src/main/java/io/ebeaninternal/server/expression/package.html",
+        "assessment": "MODIFICATION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1647920927000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_CHANGE"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/mysql55/1.2__dropsFor_1.1.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1648007191000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/hsqldb/idx_hsqldb.migrations",
+        "assessment": "MODIFICATION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_CHANGE"
+    },
+    {
+        "uniformPath": "platforms/oracle/pom.xml",
+        "assessment": "MODIFICATION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1665707478000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_CHANGE"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/mysql55/idx_mysql.migrations",
+        "assessment": "MODIFICATION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_CHANGE"
+    },
+    {
+        "uniformPath": "platforms/postgres/pom.xml",
+        "assessment": "MODIFICATION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1665707478000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_CHANGE"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/profile-image.jpg",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/testconfig/ebean-sqlserver17.properties",
+        "assessment": "MODIFICATION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1651046522000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_CHANGE"
+    },
+    {
+        "uniformPath": "ebean-ddl-generator/src/test/resources/assert/changeset-pg-rollbackFirst.sql",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": "ebean-test/testconfig/ebean-mysql.properties",
+        "assessment": "MODIFICATION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1638320095000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_CHANGE"
+    },
+    {
+        "uniformPath": ".github/workflows/mysql.yml",
+        "assessment": "MODIFICATION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1656369030000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_CHANGE"
+    },
+    {
+        "uniformPath": "ebean-ddl-generator/src/main/resources/io/ebeaninternal/dbmigration/builtin-extra-ddl.xml",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-jackson-mapper/pom.xml",
+        "assessment": "MODIFICATION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1665707478000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_CHANGE"
+    },
+    {
+        "uniformPath": "ebean-core/src/main/resources/META-INF/services/io.ebean.metric.MetricFactory",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/sqlserver17/1.0__initial.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": ".github/workflows/multi-jdk-build.yml",
+        "assessment": "MODIFICATION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1648620289000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_CHANGE"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/clickhouse/1.1.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/sqlite/1.4__dropsFor_1.3.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-ddl-generator/src/main/resources/META-INF/services/io.ebeaninternal.api.SpiDdlGeneratorProvider",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-core/src/test/ddl-review/sqlserver-drop-all.sql",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/sqlite/1.1.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-ddl-generator/src/main/resources/ebean-dbmigration-1.0.xsd",
+        "assessment": "MODIFICATION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1652693339000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_CHANGE"
+    },
+    {
+        "uniformPath": "CONFIGURATION.md",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": "ebean-jackson-jsonnode/pom.xml",
+        "assessment": "MODIFICATION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1665707478000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_CHANGE"
+    },
+    {
+        "uniformPath": "platforms/nuodb/src/main/resources/META-INF/services/io.ebean.config.dbplatform.DatabasePlatformProvider",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1648620082000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-core/src/test/ddl-review/pg-create-all.sql",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/oracle/idx_oracle.migrations",
+        "assessment": "MODIFICATION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_CHANGE"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/mariadb/1.0__initial.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/hana/R__order_views_hana.sql",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1644269020000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "composites/ebean-oracle/pom.xml",
+        "assessment": "MODIFICATION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1665707478000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_CHANGE"
+    },
+    {
+        "uniformPath": "ebean-core/src/main/resources/META-INF/services/io.ebean.service.SpiJsonService",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "composites/ebean/pom.xml",
+        "assessment": "MODIFICATION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1665707478000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_CHANGE"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/postgres9/1.3.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-ddl-generator/src/test/resources/mysql/procedures/model/1.0__initial.model.xml",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1642738008000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": "ebean-core/src/main/java/io/ebeaninternal/server/persist/dmlbind/package.html",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/contains/array-multi-match.json",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "querybean-generator/pom.xml",
+        "assessment": "MODIFICATION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1665707478000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_CHANGE"
+    },
+    {
+        "uniformPath": "ebean-ddl-generator/src/test/resources/io/ebeaninternal/dbmigration/model/2.2__drops.model.xml",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/cockroach/1.0__initial.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-ddl-generator/src/test/resources/mysql/procedures/model/1.2__dropsFor_1.1.model.xml",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1642738008000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": "ebean-ddl-generator/src/test/resources/io/ebeaninternal/dbmigration/model/7.0__renameTable.errOldTable.xml",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1653346511000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "kotlin-querybean-generator/pom.xml",
+        "assessment": "MODIFICATION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1665707478000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_CHANGE"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/sqlserver17/1.2__dropsFor_1.1.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1648007191000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-core/src/test/ddl-review/mariadb-create-all.sql",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/notused-application-test.yaml",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/yugabyte/1.4__dropsFor_1.3.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/clickhouse/1.4__dropsFor_1.3.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-core/src/test/ddl-review/h2-create-all.sql",
+        "assessment": "MODIFICATION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1648620082000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_CHANGE"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/hana/1.0__initial.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-ddl-generator/src/test/resources/dbmigration/index-special-chars/1.0__hello.sql",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1642025127000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/yugabyte/1.1.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/db2legacy/1.4__dropsFor_1.3.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-ddl-generator/src/test/resources/assert/ModelBuild_compoundKeyTest/apply.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1646915079000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/db2legacy/idx_generic.migrations",
+        "assessment": "MODIFICATION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_CHANGE"
+    },
+    {
+        "uniformPath": "ebean-test/testconfig/ebean-yugabyte.properties",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1643675449000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/mysql/1.3.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/mariadb-noprocs/1.1.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/yugabyte/1.0__initial.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/sqlanywhere/1.0__initial.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/hsqldb/1.4__dropsFor_1.3.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "querybean-generator/src/main/resources/META-INF/services/javax.annotation.processing.Processor",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/db2zos/1.1.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-ddl-generator/src/test/resources/io/ebeaninternal/dbmigration/model/7.0__renameTable.model.xml",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1653346511000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-core/src/main/java/io/ebeaninternal/server/deploy/package.html",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": "ebean-core/src/test/resources/ebean.mf",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1651544149000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/h2/R__order_views.sql",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1644269020000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-autotune/src/main/resources/ebean-autotune-1.0.xsd",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": "composites/ebean-yugabyte/pom.xml",
+        "assessment": "MODIFICATION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1665707478000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_CHANGE"
+    },
+    {
+        "uniformPath": "ebean-ddl-generator/src/test/resources/dbmigration/app3/model_larger/v4.1__foo.model.xml",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": "kotlin-querybean-generator/src/test/resources/application-test.properties",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1652683722000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest-history/dbmigration/R__order_views.sql",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1644269020000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": "ebean-ddl-generator/src/test/resources/assert/ModelBuild_compound_IdClassTest/apply.sql",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-autotune/src/main/resources/META-INF/services/io.ebeaninternal.server.autotune.AutoTuneServiceProvider",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "howto-test.md",
+        "assessment": "MODIFICATION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1646000645000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_CHANGE"
+    },
+    {
+        "uniformPath": "platforms/postgres/src/main/resources/META-INF/services/io.ebean.config.dbplatform.DatabasePlatformProvider",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1648620082000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "tests/test-java16/pom.xml",
+        "assessment": "MODIFICATION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1665956106000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_CHANGE"
+    },
+    {
+        "uniformPath": "ebean-ddl-generator/src/test/resources/assert/BaseTableDdlTest/createTable-rollback.txt",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-ddl-generator/src/test/resources/assert/BaseTableDdlTest/createTable-rollbackFirst.txt",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/postgres/1.2__dropsFor_1.1.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1648007191000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/sqlserver16/R__order_views_mssql.sql",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1644269020000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-querybean/src/test/resources/logback-test.xml",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": "ebean-api/src/main/resources/META-INF/ebean-maven-version.txt",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1656914008000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/oracle11/idx_oracle.migrations",
+        "assessment": "MODIFICATION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_CHANGE"
+    },
+    {
+        "uniformPath": "ebean-core/src/main/java/io/ebeaninternal/server/cluster/package.html",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/cockroach/1.1.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-core/src/main/java/io/ebeaninternal/server/grammer/antlr/EQL.tokens",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/sqlserver16/1.1.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-core/src/main/java/io/ebeaninternal/server/idgen/package.html",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/ebean.mf",
+        "assessment": "MODIFICATION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1665699252000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_CHANGE"
+    },
+    {
+        "uniformPath": "ebean-ddl-generator/src/test/resources/test-dbmigration/1.2.sql",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/hsqldb/1.3.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/oracle/1.2__dropsFor_1.1.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1648007191000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/testconfig/ebean-cockroach.properties",
+        "assessment": "MODIFICATION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1646000721000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_CHANGE"
+    },
+    {
+        "uniformPath": "platforms/sqlanywhere/src/main/resources/META-INF/services/io.ebean.config.dbplatform.DatabasePlatformProvider",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1648620082000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/testconfig/ebean-hana.properties",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1646000645000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": "platforms/oracle/src/main/resources/META-INF/services/io.ebean.config.dbplatform.DatabasePlatformProvider",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1648620082000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-csv-reader/src/test/resources/application-test.yml",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1661405149000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/sqlanywhere/1.2__dropsFor_1.1.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1648007191000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-api/src/main/java/io/ebean/event/package.html",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": ".github/FUNDING.yml",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": "ebean-test/testconfig/ebean-h2.properties",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1638304545000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": "ebean-core/src/main/resources/META-INF/services/io.ebean.service.SpiContainerFactory",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/generic/1.0__initial.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-ddl-generator/src/test/resources/dbmigration/index2/g2/2.0__a.sql",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/db2luw/I__create_tablespaces.sql",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1648027756000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-kotlin/pom.xml",
+        "assessment": "MODIFICATION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1665956106000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_CHANGE"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/hana/1.3.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/cockroach/1.4__dropsFor_1.3.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/db2luw/1.4__dropsFor_1.3.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-ddl-generator/src/test/resources/mysql/procedures/mysql/I__create_procs.sql",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1642738008000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": "ebean-joda-time/src/main/resources/META-INF/services/io.ebean.core.type.ExtraTypeFactory",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1661492068000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "composites/ebean-cockroach/pom.xml",
+        "assessment": "MODIFICATION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1665707478000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_CHANGE"
+    },
+    {
+        "uniformPath": "ebean-csv-reader/pom.xml",
+        "assessment": "MODIFICATION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1665707478000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_CHANGE"
+    },
+    {
+        "uniformPath": "ebean-redis/src/test/resources/application-test.yaml",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/oracle/R__order_views.sql",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1644269020000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-core/pom.xml",
+        "assessment": "MODIFICATION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1665707478000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_CHANGE"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/contains/check-null-expected.json",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-core/src/test/resources/META-INF/test/test-one.mf",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1648099308000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/generic/1.1.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/logback-test.xml",
+        "assessment": "MODIFICATION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1655179753000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_CHANGE"
+    },
+    {
+        "uniformPath": "ebean-core/src/test/resources/META-INF/test/test-agent-only-use.mf",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1648099308000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/test-properties/application.properties",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": "ebean-core/src/test/ddl-review/mariadb-drop-all.sql",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": "ebean-api/src/main/java/io/ebean/overview.html",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": "ebean-ddl-generator/src/test/resources/application-test.properties",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": "ebean-core/src/test/ddl-review/oracle-create-all.sql",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": "ebean-test/testconfig/ebean-clickhouse.properties",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1638304545000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": "ebean-core/src/main/resources/META-INF/services/io.ebean.service.SpiProfileLocationFactory",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/hana/1.1.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-api/src/test/resources/application-test.properties",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1648184849000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": "ebean-core/src/main/java/io/ebeaninternal/server/util/package.html",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": "ebean-api/src/main/java/io/ebean/config/package.html",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": "ebean-core/src/main/java/io/ebeaninternal/server/deploy/id/package.html",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/sqlserver17/R__order_views_mssql.sql",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1644269020000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/contains/nested-array-ordering.json",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/test-ebean.properties",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1643188132000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-ddl-generator/src/test/resources/assert/ModelBuild_explicitSequencesTest/apply.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1647856934000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-api/src/main/java/io/ebean/package.html",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/postgres/idx_postgres.migrations",
+        "assessment": "MODIFICATION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_CHANGE"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/contains/check-type-expected.json",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "platforms/mariadb/src/main/resources/META-INF/services/io.ebean.config.dbplatform.DatabasePlatformProvider",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1648620082000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/clickhouse/1.3.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1648007191000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/contains/original.json",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest-history/dbmigration/model/1.1.model.xml",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1644269020000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "composites/ebean-hana/pom.xml",
+        "assessment": "MODIFICATION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1665707478000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_CHANGE"
+    },
+    {
+        "uniformPath": "ebean-core/src/main/java/io/ebeaninternal/server/grammer/antlr/EQLLexer.tokens",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": "ebean-core/src/test/resources/h2-init.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1648364134000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "README.md",
+        "assessment": "MODIFICATION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1659305972000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_CHANGE"
+    },
+    {
+        "uniformPath": "ebean-joda-time/pom.xml",
+        "assessment": "MODIFICATION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1665707478000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_CHANGE"
+    },
+    {
+        "uniformPath": "ebean-ddl-generator/src/main/resources/ebean-extraddl-1.0.xsd",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/bean/example-bean.json",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-ddl-generator/src/main/resources/META-INF/services/io.ebean.dbmigration.DbMigration",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/oracle11/1.1.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/generic/idx_generic.migrations",
+        "assessment": "MODIFICATION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_CHANGE"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/example/plain.json",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-ddl-generator/src/test/resources/mysql/procedures/model/1.1.model.xml",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1642738008000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": "ebean-core/src/main/java/io/ebeaninternal/server/persist/package.html",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": "ebean-jackson-jsonnode/src/main/resources/META-INF/services/io.ebean.core.type.ScalarTypeSetFactory",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1665704367000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/hana/I__create_procs.sql",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1646000645000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "platforms/hsqldb/src/main/resources/META-INF/services/io.ebean.config.dbplatform.DatabasePlatformProvider",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1648620082000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-externalmapping-xml/src/test/resources/ebean-xml-mappings/CustomerMapping.xml",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/testconfig/ebean-nuodb.properties",
+        "assessment": "MODIFICATION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1655379124000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_CHANGE"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/mariadb/1.4__dropsFor_1.3.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-ddl-generator/src/test/resources/assert/BaseTableDdlTest/createTable-apply.txt",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/h2/idx_h2.migrations",
+        "assessment": "MODIFICATION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_CHANGE"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/mysql55/I__create_procs.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/main/resources/META-INF/services/io.ebeaninternal.api.SpiLoggerFactory",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-externalmapping-xml/src/main/resources/META-INF/services/io.ebeaninternal.xmapping.api.XmapService",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/model/1.0__initial.model.xml",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/postgres9/1.1.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-postgis/src/main/resources/META-INF/services/io.ebean.core.type.ExtraTypeFactory",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/pom.xml",
+        "assessment": "MODIFICATION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1665707478000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_CHANGE"
+    },
+    {
+        "uniformPath": "ebean-postgis/src/test/resources/notused-test-ebean.properties",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": ".github/workflows/multi-db-platform.yml",
+        "assessment": "MODIFICATION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1643859718000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_CHANGE"
+    },
+    {
+        "uniformPath": "ebean-ddl-generator/src/test/resources/assert/drop-create-table.txt",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1646870444000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/postgres9/R__order_views.sql",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1644269020000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/db2zos/R__order_views.sql",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1644269020000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-core/src/test/ddl-review/oracle-drop-all.sql",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": "ebean-bom/pom.xml",
+        "assessment": "MODIFICATION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1665707478000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_CHANGE"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/bean/example-list-match.json",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1643669726000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/mysql55/R__order_views.sql",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1644269020000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": ".github/workflows/sqlserver-2019.yml",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1643313505000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": "ebean-core/test-dummy.yml",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": "ebean-api/src/main/java/io/ebean/config/dbplatform/package.html",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/sqlite/1.3.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-ddl-generator/src/test/resources/assert/BaseTableDdlTest/createTable-applyLast.txt",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/mysql55/1.0__initial.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/contains/array-objects-shuffled.json",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/generic/1.4__dropsFor_1.3.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "platforms/hsqldb/pom.xml",
+        "assessment": "MODIFICATION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1665707478000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_CHANGE"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/mariadb/idx_mariadb.migrations",
+        "assessment": "MODIFICATION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_CHANGE"
+    },
+    {
+        "uniformPath": "ebean-ddl-generator/src/test/resources/dbmigration/app3/v3.1.2__foo.sql",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": "ebean-core/src/test/ddl-review/mysql-drop-all.sql",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": ".github/workflows/yugabyte.yml",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1643675608000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/db2legacy/1.2__dropsFor_1.1.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1648620082000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-ddl-generator/src/test/resources/dbmigration/index/idx_postgres.migrations",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/sqlserver16/I__create_procs.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "tests/test-kotlin/pom.xml",
+        "assessment": "MODIFICATION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1665956106000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_CHANGE"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/yugabyte/1.2__dropsFor_1.1.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1648007191000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-externalmapping-xml/src/test/resources/test-ebean.xml",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "kotlin-querybean-generator/README.md",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/sqlserver17/1.1.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/hsqldb/1.0__initial.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "platforms/sqlserver/src/main/resources/META-INF/services/io.ebean.config.dbplatform.DatabasePlatformProvider",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1648620082000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/postgres/1.1.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-core-type/pom.xml",
+        "assessment": "MODIFICATION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1665707478000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_CHANGE"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/sqlserver17/idx_sqlserver.migrations",
+        "assessment": "MODIFICATION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_CHANGE"
+    },
+    {
+        "uniformPath": "composites/ebean-mysql/pom.xml",
+        "assessment": "MODIFICATION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1665707478000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_CHANGE"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/mariadb-noprocs/1.0__initial.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "kotlin-querybean-generator/src/test/resources/META-INF/ebean-version.mf",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1652683722000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/db2fori/1.0__initial.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-externalmapping-xml/src/test/resources/ebean-xml-mappings/OrderMapping.xml",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/scripts/test-script.sql",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": "ebean-ddl-generator/src/test/resources/assert/BaseDdlHandlerTest/baseDropAll.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1646870444000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-ddl-generator/src/test/resources/dbmigration/myapp/v1.0.xml",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/nuodb/1.2__dropsFor_1.1.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1648007191000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-core/src/main/java/io/ebeaninternal/server/deploy/parse/package.html",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/mysql/idx_mysql.migrations",
+        "assessment": "MODIFICATION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_CHANGE"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/hsqldb/1.2__dropsFor_1.1.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1648007191000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-externalmapping-xml/pom.xml",
+        "assessment": "MODIFICATION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1665707478000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_CHANGE"
+    },
+    {
+        "uniformPath": "ebean-core/src/main/java/io/ebeaninternal/server/core/package.html",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": "ebean-ddl-generator/src/test/resources/assert/BaseDdlHandlerTest/baseApply.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1646915999000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/mariadb/1.3.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/ebean.properties",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1660714027000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/cockroach/idx_cockroach.migrations",
+        "assessment": "MODIFICATION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_CHANGE"
+    },
+    {
+        "uniformPath": "ebean-ddl-generator/src/test/resources/assert/changeset-apply.txt",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": "ebean-core/src/test/ddl-review/mysql-create-all.sql",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/sqlserver16/1.3.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/contains/original-subset-modified.json",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-ddl-generator/src/test/resources/container/test-create-table.xml",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1648027756000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/extra-ddl.xml",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1648027756000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-core/src/test/resources/META-INF/test/test-combined.mf",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1648099308000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/contains/nested-array.json",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/example/plain-list.json",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/mysql/1.4__dropsFor_1.3.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "platforms/sqlserver/pom.xml",
+        "assessment": "MODIFICATION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1665707478000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_CHANGE"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/h2/1.4__dropsFor_1.3.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/mysql/I__create_procs.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-kotlin/src/test/resources/application-test.yaml",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1638847546000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": "ebean-csv-reader/src/test/resources/test1.csv",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1661405149000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-core/src/main/java/io/ebeaninternal/server/grammer/antlr/EQLLexer.interp",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/cockroach/1.2__dropsFor_1.1.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1648007191000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/bean/contains-with-version.json",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/postgres9/R__multi_comments.sql",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1644269020000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-postgis/README.md",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/hana/idx_hana.migrations",
+        "assessment": "MODIFICATION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_CHANGE"
+    },
+    {
+        "uniformPath": "ebean-core/src/main/java/io/ebeaninternal/server/transaction/package.html",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": "ebean-ddl-generator/src/test/resources/io/ebeaninternal/dbmigration/model/4.0__alterForeignKey.model.xml",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/db2luw/idx_db2.migrations",
+        "assessment": "MODIFICATION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_CHANGE"
+    },
+    {
+        "uniformPath": "platforms/clickhouse/pom.xml",
+        "assessment": "MODIFICATION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1665707478000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_CHANGE"
+    },
+    {
+        "uniformPath": "ebean-redis/pom.xml",
+        "assessment": "MODIFICATION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1665707478000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_CHANGE"
+    },
+    {
+        "uniformPath": "ebean-ddl-generator/src/test/resources/dbmigration/index2/R__view_1.sql",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/db2luw/1.2__dropsFor_1.1.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1648007191000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/mariadb-noprocs/1.2__dropsFor_1.1.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1648007191000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "platforms/clickhouse/src/main/resources/META-INF/services/io.ebean.config.dbplatform.DatabasePlatformProvider",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1648620082000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-postgis/src/test/resources/application-test.yml",
+        "assessment": "MODIFICATION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1652675792000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_CHANGE"
+    },
+    {
+        "uniformPath": "ebean-ddl-generator/src/test/resources/io/ebeaninternal/dbmigration/model/1.1_2__drops.model.xml",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest-history/dbmigration/1.2__dropsFor_1.1.sql",
+        "assessment": "MODIFICATION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1646915079000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_CHANGE"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/postgres9/1.4__dropsFor_1.3.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/oracle/1.1.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": ".github/workflows/h2database.yml",
+        "assessment": "MODIFICATION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1656369030000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_CHANGE"
+    },
+    {
+        "uniformPath": "platforms/mariadb/pom.xml",
+        "assessment": "MODIFICATION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1665707478000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_CHANGE"
+    },
+    {
+        "uniformPath": "ebean-externalmapping-api/pom.xml",
+        "assessment": "MODIFICATION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1665707478000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_CHANGE"
+    },
+    {
+        "uniformPath": "ebean-ddl-generator/src/test/resources/dbmigration/index/1.0__hello.sql",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-querybean/pom.xml",
+        "assessment": "MODIFICATION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1665707478000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_CHANGE"
+    },
+    {
+        "uniformPath": "ebean-querybean/src/test/resources/init-db.sql",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-ddl-generator/src/test/resources/dbmigration/app3/v1.1__one.sql",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/postgres9/1.0__initial.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-ddl-generator/src/test/resources/assert/changeset-pg-rollbackLast.sql",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/oracle11/1.3.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-ddl-generator/pom.xml",
+        "assessment": "MODIFICATION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1665707478000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_CHANGE"
+    },
+    {
+        "uniformPath": ".github/workflows/jdk-ea.yml",
+        "assessment": "MODIFICATION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1660005484000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_CHANGE"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/mysql/1.2__dropsFor_1.1.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1648007191000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/oracle/1.0__initial.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/nuodb/idx_nuodb.migrations",
+        "assessment": "MODIFICATION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_CHANGE"
+    },
+    {
+        "uniformPath": "ebean-ddl-generator/src/main/resources/io/ebeaninternal/dbmigration/builtin-extra-ddl-partitioning.xml",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1655177974000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/cockroach/R__order_views.sql",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1644269020000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "composites/ebean-nuodb/pom.xml",
+        "assessment": "MODIFICATION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1665707478000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_CHANGE"
+    },
+    {
+        "uniformPath": "ebean-ddl-generator/src/test/resources/io/ebeaninternal/dbmigration/model/5.0__dropTable.model.xml",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-ddl-generator/src/test/resources/assert/ModelBuild_explicitSequencesTest/pg-apply.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1657158306000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-core/src/test/ddl-review/h2-drop-all.sql",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/nuodb/R__order_views.sql",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1644269020000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-ddl-generator/src/test/resources/container/test-compoundkey.xml",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": ".github/workflows/db2luw.yml",
+        "assessment": "MODIFICATION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1656369030000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_CHANGE"
+    },
+    {
+        "uniformPath": "ebean-core/src/test/resources/META-INF/test/test-some.mf",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1648099308000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/postgres9/1.2__dropsFor_1.1.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1648007191000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/db2fori/R__order_views.sql",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1644269020000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/nuodb/1.3.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/example1.json",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/oracle/R__oracle_only_views.sql",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1644269020000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest-history/dbmigration/1.0__initial.sql",
+        "assessment": "MODIFICATION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1648620082000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_CHANGE"
+    },
+    {
+        "uniformPath": "composites/ebean-clickhouse/pom.xml",
+        "assessment": "MODIFICATION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1665707478000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_CHANGE"
+    },
+    {
+        "uniformPath": "kotlin-querybean-generator/src/main/resources/META-INF/gradle/incremental.annotation.processors",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1654734396000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/sqlite/1.2__dropsFor_1.1.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1648007191000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-ddl-generator/src/test/resources/test-dbmigration/1.1.sql",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/postgres9/R__pg_indexes.sql",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1644269020000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "composites/pom.xml",
+        "assessment": "MODIFICATION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1665707478000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_CHANGE"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/hana/1.4__dropsFor_1.3.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-core/src/main/java/io/ebeaninternal/server/persist/dml/package.html",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": "ebean-ddl-generator/src/test/resources/dbmigration/index2/g2/2.1__2b.sql",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/sqlite/R__order_views_sqlite.sql",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1644269020000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/mysql/1.0__initial.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-ddl-generator/src/test/resources/dbmigration/app3/model_smaller/v2.1__foo.model.xml",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/db2zos/idx_db2.migrations",
+        "assessment": "MODIFICATION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_CHANGE"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/contains/original-subset.json",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-ddl-generator/src/test/resources/io/ebeaninternal/dbmigration/model/6.0__renameColumn.model.xml",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-ddl-generator/src/test/resources/io/ebeaninternal/dbmigration/model/1.1.model.xml",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-ddl-generator/src/test/resources/io/ebeaninternal/dbmigration/model/3.0__rawSql.model.xml",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "platforms/mysql/src/main/resources/META-INF/services/io.ebean.config.dbplatform.DatabasePlatformProvider",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1648620082000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "querybean-generator/src/main/resources/META-INF/gradle/incremental.annotation.processors",
+        "assessment": "MODIFICATION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1654734396000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_CHANGE"
+    },
+    {
+        "uniformPath": ".github/workflows/sqlserver.yml",
+        "assessment": "MODIFICATION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1656369030000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_CHANGE"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/model/1.2__dropsFor_1.1.model.xml",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1648007191000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-externalmapping-xml/src/test/resources/logback-test.xml",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": "tests/test-java16/src/test/resources/application-test.yaml",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": "ebean-ddl-generator/src/test/resources/dbmigration/index2/I__init_1.sql",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/generic/1.3.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "composites/ebean-mariadb/pom.xml",
+        "assessment": "MODIFICATION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1665707478000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_CHANGE"
+    },
+    {
+        "uniformPath": "composites/ebean-sqlserver/pom.xml",
+        "assessment": "MODIFICATION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1665707478000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_CHANGE"
+    },
+    {
+        "uniformPath": "platforms/pom.xml",
+        "assessment": "MODIFICATION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1665707478000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_CHANGE"
+    },
+    {
+        "uniformPath": ".github/ISSUE_TEMPLATE.md",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest-history/dbmigration/R__multi_comments.sql",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1644269020000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": "ebean-core/src/main/resources/META-INF/ebean-version.mf",
+        "assessment": "MODIFICATION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1651544149000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_CHANGE"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/h2/R__multi_comments.sql",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1644269020000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "tests/test-kotlin/src/test/resources/META-INF/ebean-version.mf",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1651544149000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/mariadb/I__create_procs.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/sqlanywhere/idx_sqlanywhere.migrations",
+        "assessment": "MODIFICATION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_CHANGE"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/postgres/R__pg_indexes.sql",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1644269020000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/scripts/test-script-2.sql",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/h2/1.3.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/db2legacy/1.0__initial.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest-history/dbmigration/model/1.2__dropsFor_1.1.model.xml",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1644269020000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/hana/1.2__dropsFor_1.1.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1648007191000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/sqlanywhere/1.3.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-ddl-generator/src/test/resources/container/test-alter-table.xml",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/mariadb/1.1.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/sqlserver17/1.4__dropsFor_1.3.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/contains/array-multi-match-duplicate-props.json",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-querybean/README.md",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": "ebean-querybean/src/test/resources/application-test.properties",
+        "assessment": "MODIFICATION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1643188132000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_CHANGE"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/nuodb/1.0__initial.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/db2luw/1.1.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "platforms/h2/pom.xml",
+        "assessment": "MODIFICATION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1665707478000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_CHANGE"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/postgres/1.0__initial.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/testconfig/ebean-mariadb-10.3.properties",
+        "assessment": "MODIFICATION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1638320095000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_CHANGE"
+    },
+    {
+        "uniformPath": "ebean-core/src/main/resources/META-INF/services/io.ebean.service.SpiRawSqlService",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-autotune/src/test/resources/application-test.properties",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/model/1.1.model.xml",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/db2zos/1.4__dropsFor_1.3.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-api/src/main/java/io/ebean/common/package.html",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": "platforms/sqlite/pom.xml",
+        "assessment": "MODIFICATION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1665707478000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_CHANGE"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/sqlserver17/I__create_procs.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/nuodb/1.4__dropsFor_1.3.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/db2luw/1.0__initial.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/mariadb/1.2__dropsFor_1.1.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1648007191000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-ddl-generator/src/test/resources/mysql/procedures/mysql/1.0__initial.sql",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1642738008000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": "ebean-ddl-generator/src/test/resources/assert/changeset-pg-applyLast.sql",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": "ebean-api/src/main/java/io/ebean/bean/package.html",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": "ebean-externalmapping-xml/src/main/resources/ebean-1.0.xsd",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": "ebean-api/src/main/java/io/ebean/cache/package.html",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/oracle11/1.4__dropsFor_1.3.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/clickhouse/idx_clickhouse.migrations",
+        "assessment": "MODIFICATION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_CHANGE"
+    },
+    {
+        "uniformPath": "ebean-ddl-generator/src/test/resources/dbmigration/index2/g1/1.1__b.sql",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/postgres/1.3.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/testconfig/ebean-sqlite.properties",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1638304545000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": "ebean-test/testconfig/ebean-oracle.properties",
+        "assessment": "MODIFICATION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1643319865000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_CHANGE"
+    },
+    {
+        "uniformPath": "ebean-core/src/main/java/io/ebeaninternal/server/type/package.html",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": "ebean-ddl-generator/src/test/resources/io/ebeaninternal/dbmigration/model/1.0.model.xml",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/db2fori/1.4__dropsFor_1.3.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/sqlserver17/1.3.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-ddl-generator/src/test/resources/dbmigration/app2/v1.1__one.sql",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/db2fori/idx_db2.migrations",
+        "assessment": "MODIFICATION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_CHANGE"
+    },
+    {
+        "uniformPath": "ebean-postgis/src/test/resources/logback-test.xml",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": "ebean-redis/src/main/resources/META-INF/services/io.ebean.cache.ServerCachePlugin",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-ddl-generator/src/test/resources/io/ebeaninternal/dbmigration/model/2.0.model.xml",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/yugabyte/idx_yugabyte.migrations",
+        "assessment": "MODIFICATION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_CHANGE"
+    },
+    {
+        "uniformPath": "tests/pom.xml",
+        "assessment": "MODIFICATION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1651547275000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_CHANGE"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/test-properties/one.properties",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": ".github/workflows/postgres.yml",
+        "assessment": "MODIFICATION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1656369030000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_CHANGE"
+    },
+    {
+        "uniformPath": "ebean-postgis/src/main/resources/META-INF/services/io.ebeaninternal.api.GeoTypeProvider",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-ddl-generator/src/test/resources/dbmigration/app3/v1.0__one.sql",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": "platforms/h2/src/main/resources/META-INF/services/io.ebean.config.dbplatform.DatabasePlatformProvider",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1648620082000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/model/1.4__dropsFor_1.3.model.xml",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/contains/array-objects.json",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-ddl-generator/src/test/resources/ebean.mf",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/h2/1.2__dropsFor_1.1.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1648620082000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": ".github/workflows/jdk-18-ea.yml",
+        "assessment": "MODIFICATION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1656369030000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_CHANGE"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/mysql55/1.1.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-core/src/main/java/io/ebeaninternal/server/properties/package.html",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/db2legacy/1.3.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/sqlserver16/1.2__dropsFor_1.1.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1648007191000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/model/1.3.model.xml",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "composites/ebean-db2/pom.xml",
+        "assessment": "MODIFICATION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1665707478000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_CHANGE"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/mariadb-noprocs/1.4__dropsFor_1.3.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/postgres/R__order_views.sql",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1644269020000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-core/src/main/java/io/ebeaninternal/server/deploy/meta/package.html",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": "platforms/mysql/pom.xml",
+        "assessment": "MODIFICATION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1665707478000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_CHANGE"
+    },
+    {
+        "uniformPath": ".github/workflows/oracle.yml",
+        "assessment": "MODIFICATION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1656369030000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_CHANGE"
+    },
+    {
+        "uniformPath": "tests/test-kotlin/src/test/resources/application-test.yaml",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/contains/check-null-actual.json",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/sqlanywhere/1.1.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-ddl-generator/src/test/resources/assert/changeset-pg-apply.sql",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": ".github/workflows/mariadb.yml",
+        "assessment": "MODIFICATION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1656369030000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_CHANGE"
+    },
+    {
+        "uniformPath": "ebean-core/src/test/resources/META-INF/test/test-entity-packages.mf",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1648099308000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/oracle11/R__oracle_only_views.sql",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1644269020000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/oracle/1.3.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/sqlserver16/idx_sqlserver.migrations",
+        "assessment": "MODIFICATION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_CHANGE"
+    },
+    {
+        "uniformPath": "platforms/all/pom.xml",
+        "assessment": "MODIFICATION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1665707478000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_CHANGE"
+    },
+    {
+        "uniformPath": "platforms/db2/src/main/resources/META-INF/services/io.ebean.config.dbplatform.DatabasePlatformProvider",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1648620082000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-ddl-generator/src/test/resources/dbmigration/index/1.1__foo.sql",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/h2/1.0__initial.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/db2fori/1.3.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-core/test-dummy.properties",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": "tests/test-kotlin/src/test/resources/logback-test.xml",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/junk.json",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": "ebean-core/src/main/resources/META-INF/services/io.ebean.service.SpiFetchGroupService",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/mysql55/1.3.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/clickhouse/1.0__initial.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-core/src/main/java/io/ebeaninternal/util/package.html",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": "ebean-externalmapping-xml/src/test/resources/application-test.properties",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/mariadb-noprocs/R__order_views.sql",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1644269020000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "platforms/sqlanywhere/pom.xml",
+        "assessment": "MODIFICATION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1665707478000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_CHANGE"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/db2zos/1.0__initial.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/testconfig/ebean-db2.properties",
+        "assessment": "MODIFICATION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1648027756000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_CHANGE"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/h2/1.1.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/mysql/R__order_views.sql",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1644269020000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/sqlserver16/1.0__initial.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/oracle11/R__order_views.sql",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1644269020000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-ddl-generator/src/test/resources/io/ebeaninternal/dbmigration/model/2.1.model.xml",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/postgres9/idx_postgres.migrations",
+        "assessment": "MODIFICATION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_CHANGE"
+    },
+    {
+        "uniformPath": "ebean-ddl-generator/src/test/resources/dbmigration/index2/g1/1.0__a.sql",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/db2luw/1.3.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-ddl-generator/src/test/resources/scripts/test-script.sql",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/generic/1.2__dropsFor_1.1.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1648007191000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-core/src/main/java/io/ebeaninternal/server/grammer/antlr/EQL.interp",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": "ebean-externalmapping-xml/src/test/resources/ebean.xml",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-externalmapping-xml/src/test/resources/META-INF/ebean-version.mf",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1651544149000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": "ebean-ddl-generator/src/test/resources/dbmigration/index/I__init_1.sql",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-autotune/src/test/resources/logback-test.xml",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": "ebean-ddl-generator/src/test/resources/assert/drop-create-column-table.txt",
+        "assessment": "ADDITION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1646870444000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/sqlite/idx_sqlite.migrations",
+        "assessment": "MODIFICATION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_CHANGE"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/test-properties/application.yaml",
+        "assessment": "ADDITION_NEVER_EXECUTED",
+        "lastChangeTimestamp": 1635935644000,
+        "lastTestTimestamp": -1,
+        "state": "UNTESTED_ADDITION"
+    },
+    {
+        "uniformPath": "ebean-test/src/test/resources/migrationtest/dbmigration/sqlite/1.0__initial.sql",
+        "assessment": "MODIFICATION_TESTED_AFTER_LAST_CHANGE",
+        "lastChangeTimestamp": 1662354861000,
+        "lastTestTimestamp": 1667034823351,
+        "state": "TESTED_CHURN"
+    }
+]

@@ -1,0 +1,1474 @@
+{
+  "testing_timestamp": "1667033845424",
+  "accessed_files": [
+    {
+      "name": "PlatformConfig$DbUuid.class",
+      "path": "ebean-api/target/classes/io/ebean/config/PlatformConfig$DbUuid.class"
+    },
+    {
+      "name": "PlatformIdGenerator.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/PlatformIdGenerator.class"
+    },
+    {
+      "name": "SqlServerBasePlatform.class",
+      "path": "platforms/sqlserver/target/classes/io/ebean/platform/sqlserver/SqlServerBasePlatform.class"
+    },
+    {
+      "name": "ProfilingConfig.class",
+      "path": "ebean-api/target/classes/io/ebean/config/ProfilingConfig.class"
+    },
+    {
+      "name": "ClassLoadConfig.class",
+      "path": "ebean-api/target/classes/io/ebean/config/ClassLoadConfig.class"
+    },
+    {
+      "name": "DataIntegrityException.class",
+      "path": "ebean-api/target/classes/io/ebean/DataIntegrityException.class"
+    },
+    {
+      "name": "AutoTuneMode.class",
+      "path": "ebean-api/target/classes/io/ebean/config/AutoTuneMode.class"
+    },
+    {
+      "name": "SqlServerDbEncrypt$VarcharFunction.class",
+      "path": "platforms/sqlserver/target/classes/io/ebean/platform/sqlserver/SqlServerDbEncrypt$VarcharFunction.class"
+    },
+    {
+      "name": "DatabaseConfig.class",
+      "path": "ebean-api/target/classes/io/ebean/config/DatabaseConfig.class"
+    },
+    {
+      "name": "java.policy",
+      "path": "../../../../../usr/lib/jvm/java-17-openjdk-amd64/conf/security/java.policy"
+    },
+    {
+      "name": "SqlServerBasicSqlLimiter.class",
+      "path": "platforms/sqlserver/target/classes/io/ebean/platform/sqlserver/SqlServerBasicSqlLimiter.class"
+    },
+    {
+      "name": "ebean-maven-version.txt",
+      "path": "ebean-api/target/classes/META-INF/ebean-maven-version.txt"
+    },
+    {
+      "name": "DocStoreConfig.class",
+      "path": "ebean-api/target/classes/io/ebean/config/DocStoreConfig.class"
+    },
+    {
+      "name": "MetricNamingMatch.class",
+      "path": "ebean-api/target/classes/io/ebean/meta/MetricNamingMatch.class"
+    },
+    {
+      "name": "surefire_48395723053504298696tmp",
+      "path": "platforms/sqlserver/target/surefire/surefire_48395723053504298696tmp"
+    },
+    {
+      "name": "DataErrorType.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/DataErrorType.class"
+    },
+    {
+      "name": "SqlExceptionTranslator.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/SqlExceptionTranslator.class"
+    },
+    {
+      "name": "ClassLoadConfig$ClassLoaderContext.class",
+      "path": "ebean-api/target/classes/io/ebean/config/ClassLoadConfig$ClassLoaderContext.class"
+    },
+    {
+      "name": "AcquireLockException.class",
+      "path": "ebean-api/target/classes/io/ebean/AcquireLockException.class"
+    },
+    {
+      "name": "TenantMode.class",
+      "path": "ebean-api/target/classes/io/ebean/config/TenantMode.class"
+    },
+    {
+      "name": "AbstractDbEncrypt.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/AbstractDbEncrypt.class"
+    },
+    {
+      "name": "AutoTuneConfig.class",
+      "path": "ebean-api/target/classes/io/ebean/config/AutoTuneConfig.class"
+    },
+    {
+      "name": "DatabaseConfig$UuidVersion.class",
+      "path": "ebean-api/target/classes/io/ebean/config/DatabaseConfig$UuidVersion.class"
+    },
+    {
+      "name": "DbType.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/DbType.class"
+    },
+    {
+      "name": "DbIdentity.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/DbIdentity.class"
+    },
+    {
+      "name": "DbPlatformTypeMapping.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/DbPlatformTypeMapping.class"
+    },
+    {
+      "name": "MdcBackgroundExecutorWrapper.class",
+      "path": "ebean-api/target/classes/io/ebean/config/MdcBackgroundExecutorWrapper.class"
+    },
+    {
+      "name": "SqlCodeTranslator.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/SqlCodeTranslator.class"
+    },
+    {
+      "name": "SqlErrorCodes.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/SqlErrorCodes.class"
+    },
+    {
+      "name": "ExtraDbTypes.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/ExtraDbTypes.class"
+    },
+    {
+      "name": "NamingConvention.class",
+      "path": "ebean-api/target/classes/io/ebean/config/NamingConvention.class"
+    },
+    {
+      "name": "tzdb.dat",
+      "path": "../../../../../usr/lib/jvm/java-17-openjdk-amd64/lib/tzdb.dat"
+    },
+    {
+      "name": "DbPlatformTypeMapping$BooleanLogicalType.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/DbPlatformTypeMapping$BooleanLogicalType.class"
+    },
+    {
+      "name": "surefire18386595757628100771tmp",
+      "path": "platforms/sqlserver/target/surefire/surefire18386595757628100771tmp"
+    },
+    {
+      "name": "JsonConfig$Include.class",
+      "path": "ebean-api/target/classes/io/ebean/config/JsonConfig$Include.class"
+    },
+    {
+      "name": "AbstractNamingConvention.class",
+      "path": "ebean-api/target/classes/io/ebean/config/AbstractNamingConvention.class"
+    },
+    {
+      "name": "DbConstraintNaming.class",
+      "path": "ebean-api/target/classes/io/ebean/config/DbConstraintNaming.class"
+    },
+    {
+      "name": "SerializableConflictException.class",
+      "path": "ebean-api/target/classes/io/ebean/SerializableConflictException.class"
+    },
+    {
+      "name": "DbDefaultValue.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/DbDefaultValue.class"
+    },
+    {
+      "name": "SqlServerDbEncrypt.class",
+      "path": "platforms/sqlserver/target/classes/io/ebean/platform/sqlserver/SqlServerDbEncrypt.class"
+    },
+    {
+      "name": "JsonConfig$DateTime.class",
+      "path": "ebean-api/target/classes/io/ebean/config/JsonConfig$DateTime.class"
+    },
+    {
+      "name": "SqlServerSqlLimiter.class",
+      "path": "platforms/sqlserver/target/classes/io/ebean/platform/sqlserver/SqlServerSqlLimiter.class"
+    },
+    {
+      "name": "BackgroundExecutorWrapper.class",
+      "path": "ebean-api/target/classes/io/ebean/config/BackgroundExecutorWrapper.class"
+    },
+    {
+      "name": "DatabasePlatform.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/DatabasePlatform.class"
+    },
+    {
+      "name": "PersistenceContextScope.class",
+      "path": "ebean-api/target/classes/io/ebean/PersistenceContextScope.class"
+    },
+    {
+      "name": "IdType.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/IdType.class"
+    },
+    {
+      "name": "SqlServerHistorySupport.class",
+      "path": "platforms/sqlserver/target/classes/io/ebean/platform/sqlserver/SqlServerHistorySupport.class"
+    },
+    {
+      "name": "logging.properties",
+      "path": "../../../../../usr/lib/jvm/java-17-openjdk-amd64/conf/logging.properties"
+    },
+    {
+      "name": "SqlServerDbEncrypt$DateFunction.class",
+      "path": "platforms/sqlserver/target/classes/io/ebean/platform/sqlserver/SqlServerDbEncrypt$DateFunction.class"
+    },
+    {
+      "name": "DbPlatformTypeLookup.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/DbPlatformTypeLookup.class"
+    },
+    {
+      "name": "DbPlatformType.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/DbPlatformType.class"
+    },
+    {
+      "name": "DbEncryptFunction.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/DbEncryptFunction.class"
+    },
+    {
+      "name": "BasicSqlLimiter.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/BasicSqlLimiter.class"
+    },
+    {
+      "name": "BasicSqlLimitOffset.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/BasicSqlLimitOffset.class"
+    },
+    {
+      "name": "DuplicateKeyException.class",
+      "path": "ebean-api/target/classes/io/ebean/DuplicateKeyException.class"
+    },
+    {
+      "name": "DbHistorySupport.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/DbHistorySupport.class"
+    },
+    {
+      "name": "JsonConfig$Date.class",
+      "path": "ebean-api/target/classes/io/ebean/config/JsonConfig$Date.class"
+    },
+    {
+      "name": "LimitOffsetSqlLimiter.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/LimitOffsetSqlLimiter.class"
+    },
+    {
+      "name": "SqlServer17Platform.class",
+      "path": "platforms/sqlserver/target/classes/io/ebean/platform/sqlserver/SqlServer17Platform.class"
+    },
+    {
+      "name": "SqlLimiter.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/SqlLimiter.class"
+    },
+    {
+      "name": "default.policy",
+      "path": "../../../../../usr/lib/jvm/java-17-openjdk-amd64/lib/security/default.policy"
+    },
+    {
+      "name": "UnderscoreNamingConvention.class",
+      "path": "ebean-api/target/classes/io/ebean/config/UnderscoreNamingConvention.class"
+    },
+    {
+      "name": "DbEncrypt.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/DbEncrypt.class"
+    },
+    {
+      "name": "MatchingNamingConvention.class",
+      "path": "ebean-api/target/classes/io/ebean/config/MatchingNamingConvention.class"
+    },
+    {
+      "name": "EbeanVersion.class",
+      "path": "ebean-api/target/classes/io/ebean/EbeanVersion.class"
+    },
+    {
+      "name": "DbStandardHistorySupport.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/DbStandardHistorySupport.class"
+    },
+    {
+      "name": "DbConstraintNormalise.class",
+      "path": "ebean-api/target/classes/io/ebean/config/DbConstraintNormalise.class"
+    },
+    {
+      "name": "PlatformConfig.class",
+      "path": "ebean-api/target/classes/io/ebean/config/PlatformConfig.class"
+    },
+    {
+      "name": "SqlServerPlatformTest.class",
+      "path": "platforms/sqlserver/target/test-classes/io/ebean/platform/sqlserver/SqlServerPlatformTest.class"
+    }
+  ],
+  "accessed_resources": [
+    {
+      "resourceURL": "jrt:/java.base/java/text/spi/DateFormatSymbolsProvider.class",
+      "resourceURI": "jrt:/java.base/java/text/spi/DateFormatSymbolsProvider.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/lang/invoke/VarHandleLongs$FieldInstanceReadOnly.class",
+      "resourceURI": "jrt:/java.base/java/lang/invoke/VarHandleLongs$FieldInstanceReadOnly.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/ch/qos/logback/logback-core/1.2.11/logback-core-1.2.11.jar!/ch/qos/logback/core/status/StatusBase.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/ch/qos/logback/logback-core/1.2.11/logback-core-1.2.11.jar",
+      "absolutePath": "../../../.m2/repository/ch/qos/logback/logback-core/1.2.11/logback-core-1.2.11.jar"
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/io/ObjectInputStream$Caches.class",
+      "resourceURI": "jrt:/java.base/java/io/ObjectInputStream$Caches.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/org/apache/maven/surefire/surefire-booter/3.0.0-M4/surefire-booter-3.0.0-M4.jar!/org/apache/maven/surefire/booter/AbstractPathConfiguration.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/org/apache/maven/surefire/surefire-booter/3.0.0-M4/surefire-booter-3.0.0-M4.jar",
+      "absolutePath": "../../../.m2/repository/org/apache/maven/surefire/surefire-booter/3.0.0-M4/surefire-booter-3.0.0-M4.jar"
+    },
+    {
+      "resourceURL": "file:/home/jonas/Misc/Repos/ebean/ebean-api/target/classes/io/ebean/config/dbplatform/DbPlatformType.class",
+      "resourceURI": "file:/home/jonas/Misc/Repos/ebean/ebean-api/target/classes/io/ebean/config/dbplatform/DbPlatformType.class",
+      "absolutePath": "ebean-api/target/classes/io/ebean/config/dbplatform/DbPlatformType.class"
+    },
+    {
+      "resourceURL": "file:/home/jonas/Misc/Repos/ebean/ebean-api/target/classes/io/ebean/config/AbstractNamingConvention.class",
+      "resourceURI": "file:/home/jonas/Misc/Repos/ebean/ebean-api/target/classes/io/ebean/config/AbstractNamingConvention.class",
+      "absolutePath": "ebean-api/target/classes/io/ebean/config/AbstractNamingConvention.class"
+    },
+    {
+      "resourceURL": "file:/home/jonas/Misc/Repos/ebean/ebean-api/target/classes/io/ebean/config/dbplatform/DatabasePlatform.class",
+      "resourceURI": "file:/home/jonas/Misc/Repos/ebean/ebean-api/target/classes/io/ebean/config/dbplatform/DatabasePlatform.class",
+      "absolutePath": "ebean-api/target/classes/io/ebean/config/dbplatform/DatabasePlatform.class"
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/util/concurrent/Semaphore$Sync.class",
+      "resourceURI": "jrt:/java.base/java/util/concurrent/Semaphore$Sync.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.8.2/junit-jupiter-engine-5.8.2.jar!/org/junit/jupiter/engine/descriptor/AbstractExtensionContext.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.8.2/junit-jupiter-engine-5.8.2.jar",
+      "absolutePath": "../../../.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.8.2/junit-jupiter-engine-5.8.2.jar"
+    },
+    {
+      "resourceURL": "jrt:/java.base/jdk/internal/reflect/FieldAccessorImpl.class",
+      "resourceURI": "jrt:/java.base/jdk/internal/reflect/FieldAccessorImpl.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/lang/ref/Reference.class",
+      "resourceURI": "jrt:/java.base/java/lang/ref/Reference.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.8.2/junit-jupiter-engine-5.8.2.jar!/org/junit/jupiter/engine/descriptor/JupiterTestDescriptor.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.8.2/junit-jupiter-engine-5.8.2.jar",
+      "absolutePath": "../../../.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.8.2/junit-jupiter-engine-5.8.2.jar"
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/ch/qos/logback/logback-core/1.2.11/logback-core-1.2.11.jar!/ch/qos/logback/core/LayoutBase.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/ch/qos/logback/logback-core/1.2.11/logback-core-1.2.11.jar",
+      "absolutePath": "../../../.m2/repository/ch/qos/logback/logback-core/1.2.11/logback-core-1.2.11.jar"
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/util/regex/Pattern$CharPropertyGreedy.class",
+      "resourceURI": "jrt:/java.base/java/util/regex/Pattern$CharPropertyGreedy.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/util/stream/PipelineHelper.class",
+      "resourceURI": "jrt:/java.base/java/util/stream/PipelineHelper.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/lang/IndexOutOfBoundsException.class",
+      "resourceURI": "jrt:/java.base/java/lang/IndexOutOfBoundsException.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/sun/util/calendar/BaseCalendar.class",
+      "resourceURI": "jrt:/java.base/sun/util/calendar/BaseCalendar.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/text/DateFormat.class",
+      "resourceURI": "jrt:/java.base/java/text/DateFormat.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/util/Calendar.class",
+      "resourceURI": "jrt:/java.base/java/util/Calendar.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/util/concurrent/AbstractExecutorService.class",
+      "resourceURI": "jrt:/java.base/java/util/concurrent/AbstractExecutorService.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.8.2/junit-jupiter-engine-5.8.2.jar!/org/junit/jupiter/engine/discovery/predicates/IsTestableMethod.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.8.2/junit-jupiter-engine-5.8.2.jar",
+      "absolutePath": "../../../.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.8.2/junit-jupiter-engine-5.8.2.jar"
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/org/junit/platform/junit-platform-engine/1.8.2/junit-platform-engine-1.8.2.jar!/org/junit/platform/engine/support/hierarchical/HierarchicalTestEngine.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/org/junit/platform/junit-platform-engine/1.8.2/junit-platform-engine-1.8.2.jar",
+      "absolutePath": "../../../.m2/repository/org/junit/platform/junit-platform-engine/1.8.2/junit-platform-engine-1.8.2.jar"
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/Documents/master_thesis/file-access-log-agent/binaries/real_read_using_bytebuddy_1-12-12/FileAccessAgent_deploy.jar!/com/file_access_agent/advice/FilesNewInputStreamAdvice.class",
+      "resourceURI": "file:/home/jonas/Documents/master_thesis/file-access-log-agent/binaries/real_read_using_bytebuddy_1-12-12/FileAccessAgent_deploy.jar",
+      "absolutePath": "../../../Documents/master_thesis/file-access-log-agent/binaries/real_read_using_bytebuddy_1-12-12/FileAccessAgent_deploy.jar"
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/lang/reflect/Proxy.class",
+      "resourceURI": "jrt:/java.base/java/lang/reflect/Proxy.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/org/junit/platform/junit-platform-commons/1.8.2/junit-platform-commons-1.8.2.jar!/org/junit/platform/commons/util/PreconditionViolationException.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/org/junit/platform/junit-platform-commons/1.8.2/junit-platform-commons-1.8.2.jar",
+      "absolutePath": "../../../.m2/repository/org/junit/platform/junit-platform-commons/1.8.2/junit-platform-commons-1.8.2.jar"
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/io/ObjectInputStream$PeekInputStream.class",
+      "resourceURI": "jrt:/java.base/java/io/ObjectInputStream$PeekInputStream.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/time/ZoneId.class",
+      "resourceURI": "jrt:/java.base/java/time/ZoneId.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/lang/ClassValue.class",
+      "resourceURI": "jrt:/java.base/java/lang/ClassValue.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/io/FilterInputStream.class",
+      "resourceURI": "jrt:/java.base/java/io/FilterInputStream.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/util/Collections$UnmodifiableCollection.class",
+      "resourceURI": "jrt:/java.base/java/util/Collections$UnmodifiableCollection.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/jdk/internal/reflect/SerializationConstructorAccessorImpl.class",
+      "resourceURI": "jrt:/java.base/jdk/internal/reflect/SerializationConstructorAccessorImpl.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/util/concurrent/locks/ReentrantReadWriteLock$Sync.class",
+      "resourceURI": "jrt:/java.base/java/util/concurrent/locks/ReentrantReadWriteLock$Sync.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/ch/qos/logback/logback-core/1.2.11/logback-core-1.2.11.jar!/ch/qos/logback/core/ContextBase.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/ch/qos/logback/logback-core/1.2.11/logback-core-1.2.11.jar",
+      "absolutePath": "../../../.m2/repository/ch/qos/logback/logback-core/1.2.11/logback-core-1.2.11.jar"
+    },
+    {
+      "resourceURL": "jrt:/java.base/sun/util/locale/LocaleObjectCache.class",
+      "resourceURI": "jrt:/java.base/sun/util/locale/LocaleObjectCache.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/util/stream/FindOps$FindSink.class",
+      "resourceURI": "jrt:/java.base/java/util/stream/FindOps$FindSink.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/util/concurrent/ConcurrentHashMap$BaseIterator.class",
+      "resourceURI": "jrt:/java.base/java/util/concurrent/ConcurrentHashMap$BaseIterator.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/io/ObjectInputStream$FilterValues.class",
+      "resourceURI": "jrt:/java.base/java/io/ObjectInputStream$FilterValues.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "file:/home/jonas/Misc/Repos/ebean/platforms/sqlserver/target/classes/io/ebean/platform/sqlserver/SqlServerBasePlatform.class",
+      "resourceURI": "file:/home/jonas/Misc/Repos/ebean/platforms/sqlserver/target/classes/io/ebean/platform/sqlserver/SqlServerBasePlatform.class",
+      "absolutePath": "platforms/sqlserver/target/classes/io/ebean/platform/sqlserver/SqlServerBasePlatform.class"
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/util/regex/Pattern$Node.class",
+      "resourceURI": "jrt:/java.base/java/util/regex/Pattern$Node.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.logging/java/util/logging/LogManager$LoggerContext.class",
+      "resourceURI": "jrt:/java.logging/java/util/logging/LogManager$LoggerContext.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/org/junit/platform/junit-platform-commons/1.8.2/junit-platform-commons-1.8.2.jar!/org/junit/platform/commons/JUnitException.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/org/junit/platform/junit-platform-commons/1.8.2/junit-platform-commons-1.8.2.jar",
+      "absolutePath": "../../../.m2/repository/org/junit/platform/junit-platform-commons/1.8.2/junit-platform-commons-1.8.2.jar"
+    },
+    {
+      "resourceURL": "jrt:/java.base/jdk/internal/reflect/UnsafeQualifiedStaticFieldAccessorImpl.class",
+      "resourceURI": "jrt:/java.base/jdk/internal/reflect/UnsafeQualifiedStaticFieldAccessorImpl.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/ch/qos/logback/logback-core/1.2.11/logback-core-1.2.11.jar!/ch/qos/logback/core/pattern/Converter.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/ch/qos/logback/logback-core/1.2.11/logback-core-1.2.11.jar",
+      "absolutePath": "../../../.m2/repository/ch/qos/logback/logback-core/1.2.11/logback-core-1.2.11.jar"
+    },
+    {
+      "resourceURL": "jrt:/java.base/sun/nio/cs/Unicode.class",
+      "resourceURI": "jrt:/java.base/sun/nio/cs/Unicode.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/jdk/internal/reflect/MagicAccessorImpl.class",
+      "resourceURI": "jrt:/java.base/jdk/internal/reflect/MagicAccessorImpl.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.8.2/junit-jupiter-engine-5.8.2.jar!/org/junit/jupiter/engine/discovery/MethodSelectorResolver$MethodType.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.8.2/junit-jupiter-engine-5.8.2.jar",
+      "absolutePath": "../../../.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.8.2/junit-jupiter-engine-5.8.2.jar"
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/io/Closeable.class",
+      "resourceURI": "jrt:/java.base/java/io/Closeable.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/lang/ref/WeakReference.class",
+      "resourceURI": "jrt:/java.base/java/lang/ref/WeakReference.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/lang/Number.class",
+      "resourceURI": "jrt:/java.base/java/lang/Number.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/io/BufferedReader.class",
+      "resourceURI": "jrt:/java.base/java/io/BufferedReader.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/util/spi/LocaleServiceProvider.class",
+      "resourceURI": "jrt:/java.base/java/util/spi/LocaleServiceProvider.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/Documents/master_thesis/file-access-log-agent/binaries/real_read_using_bytebuddy_1-12-12/FileAccessAgent_deploy.jar!/com/file_access_agent/advice/InputStreamReadLogAdvice.class",
+      "resourceURI": "file:/home/jonas/Documents/master_thesis/file-access-log-agent/binaries/real_read_using_bytebuddy_1-12-12/FileAccessAgent_deploy.jar",
+      "absolutePath": "../../../Documents/master_thesis/file-access-log-agent/binaries/real_read_using_bytebuddy_1-12-12/FileAccessAgent_deploy.jar"
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/text/AttributedCharacterIterator$Attribute.class",
+      "resourceURI": "jrt:/java.base/java/text/AttributedCharacterIterator$Attribute.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/lang/String.class",
+      "resourceURI": "jrt:/java.base/java/lang/String.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/util/stream/IntPipeline.class",
+      "resourceURI": "jrt:/java.base/java/util/stream/IntPipeline.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/org/junit/platform/junit-platform-launcher/1.8.2/junit-platform-launcher-1.8.2.jar!/org/junit/platform/launcher/TestPlan.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/org/junit/platform/junit-platform-launcher/1.8.2/junit-platform-launcher-1.8.2.jar",
+      "absolutePath": "../../../.m2/repository/org/junit/platform/junit-platform-launcher/1.8.2/junit-platform-launcher-1.8.2.jar"
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/lang/ref/SoftReference.class",
+      "resourceURI": "jrt:/java.base/java/lang/ref/SoftReference.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/lang/IllegalStateException.class",
+      "resourceURI": "jrt:/java.base/java/lang/IllegalStateException.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/util/concurrent/ConcurrentHashMap$CollectionView.class",
+      "resourceURI": "jrt:/java.base/java/util/concurrent/ConcurrentHashMap$CollectionView.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/lang/RuntimeException.class",
+      "resourceURI": "jrt:/java.base/java/lang/RuntimeException.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/text/Format$Field.class",
+      "resourceURI": "jrt:/java.base/java/text/Format$Field.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/util/spi/CalendarDataProvider.class",
+      "resourceURI": "jrt:/java.base/java/util/spi/CalendarDataProvider.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/util/stream/Sink$ChainedInt.class",
+      "resourceURI": "jrt:/java.base/java/util/stream/Sink$ChainedInt.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/util/stream/ReferencePipeline.class",
+      "resourceURI": "jrt:/java.base/java/util/stream/ReferencePipeline.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/io/IOException.class",
+      "resourceURI": "jrt:/java.base/java/io/IOException.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/io/ebean/persistence-api/3.0/persistence-api-3.0.jar!/javax/persistence/PersistenceException.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/io/ebean/persistence-api/3.0/persistence-api-3.0.jar",
+      "absolutePath": "../../../.m2/repository/io/ebean/persistence-api/3.0/persistence-api-3.0.jar"
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/util/concurrent/FutureTask.class",
+      "resourceURI": "jrt:/java.base/java/util/concurrent/FutureTask.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/lang/AssertionError.class",
+      "resourceURI": "jrt:/java.base/java/lang/AssertionError.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/io/ObjectInputStream$Logging.class",
+      "resourceURI": "jrt:/java.base/java/io/ObjectInputStream$Logging.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/sun/util/spi/CalendarProvider.class",
+      "resourceURI": "jrt:/java.base/sun/util/spi/CalendarProvider.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/util/stream/ReduceOps$ReduceOp.class",
+      "resourceURI": "jrt:/java.base/java/util/stream/ReduceOps$ReduceOp.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/org/junit/platform/junit-platform-engine/1.8.2/junit-platform-engine-1.8.2.jar!/org/junit/platform/engine/support/descriptor/EngineDescriptor.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/org/junit/platform/junit-platform-engine/1.8.2/junit-platform-engine-1.8.2.jar",
+      "absolutePath": "../../../.m2/repository/org/junit/platform/junit-platform-engine/1.8.2/junit-platform-engine-1.8.2.jar"
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/org/apache/maven/surefire/surefire-api/3.0.0-M4/surefire-api-3.0.0-M4.jar!/org/apache/maven/surefire/util/CloseableIterator.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/org/apache/maven/surefire/surefire-api/3.0.0-M4/surefire-api-3.0.0-M4.jar",
+      "absolutePath": "../../../.m2/repository/org/apache/maven/surefire/surefire-api/3.0.0-M4/surefire-api-3.0.0-M4.jar"
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/ch/qos/logback/logback-core/1.2.11/logback-core-1.2.11.jar!/ch/qos/logback/core/spi/ContextAwareBase.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/ch/qos/logback/logback-core/1.2.11/logback-core-1.2.11.jar",
+      "absolutePath": "../../../.m2/repository/ch/qos/logback/logback-core/1.2.11/logback-core-1.2.11.jar"
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/lang/Throwable.class",
+      "resourceURI": "jrt:/java.base/java/lang/Throwable.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/io/ObjectInputStream$ValidationList.class",
+      "resourceURI": "jrt:/java.base/java/io/ObjectInputStream$ValidationList.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/io/FilterOutputStream.class",
+      "resourceURI": "jrt:/java.base/java/io/FilterOutputStream.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/ch/qos/logback/logback-core/1.2.11/logback-core-1.2.11.jar!/ch/qos/logback/core/UnsynchronizedAppenderBase.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/ch/qos/logback/logback-core/1.2.11/logback-core-1.2.11.jar",
+      "absolutePath": "../../../.m2/repository/ch/qos/logback/logback-core/1.2.11/logback-core-1.2.11.jar"
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/util/ListResourceBundle.class",
+      "resourceURI": "jrt:/java.base/java/util/ListResourceBundle.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/util/TimeZone.class",
+      "resourceURI": "jrt:/java.base/java/util/TimeZone.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/util/concurrent/CopyOnWriteArrayList.class",
+      "resourceURI": "jrt:/java.base/java/util/concurrent/CopyOnWriteArrayList.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/util/ResourceBundle.class",
+      "resourceURI": "jrt:/java.base/java/util/ResourceBundle.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/util/Date.class",
+      "resourceURI": "jrt:/java.base/java/util/Date.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/util/stream/ReferencePipeline$StatefulOp.class",
+      "resourceURI": "jrt:/java.base/java/util/stream/ReferencePipeline$StatefulOp.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "file:/home/jonas/Misc/Repos/ebean/ebean-api/target/classes/META-INF/ebean-maven-version.txt",
+      "resourceURI": "file:/home/jonas/Misc/Repos/ebean/ebean-api/target/classes/META-INF/ebean-maven-version.txt",
+      "absolutePath": "ebean-api/target/classes/META-INF/ebean-maven-version.txt"
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/ch/qos/logback/logback-core/1.2.11/logback-core-1.2.11.jar!/ch/qos/logback/core/pattern/DynamicConverter.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/ch/qos/logback/logback-core/1.2.11/logback-core-1.2.11.jar",
+      "absolutePath": "../../../.m2/repository/ch/qos/logback/logback-core/1.2.11/logback-core-1.2.11.jar"
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/lang/Boolean.class",
+      "resourceURI": "jrt:/java.base/java/lang/Boolean.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/security/Policy.class",
+      "resourceURI": "jrt:/java.base/java/security/Policy.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.8.2/junit-jupiter-engine-5.8.2.jar!/org/junit/jupiter/engine/descriptor/MethodBasedTestDescriptor.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.8.2/junit-jupiter-engine-5.8.2.jar",
+      "absolutePath": "../../../.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.8.2/junit-jupiter-engine-5.8.2.jar"
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/util/ResourceBundle$Control.class",
+      "resourceURI": "jrt:/java.base/java/util/ResourceBundle$Control.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "file:/home/jonas/Misc/Repos/ebean/ebean-api/target/classes/io/ebean/config/dbplatform/DbStandardHistorySupport.class",
+      "resourceURI": "file:/home/jonas/Misc/Repos/ebean/ebean-api/target/classes/io/ebean/config/dbplatform/DbStandardHistorySupport.class",
+      "absolutePath": "ebean-api/target/classes/io/ebean/config/dbplatform/DbStandardHistorySupport.class"
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/lang/invoke/DelegatingMethodHandle.class",
+      "resourceURI": "jrt:/java.base/java/lang/invoke/DelegatingMethodHandle.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/util/ResourceBundle$SingleFormatControl.class",
+      "resourceURI": "jrt:/java.base/java/util/ResourceBundle$SingleFormatControl.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/util/AbstractQueue.class",
+      "resourceURI": "jrt:/java.base/java/util/AbstractQueue.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/io/OutputStream.class",
+      "resourceURI": "jrt:/java.base/java/io/OutputStream.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/ch/qos/logback/logback-core/1.2.11/logback-core-1.2.11.jar!/ch/qos/logback/core/encoder/EncoderBase.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/ch/qos/logback/logback-core/1.2.11/logback-core-1.2.11.jar",
+      "absolutePath": "../../../.m2/repository/ch/qos/logback/logback-core/1.2.11/logback-core-1.2.11.jar"
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/text/NumberFormat.class",
+      "resourceURI": "jrt:/java.base/java/text/NumberFormat.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/security/PermissionCollection.class",
+      "resourceURI": "jrt:/java.base/java/security/PermissionCollection.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/jdk/internal/reflect/UnsafeStaticFieldAccessorImpl.class",
+      "resourceURI": "jrt:/java.base/jdk/internal/reflect/UnsafeStaticFieldAccessorImpl.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/io/ObjectInputFilter.class",
+      "resourceURI": "jrt:/java.base/java/io/ObjectInputFilter.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/sun/util/calendar/AbstractCalendar.class",
+      "resourceURI": "jrt:/java.base/sun/util/calendar/AbstractCalendar.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/ch/qos/logback/logback-core/1.2.11/logback-core-1.2.11.jar!/ch/qos/logback/core/OutputStreamAppender.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/ch/qos/logback/logback-core/1.2.11/logback-core-1.2.11.jar",
+      "absolutePath": "../../../.m2/repository/ch/qos/logback/logback-core/1.2.11/logback-core-1.2.11.jar"
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.8.2/junit-jupiter-engine-5.8.2.jar!/org/junit/jupiter/engine/discovery/AbstractOrderingVisitor.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.8.2/junit-jupiter-engine-5.8.2.jar",
+      "absolutePath": "../../../.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.8.2/junit-jupiter-engine-5.8.2.jar"
+    },
+    {
+      "resourceURL": "jrt:/java.base/jdk/internal/reflect/ConstructorAccessorImpl.class",
+      "resourceURI": "jrt:/java.base/jdk/internal/reflect/ConstructorAccessorImpl.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/io/ObjectInputStream$BlockDataInputStream.class",
+      "resourceURI": "jrt:/java.base/java/io/ObjectInputStream$BlockDataInputStream.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.8.2/junit-jupiter-api-5.8.2.jar!/org/junit/jupiter/api/DisplayNameGenerator$Standard.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.8.2/junit-jupiter-api-5.8.2.jar",
+      "absolutePath": "../../../.m2/repository/org/junit/jupiter/junit-jupiter-api/5.8.2/junit-jupiter-api-5.8.2.jar"
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/io/ObjectStreamClass.class",
+      "resourceURI": "jrt:/java.base/java/io/ObjectStreamClass.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/lang/invoke/VarHandle.class",
+      "resourceURI": "jrt:/java.base/java/lang/invoke/VarHandle.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/lang/invoke/VarHandleReferences$FieldInstanceReadOnly.class",
+      "resourceURI": "jrt:/java.base/java/lang/invoke/VarHandleReferences$FieldInstanceReadOnly.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/lang/invoke/DirectMethodHandle.class",
+      "resourceURI": "jrt:/java.base/java/lang/invoke/DirectMethodHandle.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/sun/util/calendar/CalendarDate.class",
+      "resourceURI": "jrt:/java.base/sun/util/calendar/CalendarDate.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/lang/Thread.class",
+      "resourceURI": "jrt:/java.base/java/lang/Thread.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/util/concurrent/locks/AbstractOwnableSynchronizer.class",
+      "resourceURI": "jrt:/java.base/java/util/concurrent/locks/AbstractOwnableSynchronizer.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/time/DateTimeException.class",
+      "resourceURI": "jrt:/java.base/java/time/DateTimeException.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/util/regex/Pattern$CharProperty.class",
+      "resourceURI": "jrt:/java.base/java/util/regex/Pattern$CharProperty.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/jdk/internal/loader/Resource.class",
+      "resourceURI": "jrt:/java.base/jdk/internal/loader/Resource.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/io/ObjectInputStream$FieldValues.class",
+      "resourceURI": "jrt:/java.base/java/io/ObjectInputStream$FieldValues.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/io/ebean/persistence-api/3.0/persistence-api-3.0.jar!/javax/persistence/PessimisticLockException.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/io/ebean/persistence-api/3.0/persistence-api-3.0.jar",
+      "absolutePath": "../../../.m2/repository/io/ebean/persistence-api/3.0/persistence-api-3.0.jar"
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/util/regex/Pattern$Start.class",
+      "resourceURI": "jrt:/java.base/java/util/regex/Pattern$Start.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/sun/util/locale/provider/JRELocaleProviderAdapter.class",
+      "resourceURI": "jrt:/java.base/sun/util/locale/provider/JRELocaleProviderAdapter.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/util/stream/AbstractSpinedBuffer.class",
+      "resourceURI": "jrt:/java.base/java/util/stream/AbstractSpinedBuffer.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/lang/Exception.class",
+      "resourceURI": "jrt:/java.base/java/lang/Exception.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/time/Clock.class",
+      "resourceURI": "jrt:/java.base/java/time/Clock.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/io/ObjectStreamConstants.class",
+      "resourceURI": "jrt:/java.base/java/io/ObjectStreamConstants.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/io/ClassCache.class",
+      "resourceURI": "jrt:/java.base/java/io/ClassCache.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/nio/ByteBuffer.class",
+      "resourceURI": "jrt:/java.base/java/nio/ByteBuffer.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.management/sun/management/NotificationEmitterSupport.class",
+      "resourceURI": "jrt:/java.management/sun/management/NotificationEmitterSupport.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/util/stream/Sink$ChainedReference.class",
+      "resourceURI": "jrt:/java.base/java/util/stream/Sink$ChainedReference.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/util/concurrent/locks/ReentrantLock$Sync.class",
+      "resourceURI": "jrt:/java.base/java/util/concurrent/locks/ReentrantLock$Sync.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/io/InputStream.class",
+      "resourceURI": "jrt:/java.base/java/io/InputStream.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/org/apache/maven/surefire/surefire-api/3.0.0-M4/surefire-api-3.0.0-M4.jar!/org/apache/maven/surefire/shade/api/org/apache/commons/codec/binary/BaseNCodec.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/org/apache/maven/surefire/surefire-api/3.0.0-M4/surefire-api-3.0.0-M4.jar",
+      "absolutePath": "../../../.m2/repository/org/apache/maven/surefire/surefire-api/3.0.0-M4/surefire-api-3.0.0-M4.jar"
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/util/stream/Streams$ConcatSpliterator.class",
+      "resourceURI": "jrt:/java.base/java/util/stream/Streams$ConcatSpliterator.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/sun/util/calendar/CalendarSystem.class",
+      "resourceURI": "jrt:/java.base/sun/util/calendar/CalendarSystem.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/lang/ClassLoader.class",
+      "resourceURI": "jrt:/java.base/java/lang/ClassLoader.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/org/junit/platform/junit-platform-engine/1.8.2/junit-platform-engine-1.8.2.jar!/org/junit/platform/engine/support/descriptor/AbstractTestDescriptor.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/org/junit/platform/junit-platform-engine/1.8.2/junit-platform-engine-1.8.2.jar",
+      "absolutePath": "../../../.m2/repository/org/junit/platform/junit-platform-engine/1.8.2/junit-platform-engine-1.8.2.jar"
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/util/stream/Streams$AbstractStreamBuilderImpl.class",
+      "resourceURI": "jrt:/java.base/java/util/stream/Streams$AbstractStreamBuilderImpl.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/lang/System$LoggerFinder.class",
+      "resourceURI": "jrt:/java.base/java/lang/System$LoggerFinder.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/util/IdentityHashMap$IdentityHashMapIterator.class",
+      "resourceURI": "jrt:/java.base/java/util/IdentityHashMap$IdentityHashMapIterator.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/org/apache/maven/surefire/surefire-api/3.0.0-M4/surefire-api-3.0.0-M4.jar!/org/apache/maven/surefire/providerapi/AbstractProvider.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/org/apache/maven/surefire/surefire-api/3.0.0-M4/surefire-api-3.0.0-M4.jar",
+      "absolutePath": "../../../.m2/repository/org/apache/maven/surefire/surefire-api/3.0.0-M4/surefire-api-3.0.0-M4.jar"
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.8.2/junit-jupiter-engine-5.8.2.jar!/org/junit/jupiter/engine/descriptor/ClassBasedTestDescriptor.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.8.2/junit-jupiter-engine-5.8.2.jar",
+      "absolutePath": "../../../.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.8.2/junit-jupiter-engine-5.8.2.jar"
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/util/stream/AbstractPipeline.class",
+      "resourceURI": "jrt:/java.base/java/util/stream/AbstractPipeline.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/io/Writer.class",
+      "resourceURI": "jrt:/java.base/java/io/Writer.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/security/SecureClassLoader.class",
+      "resourceURI": "jrt:/java.base/java/security/SecureClassLoader.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/lang/ThreadLocal.class",
+      "resourceURI": "jrt:/java.base/java/lang/ThreadLocal.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/org/apache/maven/surefire/surefire-booter/3.0.0-M4/surefire-booter-3.0.0-M4.jar!/org/apache/maven/surefire/booter/PpidChecker$ProcessInfoConsumer.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/org/apache/maven/surefire/surefire-booter/3.0.0-M4/surefire-booter-3.0.0-M4.jar",
+      "absolutePath": "../../../.m2/repository/org/apache/maven/surefire/surefire-booter/3.0.0-M4/surefire-booter-3.0.0-M4.jar"
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/lang/Enum.class",
+      "resourceURI": "jrt:/java.base/java/lang/Enum.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/io/ObjectInputStream$GetField.class",
+      "resourceURI": "jrt:/java.base/java/io/ObjectInputStream$GetField.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "file:/home/jonas/Misc/Repos/ebean/ebean-api/target/classes/io/ebean/config/dbplatform/AbstractDbEncrypt.class",
+      "resourceURI": "file:/home/jonas/Misc/Repos/ebean/ebean-api/target/classes/io/ebean/config/dbplatform/AbstractDbEncrypt.class",
+      "absolutePath": "ebean-api/target/classes/io/ebean/config/dbplatform/AbstractDbEncrypt.class"
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/org/junit/platform/junit-platform-engine/1.8.2/junit-platform-engine-1.8.2.jar!/org/junit/platform/engine/support/hierarchical/ThrowableCollector.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/org/junit/platform/junit-platform-engine/1.8.2/junit-platform-engine-1.8.2.jar",
+      "absolutePath": "../../../.m2/repository/org/junit/platform/junit-platform-engine/1.8.2/junit-platform-engine-1.8.2.jar"
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/lang/invoke/MethodHandle.class",
+      "resourceURI": "jrt:/java.base/java/lang/invoke/MethodHandle.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/ch/qos/logback/logback-classic/1.2.11/logback-classic-1.2.11.jar!/ch/qos/logback/classic/pattern/ClassicConverter.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/ch/qos/logback/logback-classic/1.2.11/logback-classic-1.2.11.jar",
+      "absolutePath": "../../../.m2/repository/ch/qos/logback/logback-classic/1.2.11/logback-classic-1.2.11.jar"
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/util/stream/SortedOps$AbstractRefSortingSink.class",
+      "resourceURI": "jrt:/java.base/java/util/stream/SortedOps$AbstractRefSortingSink.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/io/PrintStream.class",
+      "resourceURI": "jrt:/java.base/java/io/PrintStream.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/lang/invoke/BoundMethodHandle.class",
+      "resourceURI": "jrt:/java.base/java/lang/invoke/BoundMethodHandle.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/org/junit/platform/junit-platform-commons/1.8.2/junit-platform-commons-1.8.2.jar!/org/junit/platform/commons/function/Try.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/org/junit/platform/junit-platform-commons/1.8.2/junit-platform-commons-1.8.2.jar",
+      "absolutePath": "../../../.m2/repository/org/junit/platform/junit-platform-commons/1.8.2/junit-platform-commons-1.8.2.jar"
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/util/Collections$SynchronizedCollection.class",
+      "resourceURI": "jrt:/java.base/java/util/Collections$SynchronizedCollection.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.8.2/junit-jupiter-engine-5.8.2.jar!/org/junit/jupiter/engine/discovery/AbstractAnnotatedDescriptorWrapper.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.8.2/junit-jupiter-engine-5.8.2.jar",
+      "absolutePath": "../../../.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.8.2/junit-jupiter-engine-5.8.2.jar"
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/util/regex/Pattern$SliceNode.class",
+      "resourceURI": "jrt:/java.base/java/util/regex/Pattern$SliceNode.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.logging/java/util/logging/Logger.class",
+      "resourceURI": "jrt:/java.logging/java/util/logging/Logger.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/nio/charset/Charset.class",
+      "resourceURI": "jrt:/java.base/java/nio/charset/Charset.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/security/GeneralSecurityException.class",
+      "resourceURI": "jrt:/java.base/java/security/GeneralSecurityException.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.management/sun/management/spi/PlatformMBeanProvider.class",
+      "resourceURI": "jrt:/java.management/sun/management/spi/PlatformMBeanProvider.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/util/AbstractMap.class",
+      "resourceURI": "jrt:/java.base/java/util/AbstractMap.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/jdk/internal/reflect/UnsafeFieldAccessorImpl.class",
+      "resourceURI": "jrt:/java.base/jdk/internal/reflect/UnsafeFieldAccessorImpl.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/util/AbstractCollection.class",
+      "resourceURI": "jrt:/java.base/java/util/AbstractCollection.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/sun/util/locale/provider/LocaleProviderAdapter.class",
+      "resourceURI": "jrt:/java.base/sun/util/locale/provider/LocaleProviderAdapter.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/net/URLClassLoader.class",
+      "resourceURI": "jrt:/java.base/java/net/URLClassLoader.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar!/org/opentest4j/IncompleteExecutionException.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar",
+      "absolutePath": "../../../.m2/repository/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar"
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/security/Permission.class",
+      "resourceURI": "jrt:/java.base/java/security/Permission.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/util/zip/CRC32.class",
+      "resourceURI": "jrt:/java.base/java/util/zip/CRC32.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/util/concurrent/ConcurrentHashMap$Traverser.class",
+      "resourceURI": "jrt:/java.base/java/util/concurrent/ConcurrentHashMap$Traverser.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/io/ObjectInputValidation.class",
+      "resourceURI": "jrt:/java.base/java/io/ObjectInputValidation.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/text/spi/NumberFormatProvider.class",
+      "resourceURI": "jrt:/java.base/java/text/spi/NumberFormatProvider.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "file:/home/jonas/Misc/Repos/ebean/ebean-api/target/classes/io/ebean/DataIntegrityException.class",
+      "resourceURI": "file:/home/jonas/Misc/Repos/ebean/ebean-api/target/classes/io/ebean/DataIntegrityException.class",
+      "absolutePath": "ebean-api/target/classes/io/ebean/DataIntegrityException.class"
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/security/BasicPermission.class",
+      "resourceURI": "jrt:/java.base/java/security/BasicPermission.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/util/stream/MatchOps$BooleanTerminalSink.class",
+      "resourceURI": "jrt:/java.base/java/util/stream/MatchOps$BooleanTerminalSink.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/util/stream/StreamSpliterators$AbstractWrappingSpliterator.class",
+      "resourceURI": "jrt:/java.base/java/util/stream/StreamSpliterators$AbstractWrappingSpliterator.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/lang/CharacterData.class",
+      "resourceURI": "jrt:/java.base/java/lang/CharacterData.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/lang/Class.class",
+      "resourceURI": "jrt:/java.base/java/lang/Class.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/ch/qos/logback/logback-classic/1.2.11/logback-classic-1.2.11.jar!/ch/qos/logback/classic/pattern/ThrowableHandlingConverter.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/ch/qos/logback/logback-classic/1.2.11/logback-classic-1.2.11.jar",
+      "absolutePath": "../../../.m2/repository/ch/qos/logback/logback-classic/1.2.11/logback-classic-1.2.11.jar"
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/io/ObjectInputStream$HandleTable.class",
+      "resourceURI": "jrt:/java.base/java/io/ObjectInputStream$HandleTable.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/org/junit/platform/junit-platform-launcher/1.8.2/junit-platform-launcher-1.8.2.jar!/org/junit/platform/launcher/core/DelegatingEngineExecutionListener.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/org/junit/platform/junit-platform-launcher/1.8.2/junit-platform-launcher-1.8.2.jar",
+      "absolutePath": "../../../.m2/repository/org/junit/platform/junit-platform-launcher/1.8.2/junit-platform-launcher-1.8.2.jar"
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/nio/channels/ReadableByteChannel.class",
+      "resourceURI": "jrt:/java.base/java/nio/channels/ReadableByteChannel.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/util/stream/IntPipeline$StatelessOp.class",
+      "resourceURI": "jrt:/java.base/java/util/stream/IntPipeline$StatelessOp.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/ch/qos/logback/logback-core/1.2.11/logback-core-1.2.11.jar!/ch/qos/logback/core/pattern/FormattingConverter.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/ch/qos/logback/logback-core/1.2.11/logback-core-1.2.11.jar",
+      "absolutePath": "../../../.m2/repository/ch/qos/logback/logback-core/1.2.11/logback-core-1.2.11.jar"
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/Documents/master_thesis/file-access-log-agent/binaries/real_read_using_bytebuddy_1-12-12/FileAccessAgent_deploy.jar!/com/file_access_agent/advice/ImageIOLogReadURLAdvice.class",
+      "resourceURI": "file:/home/jonas/Documents/master_thesis/file-access-log-agent/binaries/real_read_using_bytebuddy_1-12-12/FileAccessAgent_deploy.jar",
+      "absolutePath": "../../../Documents/master_thesis/file-access-log-agent/binaries/real_read_using_bytebuddy_1-12-12/FileAccessAgent_deploy.jar"
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/io/Externalizable.class",
+      "resourceURI": "jrt:/java.base/java/io/Externalizable.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/util/concurrent/ThreadPoolExecutor.class",
+      "resourceURI": "jrt:/java.base/java/util/concurrent/ThreadPoolExecutor.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/util/Collections$UnmodifiableList.class",
+      "resourceURI": "jrt:/java.base/java/util/Collections$UnmodifiableList.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/util/concurrent/ForkJoinTask.class",
+      "resourceURI": "jrt:/java.base/java/util/concurrent/ForkJoinTask.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/util/HashMap$HashMapSpliterator.class",
+      "resourceURI": "jrt:/java.base/java/util/HashMap$HashMapSpliterator.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/lang/SecurityException.class",
+      "resourceURI": "jrt:/java.base/java/lang/SecurityException.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/sun/util/calendar/BaseCalendar$Date.class",
+      "resourceURI": "jrt:/java.base/sun/util/calendar/BaseCalendar$Date.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/io/ebean/persistence-api/3.0/persistence-api-3.0.jar!/javax/persistence/OptimisticLockException.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/io/ebean/persistence-api/3.0/persistence-api-3.0.jar",
+      "absolutePath": "../../../.m2/repository/io/ebean/persistence-api/3.0/persistence-api-3.0.jar"
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/io/DataInput.class",
+      "resourceURI": "jrt:/java.base/java/io/DataInput.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/io/OutputStreamWriter.class",
+      "resourceURI": "jrt:/java.base/java/io/OutputStreamWriter.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/Documents/master_thesis/file-access-log-agent/binaries/real_read_using_bytebuddy_1-12-12/FileAccessAgent_deploy.jar!/com/file_access_agent/advice/ImageInputStreamCreatedFileLogAdvice.class",
+      "resourceURI": "file:/home/jonas/Documents/master_thesis/file-access-log-agent/binaries/real_read_using_bytebuddy_1-12-12/FileAccessAgent_deploy.jar",
+      "absolutePath": "../../../Documents/master_thesis/file-access-log-agent/binaries/real_read_using_bytebuddy_1-12-12/FileAccessAgent_deploy.jar"
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/lang/Error.class",
+      "resourceURI": "jrt:/java.base/java/lang/Error.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/lang/invoke/VarHandleInts$FieldStaticReadOnly.class",
+      "resourceURI": "jrt:/java.base/java/lang/invoke/VarHandleInts$FieldStaticReadOnly.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/io/Reader.class",
+      "resourceURI": "jrt:/java.base/java/io/Reader.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/text/FieldPosition.class",
+      "resourceURI": "jrt:/java.base/java/text/FieldPosition.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/sun/util/locale/provider/CalendarDataProviderImpl.class",
+      "resourceURI": "jrt:/java.base/sun/util/locale/provider/CalendarDataProviderImpl.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.8.2/junit-jupiter-api-5.8.2.jar!/org/junit/jupiter/api/DisplayNameGenerator$Simple.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.8.2/junit-jupiter-api-5.8.2.jar",
+      "absolutePath": "../../../.m2/repository/org/junit/jupiter/junit-jupiter-api/5.8.2/junit-jupiter-api-5.8.2.jar"
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/text/Format.class",
+      "resourceURI": "jrt:/java.base/java/text/Format.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/io/ObjectInput.class",
+      "resourceURI": "jrt:/java.base/java/io/ObjectInput.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/text/spi/DecimalFormatSymbolsProvider.class",
+      "resourceURI": "jrt:/java.base/java/text/spi/DecimalFormatSymbolsProvider.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/util/concurrent/locks/AbstractQueuedSynchronizer.class",
+      "resourceURI": "jrt:/java.base/java/util/concurrent/locks/AbstractQueuedSynchronizer.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/lang/AutoCloseable.class",
+      "resourceURI": "jrt:/java.base/java/lang/AutoCloseable.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/util/concurrent/locks/AbstractQueuedSynchronizer$Node.class",
+      "resourceURI": "jrt:/java.base/java/util/concurrent/locks/AbstractQueuedSynchronizer$Node.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/jdk/internal/logger/DefaultLoggerFinder.class",
+      "resourceURI": "jrt:/java.base/jdk/internal/logger/DefaultLoggerFinder.class",
+      "absolutePath": null
+    }
+  ],
+  "accessed_jar_entries": [
+    {
+      "jar_entry": "ch/qos/logback/core/status/StatusBase.class"
+    },
+    {
+      "jar_entry": "org/apache/maven/surefire/booter/AbstractPathConfiguration.class"
+    },
+    {
+      "jar_entry": "org/junit/jupiter/engine/descriptor/AbstractExtensionContext.class"
+    },
+    {
+      "jar_entry": "org/junit/jupiter/engine/descriptor/JupiterTestDescriptor.class"
+    },
+    {
+      "jar_entry": "ch/qos/logback/core/LayoutBase.class"
+    },
+    {
+      "jar_entry": "org/junit/jupiter/engine/discovery/predicates/IsTestableMethod.class"
+    },
+    {
+      "jar_entry": "org/junit/platform/engine/support/hierarchical/HierarchicalTestEngine.class"
+    },
+    {
+      "jar_entry": "com/file_access_agent/advice/FilesNewInputStreamAdvice.class"
+    },
+    {
+      "jar_entry": "org/junit/platform/commons/util/PreconditionViolationException.class"
+    },
+    {
+      "jar_entry": "ch/qos/logback/core/ContextBase.class"
+    },
+    {
+      "jar_entry": "org/junit/platform/commons/JUnitException.class"
+    },
+    {
+      "jar_entry": "ch/qos/logback/core/pattern/Converter.class"
+    },
+    {
+      "jar_entry": "org/junit/jupiter/engine/discovery/MethodSelectorResolver$MethodType.class"
+    },
+    {
+      "jar_entry": "com/file_access_agent/advice/InputStreamReadLogAdvice.class"
+    },
+    {
+      "jar_entry": "org/junit/platform/launcher/TestPlan.class"
+    },
+    {
+      "jar_entry": "javax/persistence/PersistenceException.class"
+    },
+    {
+      "jar_entry": "org/junit/platform/engine/support/descriptor/EngineDescriptor.class"
+    },
+    {
+      "jar_entry": "org/apache/maven/surefire/util/CloseableIterator.class"
+    },
+    {
+      "jar_entry": "ch/qos/logback/core/spi/ContextAwareBase.class"
+    },
+    {
+      "jar_entry": "ch/qos/logback/core/UnsynchronizedAppenderBase.class"
+    },
+    {
+      "jar_entry": "ch/qos/logback/core/pattern/DynamicConverter.class"
+    },
+    {
+      "jar_entry": "org/junit/jupiter/engine/descriptor/MethodBasedTestDescriptor.class"
+    },
+    {
+      "jar_entry": "ch/qos/logback/core/encoder/EncoderBase.class"
+    },
+    {
+      "jar_entry": "ch/qos/logback/core/OutputStreamAppender.class"
+    },
+    {
+      "jar_entry": "org/junit/jupiter/engine/discovery/AbstractOrderingVisitor.class"
+    },
+    {
+      "jar_entry": "org/junit/jupiter/api/DisplayNameGenerator$Standard.class"
+    },
+    {
+      "jar_entry": "javax/persistence/PessimisticLockException.class"
+    },
+    {
+      "jar_entry": "org/apache/maven/surefire/shade/api/org/apache/commons/codec/binary/BaseNCodec.class"
+    },
+    {
+      "jar_entry": "org/junit/platform/engine/support/descriptor/AbstractTestDescriptor.class"
+    },
+    {
+      "jar_entry": "org/apache/maven/surefire/providerapi/AbstractProvider.class"
+    },
+    {
+      "jar_entry": "org/junit/jupiter/engine/descriptor/ClassBasedTestDescriptor.class"
+    },
+    {
+      "jar_entry": "org/apache/maven/surefire/booter/PpidChecker$ProcessInfoConsumer.class"
+    },
+    {
+      "jar_entry": "org/junit/platform/engine/support/hierarchical/ThrowableCollector.class"
+    },
+    {
+      "jar_entry": "ch/qos/logback/classic/pattern/ClassicConverter.class"
+    },
+    {
+      "jar_entry": "org/junit/platform/commons/function/Try.class"
+    },
+    {
+      "jar_entry": "org/junit/jupiter/engine/discovery/AbstractAnnotatedDescriptorWrapper.class"
+    },
+    {
+      "jar_entry": "org/opentest4j/IncompleteExecutionException.class"
+    },
+    {
+      "jar_entry": "ch/qos/logback/classic/pattern/ThrowableHandlingConverter.class"
+    },
+    {
+      "jar_entry": "org/junit/platform/launcher/core/DelegatingEngineExecutionListener.class"
+    },
+    {
+      "jar_entry": "ch/qos/logback/core/pattern/FormattingConverter.class"
+    },
+    {
+      "jar_entry": "com/file_access_agent/advice/ImageIOLogReadURLAdvice.class"
+    },
+    {
+      "jar_entry": "javax/persistence/OptimisticLockException.class"
+    },
+    {
+      "jar_entry": "com/file_access_agent/advice/ImageInputStreamCreatedFileLogAdvice.class"
+    },
+    {
+      "jar_entry": "org/junit/jupiter/api/DisplayNameGenerator$Simple.class"
+    },
+    null
+  ],
+  "record_debug_info": []
+}

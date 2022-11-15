@@ -1,0 +1,244 @@
+{
+  "testing_timestamp": "1666882593939",
+  "accessed_files": [
+    {
+      "name": "PlatformConfig$DbUuid.class",
+      "path": "ebean-api/target/classes/io/ebean/config/PlatformConfig$DbUuid.class"
+    },
+    {
+      "name": "PostgresDbEncrypt.class",
+      "path": "platforms/postgres/target/classes/io/ebean/platform/postgres/PostgresDbEncrypt.class"
+    },
+    {
+      "name": "PlatformIdGenerator.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/PlatformIdGenerator.class"
+    },
+    {
+      "name": "Query$LockWait.class",
+      "path": "ebean-api/target/classes/io/ebean/Query$LockWait.class"
+    },
+    {
+      "name": "surefire2722316097761881435tmp",
+      "path": "platforms/postgres/target/surefire/surefire2722316097761881435tmp"
+    },
+    {
+      "name": "DataIntegrityException.class",
+      "path": "ebean-api/target/classes/io/ebean/DataIntegrityException.class"
+    },
+    {
+      "name": "java.policy",
+      "path": "../../../../../usr/lib/jvm/java-17-openjdk-amd64/conf/security/java.policy"
+    },
+    {
+      "name": "ebean-maven-version.txt",
+      "path": "ebean-api/target/classes/META-INF/ebean-maven-version.txt"
+    },
+    {
+      "name": "PostgresDbEncrypt$PgVarcharFunction.class",
+      "path": "platforms/postgres/target/classes/io/ebean/platform/postgres/PostgresDbEncrypt$PgVarcharFunction.class"
+    },
+    {
+      "name": "DataErrorType.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/DataErrorType.class"
+    },
+    {
+      "name": "SqlExceptionTranslator.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/SqlExceptionTranslator.class"
+    },
+    {
+      "name": "AcquireLockException.class",
+      "path": "ebean-api/target/classes/io/ebean/AcquireLockException.class"
+    },
+    {
+      "name": "AbstractDbEncrypt.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/AbstractDbEncrypt.class"
+    },
+    {
+      "name": "DbType.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/DbType.class"
+    },
+    {
+      "name": "DbIdentity.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/DbIdentity.class"
+    },
+    {
+      "name": "DbPlatformTypeMapping.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/DbPlatformTypeMapping.class"
+    },
+    {
+      "name": "Query$LockType.class",
+      "path": "ebean-api/target/classes/io/ebean/Query$LockType.class"
+    },
+    {
+      "name": "SqlCodeTranslator.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/SqlCodeTranslator.class"
+    },
+    {
+      "name": "SqlErrorCodes.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/SqlErrorCodes.class"
+    },
+    {
+      "name": "PostgresPlatform.class",
+      "path": "platforms/postgres/target/classes/io/ebean/platform/postgres/PostgresPlatform.class"
+    },
+    {
+      "name": "ExtraDbTypes.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/ExtraDbTypes.class"
+    },
+    {
+      "name": "tzdb.dat",
+      "path": "../../../../../usr/lib/jvm/java-17-openjdk-amd64/lib/tzdb.dat"
+    },
+    {
+      "name": "DbPlatformTypeMapping$BooleanLogicalType.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/DbPlatformTypeMapping$BooleanLogicalType.class"
+    },
+    {
+      "name": "DbPlatformTypeParser.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/DbPlatformTypeParser.class"
+    },
+    {
+      "name": "DbConstraintNaming.class",
+      "path": "ebean-api/target/classes/io/ebean/config/DbConstraintNaming.class"
+    },
+    {
+      "name": "SerializableConflictException.class",
+      "path": "ebean-api/target/classes/io/ebean/SerializableConflictException.class"
+    },
+    {
+      "name": "surefire_36333209795841008688tmp",
+      "path": "platforms/postgres/target/surefire/surefire_36333209795841008688tmp"
+    },
+    {
+      "name": "DbDefaultValue.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/DbDefaultValue.class"
+    },
+    {
+      "name": "CustomDbTypeMapping.class",
+      "path": "ebean-api/target/classes/io/ebean/config/CustomDbTypeMapping.class"
+    },
+    {
+      "name": "DatabasePlatform.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/DatabasePlatform.class"
+    },
+    {
+      "name": "IdType.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/IdType.class"
+    },
+    {
+      "name": "logging.properties",
+      "path": "../../../../../usr/lib/jvm/java-17-openjdk-amd64/conf/logging.properties"
+    },
+    {
+      "name": "DbPlatformTypeLookup.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/DbPlatformTypeLookup.class"
+    },
+    {
+      "name": "DbViewHistorySupport.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/DbViewHistorySupport.class"
+    },
+    {
+      "name": "DbPlatformType.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/DbPlatformType.class"
+    },
+    {
+      "name": "PostgresPlatform$1.class",
+      "path": "platforms/postgres/target/classes/io/ebean/platform/postgres/PostgresPlatform$1.class"
+    },
+    {
+      "name": "DbEncryptFunction.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/DbEncryptFunction.class"
+    },
+    {
+      "name": "BasicSqlLimiter.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/BasicSqlLimiter.class"
+    },
+    {
+      "name": "BasicSqlLimitOffset.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/BasicSqlLimitOffset.class"
+    },
+    {
+      "name": "DuplicateKeyException.class",
+      "path": "ebean-api/target/classes/io/ebean/DuplicateKeyException.class"
+    },
+    {
+      "name": "DbHistorySupport.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/DbHistorySupport.class"
+    },
+    {
+      "name": "LimitOffsetSqlLimiter.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/LimitOffsetSqlLimiter.class"
+    },
+    {
+      "name": "SqlLimiter.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/SqlLimiter.class"
+    },
+    {
+      "name": "default.policy",
+      "path": "../../../../../usr/lib/jvm/java-17-openjdk-amd64/lib/security/default.policy"
+    },
+    {
+      "name": "DbEncrypt.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/DbEncrypt.class"
+    },
+    {
+      "name": "PostgresDbEncrypt$PgDateFunction.class",
+      "path": "platforms/postgres/target/classes/io/ebean/platform/postgres/PostgresDbEncrypt$PgDateFunction.class"
+    },
+    {
+      "name": "EbeanVersion.class",
+      "path": "ebean-api/target/classes/io/ebean/EbeanVersion.class"
+    },
+    {
+      "name": "PostgresPlatformTest.class",
+      "path": "platforms/postgres/target/test-classes/io/ebean/platform/postgres/PostgresPlatformTest.class"
+    },
+    {
+      "name": "DbConstraintNormalise.class",
+      "path": "ebean-api/target/classes/io/ebean/config/DbConstraintNormalise.class"
+    },
+    {
+      "name": "PlatformConfig.class",
+      "path": "ebean-api/target/classes/io/ebean/config/PlatformConfig.class"
+    },
+    {
+      "name": "PostgresHistorySupport.class",
+      "path": "platforms/postgres/target/classes/io/ebean/platform/postgres/PostgresHistorySupport.class"
+    }
+  ],
+  "accessed_resources": [
+    {
+      "resourceURL": "jar:file:/home/jonas/Documents/master_thesis/file-access-log-agent/binaries/real_read_using_bytebuddy_1-12-12/FileAccessAgent_deploy.jar!/com/file_access_agent/advice/ImageInputStreamCreatedFileLogAdvice.class",
+      "resourceURI": "file:/home/jonas/Documents/master_thesis/file-access-log-agent/binaries/real_read_using_bytebuddy_1-12-12/FileAccessAgent_deploy.jar",
+      "absolutePath": "../../../Documents/master_thesis/file-access-log-agent/binaries/real_read_using_bytebuddy_1-12-12/FileAccessAgent_deploy.jar"
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/Documents/master_thesis/file-access-log-agent/binaries/real_read_using_bytebuddy_1-12-12/FileAccessAgent_deploy.jar!/com/file_access_agent/advice/ImageIOLogReadURLAdvice.class",
+      "resourceURI": "file:/home/jonas/Documents/master_thesis/file-access-log-agent/binaries/real_read_using_bytebuddy_1-12-12/FileAccessAgent_deploy.jar",
+      "absolutePath": "../../../Documents/master_thesis/file-access-log-agent/binaries/real_read_using_bytebuddy_1-12-12/FileAccessAgent_deploy.jar"
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/Documents/master_thesis/file-access-log-agent/binaries/real_read_using_bytebuddy_1-12-12/FileAccessAgent_deploy.jar!/com/file_access_agent/advice/FilesNewInputStreamAdvice.class",
+      "resourceURI": "file:/home/jonas/Documents/master_thesis/file-access-log-agent/binaries/real_read_using_bytebuddy_1-12-12/FileAccessAgent_deploy.jar",
+      "absolutePath": "../../../Documents/master_thesis/file-access-log-agent/binaries/real_read_using_bytebuddy_1-12-12/FileAccessAgent_deploy.jar"
+    },
+    {
+      "resourceURL": "file:/home/jonas/Misc/Repos/ebean/ebean-api/target/classes/META-INF/ebean-maven-version.txt",
+      "resourceURI": "file:/home/jonas/Misc/Repos/ebean/ebean-api/target/classes/META-INF/ebean-maven-version.txt",
+      "absolutePath": "ebean-api/target/classes/META-INF/ebean-maven-version.txt"
+    }
+  ],
+  "accessed_jar_entries": [
+    {
+      "jar_entry": "com/file_access_agent/advice/ImageInputStreamCreatedFileLogAdvice.class"
+    },
+    {
+      "jar_entry": "com/file_access_agent/advice/ImageIOLogReadURLAdvice.class"
+    },
+    {
+      "jar_entry": "com/file_access_agent/advice/FilesNewInputStreamAdvice.class"
+    },
+    null
+  ],
+  "record_debug_info": []
+}

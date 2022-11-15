@@ -1,0 +1,21 @@
+,uniformPath,assessment,lastChangeTimestamp,lastTestTimestamp,state,file_ending,tested in
+410,ebean-test/src/test/resources/migrationtest/dbmigration/hana/1.2__dropsFor_1.1.sql,MODIFICATION_TESTED_AFTER_LAST_CHANGE,1648007191000,1666889785161,TESTED_CHURN,sql,io.ebean.xtest.dbmigration.DbMigrationTest
+429,ebean-test/src/test/resources/migrationtest/dbmigration/sqlserver17/I__create_procs.sql,MODIFICATION_TESTED_AFTER_LAST_CHANGE,1662354861000,1666889785161,TESTED_CHURN,sql,io.ebean.xtest.dbmigration.DbMigrationTest
+495,ebean-test/src/test/resources/migrationtest/dbmigration/clickhouse/1.0__initial.sql,MODIFICATION_TESTED_AFTER_LAST_CHANGE,1662354861000,1666889785161,TESTED_CHURN,sql
+176,ebean-test/src/test/resources/migrationtest/dbmigration/sqlanywhere/1.2__dropsFor_1.1.sql,MODIFICATION_TESTED_AFTER_LAST_CHANGE,1648007191000,1666889785161,TESTED_CHURN,sql
+16,ebean-test/src/test/resources/migrationtest/dbmigration/oracle11/1.0__initial.sql,MODIFICATION_TESTED_AFTER_LAST_CHANGE,1662354861000,1666889785161,TESTED_CHURN,sql
+137,ebean-test/src/test/resources/migrationtest/dbmigration/sqlanywhere/1.0__initial.sql,MODIFICATION_TESTED_AFTER_LAST_CHANGE,1662354861000,1666889785161,TESTED_CHURN,sql
+124,ebean-test/src/test/resources/migrationtest/dbmigration/yugabyte/1.4__dropsFor_1.3.sql,MODIFICATION_TESTED_AFTER_LAST_CHANGE,1662354861000,1666889785161,TESTED_CHURN,sql
+482,ebean-test/src/test/resources/migrationtest/dbmigration/oracle11/R__oracle_only_views.sql,ADDITION_TESTED_AFTER_LAST_CHANGE,1644269020000,1666889785161,TESTED_CHURN,sql
+500,ebean-test/src/test/resources/migrationtest/dbmigration/db2zos/1.0__initial.sql,MODIFICATION_TESTED_AFTER_LAST_CHANGE,1662354861000,1666889785161,TESTED_CHURN,sql
+267,ebean-test/src/test/resources/migrationtest/dbmigration/generic/1.4__dropsFor_1.3.sql,MODIFICATION_TESTED_AFTER_LAST_CHANGE,1662354861000,1666889785161,TESTED_CHURN,sql
+292,ebean-ddl-generator/src/test/resources/assert/BaseDdlHandlerTest/baseDropAll.sql,MODIFICATION_TESTED_AFTER_LAST_CHANGE,1646870444000,1666889785161,TESTED_CHURN,sql
+29,ebean-test/src/test/resources/migrationtest/dbmigration/yugabyte/R__order_views.sql,ADDITION_TESTED_AFTER_LAST_CHANGE,1644269020000,1666889785161,TESTED_CHURN,sql
+157,ebean-test/src/test/resources/migrationtest/dbmigration/postgres/1.2__dropsFor_1.1.sql,MODIFICATION_TESTED_AFTER_LAST_CHANGE,1648007191000,1666889785161,TESTED_CHURN,sql
+354,ebean-ddl-generator/src/main/resources/io/ebeaninternal/dbmigration/builtin-extra-ddl-partitioning.xml,MODIFICATION_TESTED_AFTER_LAST_CHANGE,1655177974000,1666889785161,TESTED_CHURN,xml
+90,ebean-ddl-generator/src/main/resources/io/ebeaninternal/dbmigration/builtin-extra-ddl.xml,MODIFICATION_TESTED_AFTER_LAST_CHANGE,1662354861000,1666889785161,TESTED_CHURN,xml
+41,ebean-test/src/test/resources/bean/contains-minimal.json,ADDITION_TESTED_AFTER_LAST_CHANGE,1635412764000,1666889785161,TESTED_CHURN,json
+114,ebean-test/src/test/resources/contains/array-multi-match.json,ADDITION_TESTED_AFTER_LAST_CHANGE,1635412764000,1666889785161,TESTED_CHURN,json
+459,platforms/h2/src/main/resources/META-INF/services/io.ebean.config.dbplatform.DatabasePlatformProvider,ADDITION_TESTED_AFTER_LAST_CHANGE,1648620082000,1666889785161,TESTED_CHURN,DatabasePlatformProvider
+156,ebean-ddl-generator/src/test/resources/assert/BaseTableDdlTest/createTable-rollbackFirst.txt,ADDITION_TESTED_AFTER_LAST_CHANGE,1635412764000,1666889785161,TESTED_CHURN,txt
+196,ebean-core/src/test/resources/META-INF/test/test-one.mf,ADDITION_TESTED_AFTER_LAST_CHANGE,1648099308000,1666889785161,TESTED_CHURN,mf

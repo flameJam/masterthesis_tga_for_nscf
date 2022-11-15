@@ -1,0 +1,437 @@
+{
+  "testing_timestamp": "1666882588535",
+  "accessed_files": [
+    {
+      "name": "DbDefaultValueTest.class",
+      "path": "ebean-api/target/test-classes/io/ebean/config/dbplatform/DbDefaultValueTest.class"
+    },
+    {
+      "name": "CurrentUserProvider.class",
+      "path": "ebean-api/target/classes/io/ebean/config/CurrentUserProvider.class"
+    },
+    {
+      "name": "ToStringBuilder.class",
+      "path": "ebean-api/target/classes/io/ebean/bean/ToStringBuilder.class"
+    },
+    {
+      "name": "BeanSet.class",
+      "path": "ebean-api/target/classes/io/ebean/common/BeanSet.class"
+    },
+    {
+      "name": "EncodeB64.class",
+      "path": "ebean-api/target/classes/io/ebean/util/EncodeB64.class"
+    },
+    {
+      "name": "application-test.properties",
+      "path": "ebean-api/target/test-classes/application-test.properties"
+    },
+    {
+      "name": "ToStringAware.class",
+      "path": "ebean-api/target/classes/io/ebean/bean/ToStringAware.class"
+    },
+    {
+      "name": "java.policy",
+      "path": "../../../../../usr/lib/jvm/java-17-openjdk-amd64/conf/security/java.policy"
+    },
+    {
+      "name": "TenantAwareKey.class",
+      "path": "ebean-api/target/classes/io/ebean/cache/TenantAwareKey.class"
+    },
+    {
+      "name": "DatabaseConfig.class",
+      "path": "ebean-api/target/classes/io/ebean/config/DatabaseConfig.class"
+    },
+    {
+      "name": "TenantAwareCache.class",
+      "path": "ebean-api/target/classes/io/ebean/cache/TenantAwareCache.class"
+    },
+    {
+      "name": "EbeanVersionTest.class",
+      "path": "ebean-api/target/test-classes/io/ebean/EbeanVersionTest.class"
+    },
+    {
+      "name": "Encryptor.class",
+      "path": "ebean-api/target/classes/io/ebean/config/Encryptor.class"
+    },
+    {
+      "name": "DatabaseConfig$UuidVersion.class",
+      "path": "ebean-api/target/classes/io/ebean/config/DatabaseConfig$UuidVersion.class"
+    },
+    {
+      "name": "DbType.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/DbType.class"
+    },
+    {
+      "name": "BeanCollection.class",
+      "path": "ebean-api/target/classes/io/ebean/bean/BeanCollection.class"
+    },
+    {
+      "name": "NodeUsageListener.class",
+      "path": "ebean-api/target/classes/io/ebean/bean/NodeUsageListener.class"
+    },
+    {
+      "name": "DbPrimary.class",
+      "path": "ebean-api/target/classes/io/ebean/DbPrimary.class"
+    },
+    {
+      "name": "EncryptKeyManager.class",
+      "path": "ebean-api/target/classes/io/ebean/config/EncryptKeyManager.class"
+    },
+    {
+      "name": "MdcBackgroundExecutorWrapper.class",
+      "path": "ebean-api/target/classes/io/ebean/config/MdcBackgroundExecutorWrapper.class"
+    },
+    {
+      "name": "BeanMap.class",
+      "path": "ebean-api/target/classes/io/ebean/common/BeanMap.class"
+    },
+    {
+      "name": "TenantSchemaProvider.class",
+      "path": "ebean-api/target/classes/io/ebean/config/TenantSchemaProvider.class"
+    },
+    {
+      "name": "ExtraDbTypes.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/ExtraDbTypes.class"
+    },
+    {
+      "name": "AbstractBeanCollection.class",
+      "path": "ebean-api/target/classes/io/ebean/common/AbstractBeanCollection.class"
+    },
+    {
+      "name": "NamingConvention.class",
+      "path": "ebean-api/target/classes/io/ebean/config/NamingConvention.class"
+    },
+    {
+      "name": "tzdb.dat",
+      "path": "../../../../../usr/lib/jvm/java-17-openjdk-amd64/lib/tzdb.dat"
+    },
+    {
+      "name": "CurrentTenantProvider.class",
+      "path": "ebean-api/target/classes/io/ebean/config/CurrentTenantProvider.class"
+    },
+    {
+      "name": "JsonConfig$Include.class",
+      "path": "ebean-api/target/classes/io/ebean/config/JsonConfig$Include.class"
+    },
+    {
+      "name": "PathProperties$Props.class",
+      "path": "ebean-api/target/classes/io/ebean/text/PathProperties$Props.class"
+    },
+    {
+      "name": "CamelCaseHelperTest.class",
+      "path": "ebean-api/target/test-classes/io/ebean/util/CamelCaseHelperTest.class"
+    },
+    {
+      "name": "BackgroundExecutorWrapper.class",
+      "path": "ebean-api/target/classes/io/ebean/config/BackgroundExecutorWrapper.class"
+    },
+    {
+      "name": "ToStringBuilderTest$ParamStore.class",
+      "path": "ebean-api/target/test-classes/io/ebean/bean/ToStringBuilderTest$ParamStore.class"
+    },
+    {
+      "name": "SplitName.class",
+      "path": "ebean-api/target/classes/io/ebean/util/SplitName.class"
+    },
+    {
+      "name": "DatabasePlatform.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/DatabasePlatform.class"
+    },
+    {
+      "name": "StringHelper.class",
+      "path": "ebean-api/target/classes/io/ebean/util/StringHelper.class"
+    },
+    {
+      "name": "logging.properties",
+      "path": "../../../../../usr/lib/jvm/java-17-openjdk-amd64/conf/logging.properties"
+    },
+    {
+      "name": "ToStringBuilderTest$B.class",
+      "path": "ebean-api/target/test-classes/io/ebean/bean/ToStringBuilderTest$B.class"
+    },
+    {
+      "name": "AutoConfigure.class",
+      "path": "ebean-api/target/classes/io/ebean/config/AutoConfigure.class"
+    },
+    {
+      "name": "ObjectGraphNode.class",
+      "path": "ebean-api/target/classes/io/ebean/bean/ObjectGraphNode.class"
+    },
+    {
+      "name": "DbPlatformTypeLookupTest.class",
+      "path": "ebean-api/target/test-classes/io/ebean/config/dbplatform/DbPlatformTypeLookupTest.class"
+    },
+    {
+      "name": "DbEncrypt.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/DbEncrypt.class"
+    },
+    {
+      "name": "MatchingNamingConvention.class",
+      "path": "ebean-api/target/classes/io/ebean/config/MatchingNamingConvention.class"
+    },
+    {
+      "name": "DbPrimaryTest.class",
+      "path": "ebean-api/target/test-classes/io/ebean/DbPrimaryTest.class"
+    },
+    {
+      "name": "TenantAwareCacheTest$TenantProv.class",
+      "path": "ebean-api/target/test-classes/io/ebean/cache/TenantAwareCacheTest$TenantProv.class"
+    },
+    {
+      "name": "EbeanVersion.class",
+      "path": "ebean-api/target/classes/io/ebean/EbeanVersion.class"
+    },
+    {
+      "name": "BeanCollectionAdd.class",
+      "path": "ebean-api/target/classes/io/ebean/bean/BeanCollectionAdd.class"
+    },
+    {
+      "name": "surefire11394817695964736388tmp",
+      "path": "ebean-api/target/surefire/surefire11394817695964736388tmp"
+    },
+    {
+      "name": "FetchPath.class",
+      "path": "ebean-api/target/classes/io/ebean/FetchPath.class"
+    },
+    {
+      "name": "DbPlatformTypeParserTest.class",
+      "path": "ebean-api/target/test-classes/io/ebean/config/dbplatform/DbPlatformTypeParserTest.class"
+    },
+    {
+      "name": "PlatformConfig$DbUuid.class",
+      "path": "ebean-api/target/classes/io/ebean/config/PlatformConfig$DbUuid.class"
+    },
+    {
+      "name": "PropertiesWrapper.class",
+      "path": "ebean-api/target/classes/io/ebean/config/PropertiesWrapper.class"
+    },
+    {
+      "name": "ProfilingConfig.class",
+      "path": "ebean-api/target/classes/io/ebean/config/ProfilingConfig.class"
+    },
+    {
+      "name": "ToStringBuilderTest$Recurse.class",
+      "path": "ebean-api/target/test-classes/io/ebean/bean/ToStringBuilderTest$Recurse.class"
+    },
+    {
+      "name": "ClassLoadConfig.class",
+      "path": "ebean-api/target/classes/io/ebean/config/ClassLoadConfig.class"
+    },
+    {
+      "name": "TenantAwareKey$CacheKey.class",
+      "path": "ebean-api/target/classes/io/ebean/cache/TenantAwareKey$CacheKey.class"
+    },
+    {
+      "name": "EncryptDeployManager.class",
+      "path": "ebean-api/target/classes/io/ebean/config/EncryptDeployManager.class"
+    },
+    {
+      "name": "DatabaseConfigTest.class",
+      "path": "ebean-api/target/test-classes/io/ebean/config/DatabaseConfigTest.class"
+    },
+    {
+      "name": "NodeUsageCollectorTest$Listener.class",
+      "path": "ebean-api/target/test-classes/io/ebean/bean/NodeUsageCollectorTest$Listener.class"
+    },
+    {
+      "name": "AutoTuneMode.class",
+      "path": "ebean-api/target/classes/io/ebean/config/AutoTuneMode.class"
+    },
+    {
+      "name": "ebean-maven-version.txt",
+      "path": "ebean-api/target/classes/META-INF/ebean-maven-version.txt"
+    },
+    {
+      "name": "DocStoreConfig.class",
+      "path": "ebean-api/target/classes/io/ebean/config/DocStoreConfig.class"
+    },
+    {
+      "name": "MetricNamingMatch.class",
+      "path": "ebean-api/target/classes/io/ebean/meta/MetricNamingMatch.class"
+    },
+    {
+      "name": "CamelCaseHelper.class",
+      "path": "ebean-api/target/classes/io/ebean/util/CamelCaseHelper.class"
+    },
+    {
+      "name": "TestAnnotationUtil$TestObject.class",
+      "path": "ebean-api/target/test-classes/io/ebean/util/TestAnnotationUtil$TestObject.class"
+    },
+    {
+      "name": "ClassLoadConfig$ClassLoaderContext.class",
+      "path": "ebean-api/target/classes/io/ebean/config/ClassLoadConfig$ClassLoaderContext.class"
+    },
+    {
+      "name": "TenantCatalogProvider.class",
+      "path": "ebean-api/target/classes/io/ebean/config/TenantCatalogProvider.class"
+    },
+    {
+      "name": "TenantMode.class",
+      "path": "ebean-api/target/classes/io/ebean/config/TenantMode.class"
+    },
+    {
+      "name": "TenantAwareCacheTest$Cache.class",
+      "path": "ebean-api/target/test-classes/io/ebean/cache/TenantAwareCacheTest$Cache.class"
+    },
+    {
+      "name": "AutoTuneConfig.class",
+      "path": "ebean-api/target/classes/io/ebean/config/AutoTuneConfig.class"
+    },
+    {
+      "name": "PathPropertiesParser.class",
+      "path": "ebean-api/target/classes/io/ebean/text/PathPropertiesParser.class"
+    },
+    {
+      "name": "ToStringBuilderTest$ParamValue.class",
+      "path": "ebean-api/target/test-classes/io/ebean/bean/ToStringBuilderTest$ParamValue.class"
+    },
+    {
+      "name": "NodeUsageCollectorTest.class",
+      "path": "ebean-api/target/test-classes/io/ebean/bean/NodeUsageCollectorTest.class"
+    },
+    {
+      "name": "TestEncodeB64.class",
+      "path": "ebean-api/target/test-classes/io/ebean/util/TestEncodeB64.class"
+    },
+    {
+      "name": "TenantAwareCacheTest.class",
+      "path": "ebean-api/target/test-classes/io/ebean/cache/TenantAwareCacheTest.class"
+    },
+    {
+      "name": "DbPlatformTypeParser.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/DbPlatformTypeParser.class"
+    },
+    {
+      "name": "AbstractNamingConvention.class",
+      "path": "ebean-api/target/classes/io/ebean/config/AbstractNamingConvention.class"
+    },
+    {
+      "name": "DbConstraintNaming.class",
+      "path": "ebean-api/target/classes/io/ebean/config/DbConstraintNaming.class"
+    },
+    {
+      "name": "PathPropertiesTests.class",
+      "path": "ebean-api/target/test-classes/io/ebean/text/PathPropertiesTests.class"
+    },
+    {
+      "name": "DbDefaultValue.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/DbDefaultValue.class"
+    },
+    {
+      "name": "JsonConfig$DateTime.class",
+      "path": "ebean-api/target/classes/io/ebean/config/JsonConfig$DateTime.class"
+    },
+    {
+      "name": "surefire_015124313277789653585tmp",
+      "path": "ebean-api/target/surefire/surefire_015124313277789653585tmp"
+    },
+    {
+      "name": "PersistenceContextScope.class",
+      "path": "ebean-api/target/classes/io/ebean/PersistenceContextScope.class"
+    },
+    {
+      "name": "IdType.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/IdType.class"
+    },
+    {
+      "name": "TestAnnotationUtil.class",
+      "path": "ebean-api/target/test-classes/io/ebean/util/TestAnnotationUtil.class"
+    },
+    {
+      "name": "DbPlatformTypeLookup.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/DbPlatformTypeLookup.class"
+    },
+    {
+      "name": "DbPlatformType.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/DbPlatformType.class"
+    },
+    {
+      "name": "ServerCachePlugin.class",
+      "path": "ebean-api/target/classes/io/ebean/cache/ServerCachePlugin.class"
+    },
+    {
+      "name": "JsonConfig$Date.class",
+      "path": "ebean-api/target/classes/io/ebean/config/JsonConfig$Date.class"
+    },
+    {
+      "name": "UnderscoreNamingConventionTest.class",
+      "path": "ebean-api/target/test-classes/io/ebean/config/UnderscoreNamingConventionTest.class"
+    },
+    {
+      "name": "ToStringBuilderTest.class",
+      "path": "ebean-api/target/test-classes/io/ebean/bean/ToStringBuilderTest.class"
+    },
+    {
+      "name": "BeanList.class",
+      "path": "ebean-api/target/classes/io/ebean/common/BeanList.class"
+    },
+    {
+      "name": "AnnotationUtil.class",
+      "path": "ebean-api/target/classes/io/ebean/util/AnnotationUtil.class"
+    },
+    {
+      "name": "ServerCache.class",
+      "path": "ebean-api/target/classes/io/ebean/cache/ServerCache.class"
+    },
+    {
+      "name": "default.policy",
+      "path": "../../../../../usr/lib/jvm/java-17-openjdk-amd64/lib/security/default.policy"
+    },
+    {
+      "name": "UnderscoreNamingConvention.class",
+      "path": "ebean-api/target/classes/io/ebean/config/UnderscoreNamingConvention.class"
+    },
+    {
+      "name": "PathProperties.class",
+      "path": "ebean-api/target/classes/io/ebean/text/PathProperties.class"
+    },
+    {
+      "name": "DbConstraintNormalise.class",
+      "path": "ebean-api/target/classes/io/ebean/config/DbConstraintNormalise.class"
+    },
+    {
+      "name": "PlatformConfig.class",
+      "path": "ebean-api/target/classes/io/ebean/config/PlatformConfig.class"
+    }
+  ],
+  "accessed_resources": [
+    {
+      "resourceURL": "jar:file:/home/jonas/Documents/master_thesis/file-access-log-agent/binaries/real_read_using_bytebuddy_1-12-12/FileAccessAgent_deploy.jar!/com/file_access_agent/advice/ImageInputStreamCreatedFileLogAdvice.class",
+      "resourceURI": "file:/home/jonas/Documents/master_thesis/file-access-log-agent/binaries/real_read_using_bytebuddy_1-12-12/FileAccessAgent_deploy.jar",
+      "absolutePath": "../../../Documents/master_thesis/file-access-log-agent/binaries/real_read_using_bytebuddy_1-12-12/FileAccessAgent_deploy.jar"
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/Documents/master_thesis/file-access-log-agent/binaries/real_read_using_bytebuddy_1-12-12/FileAccessAgent_deploy.jar!/com/file_access_agent/advice/ImageIOLogReadURLAdvice.class",
+      "resourceURI": "file:/home/jonas/Documents/master_thesis/file-access-log-agent/binaries/real_read_using_bytebuddy_1-12-12/FileAccessAgent_deploy.jar",
+      "absolutePath": "../../../Documents/master_thesis/file-access-log-agent/binaries/real_read_using_bytebuddy_1-12-12/FileAccessAgent_deploy.jar"
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/Documents/master_thesis/file-access-log-agent/binaries/real_read_using_bytebuddy_1-12-12/FileAccessAgent_deploy.jar!/com/file_access_agent/advice/FilesNewInputStreamAdvice.class",
+      "resourceURI": "file:/home/jonas/Documents/master_thesis/file-access-log-agent/binaries/real_read_using_bytebuddy_1-12-12/FileAccessAgent_deploy.jar",
+      "absolutePath": "../../../Documents/master_thesis/file-access-log-agent/binaries/real_read_using_bytebuddy_1-12-12/FileAccessAgent_deploy.jar"
+    },
+    {
+      "resourceURL": "file:/home/jonas/Misc/Repos/ebean/ebean-api/target/test-classes/application-test.properties",
+      "resourceURI": "file:/home/jonas/Misc/Repos/ebean/ebean-api/target/test-classes/application-test.properties",
+      "absolutePath": "ebean-api/target/test-classes/application-test.properties"
+    },
+    {
+      "resourceURL": "file:/home/jonas/Misc/Repos/ebean/ebean-api/target/classes/META-INF/ebean-maven-version.txt",
+      "resourceURI": "file:/home/jonas/Misc/Repos/ebean/ebean-api/target/classes/META-INF/ebean-maven-version.txt",
+      "absolutePath": "ebean-api/target/classes/META-INF/ebean-maven-version.txt"
+    }
+  ],
+  "accessed_jar_entries": [
+    {
+      "jar_entry": "com/file_access_agent/advice/ImageInputStreamCreatedFileLogAdvice.class"
+    },
+    {
+      "jar_entry": "com/file_access_agent/advice/ImageIOLogReadURLAdvice.class"
+    },
+    {
+      "jar_entry": "com/file_access_agent/advice/FilesNewInputStreamAdvice.class"
+    },
+    null
+  ],
+  "record_debug_info": []
+}

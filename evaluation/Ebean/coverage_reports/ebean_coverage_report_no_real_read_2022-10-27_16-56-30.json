@@ -1,0 +1,63 @@
+{
+  "testing_timestamp": "1666882590366",
+  "accessed_files": [
+    {
+      "name": "DecimalUtilsTest.class",
+      "path": "ebean-core-type/target/test-classes/io/ebean/core/type/DecimalUtilsTest.class"
+    },
+    {
+      "name": "ScalarTypeUtils.class",
+      "path": "ebean-core-type/target/classes/io/ebean/core/type/ScalarTypeUtils.class"
+    },
+    {
+      "name": "IsoJsonDateTimeParserTest.class",
+      "path": "ebean-core-type/target/test-classes/io/ebean/core/type/IsoJsonDateTimeParserTest.class"
+    },
+    {
+      "name": "logging.properties",
+      "path": "../../../../../usr/lib/jvm/java-17-openjdk-amd64/conf/logging.properties"
+    },
+    {
+      "name": "surefire2136294092921367159tmp",
+      "path": "ebean-core-type/target/surefire/surefire2136294092921367159tmp"
+    },
+    {
+      "name": "surefire_19433625601177614909tmp",
+      "path": "ebean-core-type/target/surefire/surefire_19433625601177614909tmp"
+    },
+    {
+      "name": "ScalarTypeUtilsUuidBytesTest.class",
+      "path": "ebean-core-type/target/test-classes/io/ebean/core/type/ScalarTypeUtilsUuidBytesTest.class"
+    }
+  ],
+  "accessed_resources": [
+    {
+      "resourceURL": "jar:file:/home/jonas/Documents/master_thesis/file-access-log-agent/binaries/real_read_using_bytebuddy_1-12-12/FileAccessAgent_deploy.jar!/com/file_access_agent/advice/ImageInputStreamCreatedFileLogAdvice.class",
+      "resourceURI": "file:/home/jonas/Documents/master_thesis/file-access-log-agent/binaries/real_read_using_bytebuddy_1-12-12/FileAccessAgent_deploy.jar",
+      "absolutePath": "../../../Documents/master_thesis/file-access-log-agent/binaries/real_read_using_bytebuddy_1-12-12/FileAccessAgent_deploy.jar"
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/Documents/master_thesis/file-access-log-agent/binaries/real_read_using_bytebuddy_1-12-12/FileAccessAgent_deploy.jar!/com/file_access_agent/advice/ImageIOLogReadURLAdvice.class",
+      "resourceURI": "file:/home/jonas/Documents/master_thesis/file-access-log-agent/binaries/real_read_using_bytebuddy_1-12-12/FileAccessAgent_deploy.jar",
+      "absolutePath": "../../../Documents/master_thesis/file-access-log-agent/binaries/real_read_using_bytebuddy_1-12-12/FileAccessAgent_deploy.jar"
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/Documents/master_thesis/file-access-log-agent/binaries/real_read_using_bytebuddy_1-12-12/FileAccessAgent_deploy.jar!/com/file_access_agent/advice/FilesNewInputStreamAdvice.class",
+      "resourceURI": "file:/home/jonas/Documents/master_thesis/file-access-log-agent/binaries/real_read_using_bytebuddy_1-12-12/FileAccessAgent_deploy.jar",
+      "absolutePath": "../../../Documents/master_thesis/file-access-log-agent/binaries/real_read_using_bytebuddy_1-12-12/FileAccessAgent_deploy.jar"
+    }
+  ],
+  "accessed_jar_entries": [
+    {
+      "jar_entry": "com/file_access_agent/advice/ImageInputStreamCreatedFileLogAdvice.class"
+    },
+    {
+      "jar_entry": "com/file_access_agent/advice/ImageIOLogReadURLAdvice.class"
+    },
+    {
+      "jar_entry": "com/file_access_agent/advice/FilesNewInputStreamAdvice.class"
+    },
+    null
+  ],
+  "record_debug_info": []
+}

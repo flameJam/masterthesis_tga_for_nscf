@@ -1,0 +1,316 @@
+{
+  "testing_timestamp": "1666882595581",
+  "accessed_files": [
+    {
+      "name": "PlatformConfig$DbUuid.class",
+      "path": "ebean-api/target/classes/io/ebean/config/PlatformConfig$DbUuid.class"
+    },
+    {
+      "name": "PlatformIdGenerator.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/PlatformIdGenerator.class"
+    },
+    {
+      "name": "SqlServerBasePlatform.class",
+      "path": "platforms/sqlserver/target/classes/io/ebean/platform/sqlserver/SqlServerBasePlatform.class"
+    },
+    {
+      "name": "ProfilingConfig.class",
+      "path": "ebean-api/target/classes/io/ebean/config/ProfilingConfig.class"
+    },
+    {
+      "name": "ClassLoadConfig.class",
+      "path": "ebean-api/target/classes/io/ebean/config/ClassLoadConfig.class"
+    },
+    {
+      "name": "DataIntegrityException.class",
+      "path": "ebean-api/target/classes/io/ebean/DataIntegrityException.class"
+    },
+    {
+      "name": "AutoTuneMode.class",
+      "path": "ebean-api/target/classes/io/ebean/config/AutoTuneMode.class"
+    },
+    {
+      "name": "SqlServerDbEncrypt$VarcharFunction.class",
+      "path": "platforms/sqlserver/target/classes/io/ebean/platform/sqlserver/SqlServerDbEncrypt$VarcharFunction.class"
+    },
+    {
+      "name": "DatabaseConfig.class",
+      "path": "ebean-api/target/classes/io/ebean/config/DatabaseConfig.class"
+    },
+    {
+      "name": "java.policy",
+      "path": "../../../../../usr/lib/jvm/java-17-openjdk-amd64/conf/security/java.policy"
+    },
+    {
+      "name": "SqlServerBasicSqlLimiter.class",
+      "path": "platforms/sqlserver/target/classes/io/ebean/platform/sqlserver/SqlServerBasicSqlLimiter.class"
+    },
+    {
+      "name": "ebean-maven-version.txt",
+      "path": "ebean-api/target/classes/META-INF/ebean-maven-version.txt"
+    },
+    {
+      "name": "DocStoreConfig.class",
+      "path": "ebean-api/target/classes/io/ebean/config/DocStoreConfig.class"
+    },
+    {
+      "name": "MetricNamingMatch.class",
+      "path": "ebean-api/target/classes/io/ebean/meta/MetricNamingMatch.class"
+    },
+    {
+      "name": "DataErrorType.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/DataErrorType.class"
+    },
+    {
+      "name": "SqlExceptionTranslator.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/SqlExceptionTranslator.class"
+    },
+    {
+      "name": "ClassLoadConfig$ClassLoaderContext.class",
+      "path": "ebean-api/target/classes/io/ebean/config/ClassLoadConfig$ClassLoaderContext.class"
+    },
+    {
+      "name": "AcquireLockException.class",
+      "path": "ebean-api/target/classes/io/ebean/AcquireLockException.class"
+    },
+    {
+      "name": "TenantMode.class",
+      "path": "ebean-api/target/classes/io/ebean/config/TenantMode.class"
+    },
+    {
+      "name": "AbstractDbEncrypt.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/AbstractDbEncrypt.class"
+    },
+    {
+      "name": "AutoTuneConfig.class",
+      "path": "ebean-api/target/classes/io/ebean/config/AutoTuneConfig.class"
+    },
+    {
+      "name": "DatabaseConfig$UuidVersion.class",
+      "path": "ebean-api/target/classes/io/ebean/config/DatabaseConfig$UuidVersion.class"
+    },
+    {
+      "name": "DbType.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/DbType.class"
+    },
+    {
+      "name": "DbIdentity.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/DbIdentity.class"
+    },
+    {
+      "name": "DbPlatformTypeMapping.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/DbPlatformTypeMapping.class"
+    },
+    {
+      "name": "MdcBackgroundExecutorWrapper.class",
+      "path": "ebean-api/target/classes/io/ebean/config/MdcBackgroundExecutorWrapper.class"
+    },
+    {
+      "name": "SqlCodeTranslator.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/SqlCodeTranslator.class"
+    },
+    {
+      "name": "SqlErrorCodes.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/SqlErrorCodes.class"
+    },
+    {
+      "name": "ExtraDbTypes.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/ExtraDbTypes.class"
+    },
+    {
+      "name": "NamingConvention.class",
+      "path": "ebean-api/target/classes/io/ebean/config/NamingConvention.class"
+    },
+    {
+      "name": "tzdb.dat",
+      "path": "../../../../../usr/lib/jvm/java-17-openjdk-amd64/lib/tzdb.dat"
+    },
+    {
+      "name": "DbPlatformTypeMapping$BooleanLogicalType.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/DbPlatformTypeMapping$BooleanLogicalType.class"
+    },
+    {
+      "name": "JsonConfig$Include.class",
+      "path": "ebean-api/target/classes/io/ebean/config/JsonConfig$Include.class"
+    },
+    {
+      "name": "AbstractNamingConvention.class",
+      "path": "ebean-api/target/classes/io/ebean/config/AbstractNamingConvention.class"
+    },
+    {
+      "name": "DbConstraintNaming.class",
+      "path": "ebean-api/target/classes/io/ebean/config/DbConstraintNaming.class"
+    },
+    {
+      "name": "SerializableConflictException.class",
+      "path": "ebean-api/target/classes/io/ebean/SerializableConflictException.class"
+    },
+    {
+      "name": "DbDefaultValue.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/DbDefaultValue.class"
+    },
+    {
+      "name": "SqlServerDbEncrypt.class",
+      "path": "platforms/sqlserver/target/classes/io/ebean/platform/sqlserver/SqlServerDbEncrypt.class"
+    },
+    {
+      "name": "JsonConfig$DateTime.class",
+      "path": "ebean-api/target/classes/io/ebean/config/JsonConfig$DateTime.class"
+    },
+    {
+      "name": "SqlServerSqlLimiter.class",
+      "path": "platforms/sqlserver/target/classes/io/ebean/platform/sqlserver/SqlServerSqlLimiter.class"
+    },
+    {
+      "name": "BackgroundExecutorWrapper.class",
+      "path": "ebean-api/target/classes/io/ebean/config/BackgroundExecutorWrapper.class"
+    },
+    {
+      "name": "DatabasePlatform.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/DatabasePlatform.class"
+    },
+    {
+      "name": "PersistenceContextScope.class",
+      "path": "ebean-api/target/classes/io/ebean/PersistenceContextScope.class"
+    },
+    {
+      "name": "IdType.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/IdType.class"
+    },
+    {
+      "name": "SqlServerHistorySupport.class",
+      "path": "platforms/sqlserver/target/classes/io/ebean/platform/sqlserver/SqlServerHistorySupport.class"
+    },
+    {
+      "name": "logging.properties",
+      "path": "../../../../../usr/lib/jvm/java-17-openjdk-amd64/conf/logging.properties"
+    },
+    {
+      "name": "SqlServerDbEncrypt$DateFunction.class",
+      "path": "platforms/sqlserver/target/classes/io/ebean/platform/sqlserver/SqlServerDbEncrypt$DateFunction.class"
+    },
+    {
+      "name": "DbPlatformTypeLookup.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/DbPlatformTypeLookup.class"
+    },
+    {
+      "name": "DbPlatformType.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/DbPlatformType.class"
+    },
+    {
+      "name": "DbEncryptFunction.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/DbEncryptFunction.class"
+    },
+    {
+      "name": "BasicSqlLimiter.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/BasicSqlLimiter.class"
+    },
+    {
+      "name": "BasicSqlLimitOffset.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/BasicSqlLimitOffset.class"
+    },
+    {
+      "name": "DuplicateKeyException.class",
+      "path": "ebean-api/target/classes/io/ebean/DuplicateKeyException.class"
+    },
+    {
+      "name": "surefire4474143186872827435tmp",
+      "path": "platforms/sqlserver/target/surefire/surefire4474143186872827435tmp"
+    },
+    {
+      "name": "DbHistorySupport.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/DbHistorySupport.class"
+    },
+    {
+      "name": "JsonConfig$Date.class",
+      "path": "ebean-api/target/classes/io/ebean/config/JsonConfig$Date.class"
+    },
+    {
+      "name": "LimitOffsetSqlLimiter.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/LimitOffsetSqlLimiter.class"
+    },
+    {
+      "name": "SqlServer17Platform.class",
+      "path": "platforms/sqlserver/target/classes/io/ebean/platform/sqlserver/SqlServer17Platform.class"
+    },
+    {
+      "name": "SqlLimiter.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/SqlLimiter.class"
+    },
+    {
+      "name": "default.policy",
+      "path": "../../../../../usr/lib/jvm/java-17-openjdk-amd64/lib/security/default.policy"
+    },
+    {
+      "name": "UnderscoreNamingConvention.class",
+      "path": "ebean-api/target/classes/io/ebean/config/UnderscoreNamingConvention.class"
+    },
+    {
+      "name": "DbEncrypt.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/DbEncrypt.class"
+    },
+    {
+      "name": "MatchingNamingConvention.class",
+      "path": "ebean-api/target/classes/io/ebean/config/MatchingNamingConvention.class"
+    },
+    {
+      "name": "EbeanVersion.class",
+      "path": "ebean-api/target/classes/io/ebean/EbeanVersion.class"
+    },
+    {
+      "name": "DbStandardHistorySupport.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/DbStandardHistorySupport.class"
+    },
+    {
+      "name": "DbConstraintNormalise.class",
+      "path": "ebean-api/target/classes/io/ebean/config/DbConstraintNormalise.class"
+    },
+    {
+      "name": "PlatformConfig.class",
+      "path": "ebean-api/target/classes/io/ebean/config/PlatformConfig.class"
+    },
+    {
+      "name": "surefire_44525285229981175178tmp",
+      "path": "platforms/sqlserver/target/surefire/surefire_44525285229981175178tmp"
+    },
+    {
+      "name": "SqlServerPlatformTest.class",
+      "path": "platforms/sqlserver/target/test-classes/io/ebean/platform/sqlserver/SqlServerPlatformTest.class"
+    }
+  ],
+  "accessed_resources": [
+    {
+      "resourceURL": "jar:file:/home/jonas/Documents/master_thesis/file-access-log-agent/binaries/real_read_using_bytebuddy_1-12-12/FileAccessAgent_deploy.jar!/com/file_access_agent/advice/ImageInputStreamCreatedFileLogAdvice.class",
+      "resourceURI": "file:/home/jonas/Documents/master_thesis/file-access-log-agent/binaries/real_read_using_bytebuddy_1-12-12/FileAccessAgent_deploy.jar",
+      "absolutePath": "../../../Documents/master_thesis/file-access-log-agent/binaries/real_read_using_bytebuddy_1-12-12/FileAccessAgent_deploy.jar"
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/Documents/master_thesis/file-access-log-agent/binaries/real_read_using_bytebuddy_1-12-12/FileAccessAgent_deploy.jar!/com/file_access_agent/advice/ImageIOLogReadURLAdvice.class",
+      "resourceURI": "file:/home/jonas/Documents/master_thesis/file-access-log-agent/binaries/real_read_using_bytebuddy_1-12-12/FileAccessAgent_deploy.jar",
+      "absolutePath": "../../../Documents/master_thesis/file-access-log-agent/binaries/real_read_using_bytebuddy_1-12-12/FileAccessAgent_deploy.jar"
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/Documents/master_thesis/file-access-log-agent/binaries/real_read_using_bytebuddy_1-12-12/FileAccessAgent_deploy.jar!/com/file_access_agent/advice/FilesNewInputStreamAdvice.class",
+      "resourceURI": "file:/home/jonas/Documents/master_thesis/file-access-log-agent/binaries/real_read_using_bytebuddy_1-12-12/FileAccessAgent_deploy.jar",
+      "absolutePath": "../../../Documents/master_thesis/file-access-log-agent/binaries/real_read_using_bytebuddy_1-12-12/FileAccessAgent_deploy.jar"
+    },
+    {
+      "resourceURL": "file:/home/jonas/Misc/Repos/ebean/ebean-api/target/classes/META-INF/ebean-maven-version.txt",
+      "resourceURI": "file:/home/jonas/Misc/Repos/ebean/ebean-api/target/classes/META-INF/ebean-maven-version.txt",
+      "absolutePath": "ebean-api/target/classes/META-INF/ebean-maven-version.txt"
+    }
+  ],
+  "accessed_jar_entries": [
+    {
+      "jar_entry": "com/file_access_agent/advice/ImageInputStreamCreatedFileLogAdvice.class"
+    },
+    {
+      "jar_entry": "com/file_access_agent/advice/ImageIOLogReadURLAdvice.class"
+    },
+    {
+      "jar_entry": "com/file_access_agent/advice/FilesNewInputStreamAdvice.class"
+    },
+    null
+  ],
+  "record_debug_info": []
+}

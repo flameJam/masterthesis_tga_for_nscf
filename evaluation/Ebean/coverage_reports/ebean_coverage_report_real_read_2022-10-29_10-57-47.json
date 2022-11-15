@@ -1,0 +1,1800 @@
+{
+  "testing_timestamp": "1667033867268",
+  "accessed_files": [
+    {
+      "name": "surefire_75900408831067567772tmp",
+      "path": "platforms/oracle/target/surefire/surefire_75900408831067567772tmp"
+    },
+    {
+      "name": "PlatformConfig$DbUuid.class",
+      "path": "ebean-api/target/classes/io/ebean/config/PlatformConfig$DbUuid.class"
+    },
+    {
+      "name": "PlatformIdGenerator.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/PlatformIdGenerator.class"
+    },
+    {
+      "name": "OraclePlatformProviderTest.class",
+      "path": "platforms/oracle/target/test-classes/io/ebean/platform/oracle/OraclePlatformProviderTest.class"
+    },
+    {
+      "name": "DataIntegrityException.class",
+      "path": "ebean-api/target/classes/io/ebean/DataIntegrityException.class"
+    },
+    {
+      "name": "java.policy",
+      "path": "../../../../../usr/lib/jvm/java-17-openjdk-amd64/conf/security/java.policy"
+    },
+    {
+      "name": "ebean-maven-version.txt",
+      "path": "ebean-api/target/classes/META-INF/ebean-maven-version.txt"
+    },
+    {
+      "name": "DataErrorType.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/DataErrorType.class"
+    },
+    {
+      "name": "SqlExceptionTranslator.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/SqlExceptionTranslator.class"
+    },
+    {
+      "name": "AcquireLockException.class",
+      "path": "ebean-api/target/classes/io/ebean/AcquireLockException.class"
+    },
+    {
+      "name": "AbstractDbEncrypt.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/AbstractDbEncrypt.class"
+    },
+    {
+      "name": "OraclePlatform.class",
+      "path": "platforms/oracle/target/classes/io/ebean/platform/oracle/OraclePlatform.class"
+    },
+    {
+      "name": "OracleDbHistorySupport.class",
+      "path": "platforms/oracle/target/classes/io/ebean/platform/oracle/OracleDbHistorySupport.class"
+    },
+    {
+      "name": "DbType.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/DbType.class"
+    },
+    {
+      "name": "DbIdentity.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/DbIdentity.class"
+    },
+    {
+      "name": "DbPlatformTypeMapping.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/DbPlatformTypeMapping.class"
+    },
+    {
+      "name": "SqlCodeTranslator.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/SqlCodeTranslator.class"
+    },
+    {
+      "name": "OraclePlatformTest.class",
+      "path": "platforms/oracle/target/test-classes/io/ebean/platform/oracle/OraclePlatformTest.class"
+    },
+    {
+      "name": "SqlErrorCodes.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/SqlErrorCodes.class"
+    },
+    {
+      "name": "ExtraDbTypes.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/ExtraDbTypes.class"
+    },
+    {
+      "name": "tzdb.dat",
+      "path": "../../../../../usr/lib/jvm/java-17-openjdk-amd64/lib/tzdb.dat"
+    },
+    {
+      "name": "DbPlatformTypeMapping$BooleanLogicalType.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/DbPlatformTypeMapping$BooleanLogicalType.class"
+    },
+    {
+      "name": "BasicSqlAnsiLimiter.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/BasicSqlAnsiLimiter.class"
+    },
+    {
+      "name": "OracleAnsiSqlRowsLimiter.class",
+      "path": "platforms/oracle/target/classes/io/ebean/platform/oracle/OracleAnsiSqlRowsLimiter.class"
+    },
+    {
+      "name": "DbConstraintNaming.class",
+      "path": "ebean-api/target/classes/io/ebean/config/DbConstraintNaming.class"
+    },
+    {
+      "name": "OracleDbEncrypt$OraVarcharFunction.class",
+      "path": "platforms/oracle/target/classes/io/ebean/platform/oracle/OracleDbEncrypt$OraVarcharFunction.class"
+    },
+    {
+      "name": "SerializableConflictException.class",
+      "path": "ebean-api/target/classes/io/ebean/SerializableConflictException.class"
+    },
+    {
+      "name": "OracleRownumBasicLimiter.class",
+      "path": "platforms/oracle/target/classes/io/ebean/platform/oracle/OracleRownumBasicLimiter.class"
+    },
+    {
+      "name": "Oracle12Platform.class",
+      "path": "platforms/oracle/target/classes/io/ebean/platform/oracle/Oracle12Platform.class"
+    },
+    {
+      "name": "OraclePlatformProvider.class",
+      "path": "platforms/oracle/target/classes/io/ebean/platform/oracle/OraclePlatformProvider.class"
+    },
+    {
+      "name": "DbDefaultValue.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/DbDefaultValue.class"
+    },
+    {
+      "name": "OracleDbEncrypt$OraDateFunction.class",
+      "path": "platforms/oracle/target/classes/io/ebean/platform/oracle/OracleDbEncrypt$OraDateFunction.class"
+    },
+    {
+      "name": "DatabasePlatform.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/DatabasePlatform.class"
+    },
+    {
+      "name": "IdType.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/IdType.class"
+    },
+    {
+      "name": "logging.properties",
+      "path": "../../../../../usr/lib/jvm/java-17-openjdk-amd64/conf/logging.properties"
+    },
+    {
+      "name": "Oracle11Platform.class",
+      "path": "platforms/oracle/target/classes/io/ebean/platform/oracle/Oracle11Platform.class"
+    },
+    {
+      "name": "DbPlatformTypeLookup.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/DbPlatformTypeLookup.class"
+    },
+    {
+      "name": "DbPlatformType.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/DbPlatformType.class"
+    },
+    {
+      "name": "DbEncryptFunction.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/DbEncryptFunction.class"
+    },
+    {
+      "name": "OracleDbEncrypt.class",
+      "path": "platforms/oracle/target/classes/io/ebean/platform/oracle/OracleDbEncrypt.class"
+    },
+    {
+      "name": "BasicSqlLimiter.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/BasicSqlLimiter.class"
+    },
+    {
+      "name": "BasicSqlLimitOffset.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/BasicSqlLimitOffset.class"
+    },
+    {
+      "name": "DuplicateKeyException.class",
+      "path": "ebean-api/target/classes/io/ebean/DuplicateKeyException.class"
+    },
+    {
+      "name": "DatabasePlatformProvider.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/DatabasePlatformProvider.class"
+    },
+    {
+      "name": "DbHistorySupport.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/DbHistorySupport.class"
+    },
+    {
+      "name": "LimitOffsetSqlLimiter.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/LimitOffsetSqlLimiter.class"
+    },
+    {
+      "name": "OracleRownumSqlLimiter.class",
+      "path": "platforms/oracle/target/classes/io/ebean/platform/oracle/OracleRownumSqlLimiter.class"
+    },
+    {
+      "name": "SqlLimiter.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/SqlLimiter.class"
+    },
+    {
+      "name": "default.policy",
+      "path": "../../../../../usr/lib/jvm/java-17-openjdk-amd64/lib/security/default.policy"
+    },
+    {
+      "name": "surefire3437145260963598455tmp",
+      "path": "platforms/oracle/target/surefire/surefire3437145260963598455tmp"
+    },
+    {
+      "name": "DbEncrypt.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/DbEncrypt.class"
+    },
+    {
+      "name": "EbeanVersion.class",
+      "path": "ebean-api/target/classes/io/ebean/EbeanVersion.class"
+    },
+    {
+      "name": "DbStandardHistorySupport.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/DbStandardHistorySupport.class"
+    },
+    {
+      "name": "DbConstraintNormalise.class",
+      "path": "ebean-api/target/classes/io/ebean/config/DbConstraintNormalise.class"
+    },
+    {
+      "name": "PlatformConfig.class",
+      "path": "ebean-api/target/classes/io/ebean/config/PlatformConfig.class"
+    }
+  ],
+  "accessed_resources": [
+    {
+      "resourceURL": "jrt:/java.base/java/text/spi/DateFormatSymbolsProvider.class",
+      "resourceURI": "jrt:/java.base/java/text/spi/DateFormatSymbolsProvider.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/lang/invoke/VarHandleLongs$FieldInstanceReadOnly.class",
+      "resourceURI": "jrt:/java.base/java/lang/invoke/VarHandleLongs$FieldInstanceReadOnly.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/ch/qos/logback/logback-core/1.2.11/logback-core-1.2.11.jar!/ch/qos/logback/core/status/StatusBase.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/ch/qos/logback/logback-core/1.2.11/logback-core-1.2.11.jar",
+      "absolutePath": "../../../.m2/repository/ch/qos/logback/logback-core/1.2.11/logback-core-1.2.11.jar"
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar!/org/assertj/core/api/AbstractEnumerableAssert.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar",
+      "absolutePath": "../../../.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar"
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/io/ObjectInputStream$Caches.class",
+      "resourceURI": "jrt:/java.base/java/io/ObjectInputStream$Caches.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/org/apache/maven/surefire/surefire-booter/3.0.0-M4/surefire-booter-3.0.0-M4.jar!/org/apache/maven/surefire/booter/AbstractPathConfiguration.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/org/apache/maven/surefire/surefire-booter/3.0.0-M4/surefire-booter-3.0.0-M4.jar",
+      "absolutePath": "../../../.m2/repository/org/apache/maven/surefire/surefire-booter/3.0.0-M4/surefire-booter-3.0.0-M4.jar"
+    },
+    {
+      "resourceURL": "file:/home/jonas/Misc/Repos/ebean/ebean-api/target/classes/io/ebean/config/dbplatform/DbPlatformType.class",
+      "resourceURI": "file:/home/jonas/Misc/Repos/ebean/ebean-api/target/classes/io/ebean/config/dbplatform/DbPlatformType.class",
+      "absolutePath": "ebean-api/target/classes/io/ebean/config/dbplatform/DbPlatformType.class"
+    },
+    {
+      "resourceURL": "file:/home/jonas/Misc/Repos/ebean/ebean-api/target/classes/io/ebean/config/dbplatform/DatabasePlatform.class",
+      "resourceURI": "file:/home/jonas/Misc/Repos/ebean/ebean-api/target/classes/io/ebean/config/dbplatform/DatabasePlatform.class",
+      "absolutePath": "ebean-api/target/classes/io/ebean/config/dbplatform/DatabasePlatform.class"
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/util/concurrent/Semaphore$Sync.class",
+      "resourceURI": "jrt:/java.base/java/util/concurrent/Semaphore$Sync.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.8.2/junit-jupiter-engine-5.8.2.jar!/org/junit/jupiter/engine/descriptor/AbstractExtensionContext.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.8.2/junit-jupiter-engine-5.8.2.jar",
+      "absolutePath": "../../../.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.8.2/junit-jupiter-engine-5.8.2.jar"
+    },
+    {
+      "resourceURL": "jrt:/java.base/jdk/internal/reflect/FieldAccessorImpl.class",
+      "resourceURI": "jrt:/java.base/jdk/internal/reflect/FieldAccessorImpl.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/lang/ref/Reference.class",
+      "resourceURI": "jrt:/java.base/java/lang/ref/Reference.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.8.2/junit-jupiter-engine-5.8.2.jar!/org/junit/jupiter/engine/descriptor/JupiterTestDescriptor.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.8.2/junit-jupiter-engine-5.8.2.jar",
+      "absolutePath": "../../../.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.8.2/junit-jupiter-engine-5.8.2.jar"
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/ch/qos/logback/logback-core/1.2.11/logback-core-1.2.11.jar!/ch/qos/logback/core/LayoutBase.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/ch/qos/logback/logback-core/1.2.11/logback-core-1.2.11.jar",
+      "absolutePath": "../../../.m2/repository/ch/qos/logback/logback-core/1.2.11/logback-core-1.2.11.jar"
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/util/regex/Pattern$CharPropertyGreedy.class",
+      "resourceURI": "jrt:/java.base/java/util/regex/Pattern$CharPropertyGreedy.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/util/stream/PipelineHelper.class",
+      "resourceURI": "jrt:/java.base/java/util/stream/PipelineHelper.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/lang/IndexOutOfBoundsException.class",
+      "resourceURI": "jrt:/java.base/java/lang/IndexOutOfBoundsException.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/sun/util/calendar/BaseCalendar.class",
+      "resourceURI": "jrt:/java.base/sun/util/calendar/BaseCalendar.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar!/org/assertj/core/api/AbstractObjectAssert.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar",
+      "absolutePath": "../../../.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar"
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar!/org/assertj/core/api/AbstractByteArrayAssert.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar",
+      "absolutePath": "../../../.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar"
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/text/DateFormat.class",
+      "resourceURI": "jrt:/java.base/java/text/DateFormat.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/util/Calendar.class",
+      "resourceURI": "jrt:/java.base/java/util/Calendar.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/util/concurrent/AbstractExecutorService.class",
+      "resourceURI": "jrt:/java.base/java/util/concurrent/AbstractExecutorService.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.8.2/junit-jupiter-engine-5.8.2.jar!/org/junit/jupiter/engine/discovery/predicates/IsTestableMethod.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.8.2/junit-jupiter-engine-5.8.2.jar",
+      "absolutePath": "../../../.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.8.2/junit-jupiter-engine-5.8.2.jar"
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/org/junit/platform/junit-platform-engine/1.8.2/junit-platform-engine-1.8.2.jar!/org/junit/platform/engine/support/hierarchical/HierarchicalTestEngine.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/org/junit/platform/junit-platform-engine/1.8.2/junit-platform-engine-1.8.2.jar",
+      "absolutePath": "../../../.m2/repository/org/junit/platform/junit-platform-engine/1.8.2/junit-platform-engine-1.8.2.jar"
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/Documents/master_thesis/file-access-log-agent/binaries/real_read_using_bytebuddy_1-12-12/FileAccessAgent_deploy.jar!/com/file_access_agent/advice/FilesNewInputStreamAdvice.class",
+      "resourceURI": "file:/home/jonas/Documents/master_thesis/file-access-log-agent/binaries/real_read_using_bytebuddy_1-12-12/FileAccessAgent_deploy.jar",
+      "absolutePath": "../../../Documents/master_thesis/file-access-log-agent/binaries/real_read_using_bytebuddy_1-12-12/FileAccessAgent_deploy.jar"
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/lang/reflect/Proxy.class",
+      "resourceURI": "jrt:/java.base/java/lang/reflect/Proxy.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar!/org/assertj/core/description/Description.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar",
+      "absolutePath": "../../../.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar"
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/org/junit/platform/junit-platform-commons/1.8.2/junit-platform-commons-1.8.2.jar!/org/junit/platform/commons/util/PreconditionViolationException.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/org/junit/platform/junit-platform-commons/1.8.2/junit-platform-commons-1.8.2.jar",
+      "absolutePath": "../../../.m2/repository/org/junit/platform/junit-platform-commons/1.8.2/junit-platform-commons-1.8.2.jar"
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/io/ObjectInputStream$PeekInputStream.class",
+      "resourceURI": "jrt:/java.base/java/io/ObjectInputStream$PeekInputStream.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar!/org/assertj/core/api/AbstractLocalTimeAssert.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar",
+      "absolutePath": "../../../.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar"
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/lang/ClassValue.class",
+      "resourceURI": "jrt:/java.base/java/lang/ClassValue.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/util/Random.class",
+      "resourceURI": "jrt:/java.base/java/util/Random.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/io/FilterInputStream.class",
+      "resourceURI": "jrt:/java.base/java/io/FilterInputStream.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/util/Collections$UnmodifiableCollection.class",
+      "resourceURI": "jrt:/java.base/java/util/Collections$UnmodifiableCollection.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar!/org/assertj/core/api/AbstractLongAssert.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar",
+      "absolutePath": "../../../.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar"
+    },
+    {
+      "resourceURL": "jrt:/java.base/jdk/internal/reflect/SerializationConstructorAccessorImpl.class",
+      "resourceURI": "jrt:/java.base/jdk/internal/reflect/SerializationConstructorAccessorImpl.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/util/concurrent/locks/ReentrantReadWriteLock$Sync.class",
+      "resourceURI": "jrt:/java.base/java/util/concurrent/locks/ReentrantReadWriteLock$Sync.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar!/org/assertj/core/api/AbstractStringAssert.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar",
+      "absolutePath": "../../../.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar"
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/ch/qos/logback/logback-core/1.2.11/logback-core-1.2.11.jar!/ch/qos/logback/core/ContextBase.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/ch/qos/logback/logback-core/1.2.11/logback-core-1.2.11.jar",
+      "absolutePath": "../../../.m2/repository/ch/qos/logback/logback-core/1.2.11/logback-core-1.2.11.jar"
+    },
+    {
+      "resourceURL": "jrt:/java.base/sun/util/locale/LocaleObjectCache.class",
+      "resourceURI": "jrt:/java.base/sun/util/locale/LocaleObjectCache.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/util/stream/FindOps$FindSink.class",
+      "resourceURI": "jrt:/java.base/java/util/stream/FindOps$FindSink.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/util/concurrent/ConcurrentHashMap$BaseIterator.class",
+      "resourceURI": "jrt:/java.base/java/util/concurrent/ConcurrentHashMap$BaseIterator.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/io/ObjectInputStream$FilterValues.class",
+      "resourceURI": "jrt:/java.base/java/io/ObjectInputStream$FilterValues.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/util/regex/Pattern$Node.class",
+      "resourceURI": "jrt:/java.base/java/util/regex/Pattern$Node.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar!/org/assertj/core/api/AbstractZonedDateTimeAssert.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar",
+      "absolutePath": "../../../.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar"
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar!/org/assertj/core/api/AbstractInputStreamAssert.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar",
+      "absolutePath": "../../../.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar"
+    },
+    {
+      "resourceURL": "jrt:/java.logging/java/util/logging/LogManager$LoggerContext.class",
+      "resourceURI": "jrt:/java.logging/java/util/logging/LogManager$LoggerContext.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar!/org/assertj/core/api/AbstractFloatArrayAssert.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar",
+      "absolutePath": "../../../.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar"
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/org/junit/platform/junit-platform-commons/1.8.2/junit-platform-commons-1.8.2.jar!/org/junit/platform/commons/JUnitException.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/org/junit/platform/junit-platform-commons/1.8.2/junit-platform-commons-1.8.2.jar",
+      "absolutePath": "../../../.m2/repository/org/junit/platform/junit-platform-commons/1.8.2/junit-platform-commons-1.8.2.jar"
+    },
+    {
+      "resourceURL": "jrt:/java.base/jdk/internal/reflect/UnsafeQualifiedStaticFieldAccessorImpl.class",
+      "resourceURI": "jrt:/java.base/jdk/internal/reflect/UnsafeQualifiedStaticFieldAccessorImpl.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/ch/qos/logback/logback-core/1.2.11/logback-core-1.2.11.jar!/ch/qos/logback/core/pattern/Converter.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/ch/qos/logback/logback-core/1.2.11/logback-core-1.2.11.jar",
+      "absolutePath": "../../../.m2/repository/ch/qos/logback/logback-core/1.2.11/logback-core-1.2.11.jar"
+    },
+    {
+      "resourceURL": "jrt:/java.base/sun/nio/cs/Unicode.class",
+      "resourceURI": "jrt:/java.base/sun/nio/cs/Unicode.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/jdk/internal/reflect/MagicAccessorImpl.class",
+      "resourceURI": "jrt:/java.base/jdk/internal/reflect/MagicAccessorImpl.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.8.2/junit-jupiter-engine-5.8.2.jar!/org/junit/jupiter/engine/discovery/MethodSelectorResolver$MethodType.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.8.2/junit-jupiter-engine-5.8.2.jar",
+      "absolutePath": "../../../.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.8.2/junit-jupiter-engine-5.8.2.jar"
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/io/Closeable.class",
+      "resourceURI": "jrt:/java.base/java/io/Closeable.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/lang/ref/WeakReference.class",
+      "resourceURI": "jrt:/java.base/java/lang/ref/WeakReference.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/lang/Number.class",
+      "resourceURI": "jrt:/java.base/java/lang/Number.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/io/BufferedReader.class",
+      "resourceURI": "jrt:/java.base/java/io/BufferedReader.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/util/spi/LocaleServiceProvider.class",
+      "resourceURI": "jrt:/java.base/java/util/spi/LocaleServiceProvider.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/Documents/master_thesis/file-access-log-agent/binaries/real_read_using_bytebuddy_1-12-12/FileAccessAgent_deploy.jar!/com/file_access_agent/advice/InputStreamReadLogAdvice.class",
+      "resourceURI": "file:/home/jonas/Documents/master_thesis/file-access-log-agent/binaries/real_read_using_bytebuddy_1-12-12/FileAccessAgent_deploy.jar",
+      "absolutePath": "../../../Documents/master_thesis/file-access-log-agent/binaries/real_read_using_bytebuddy_1-12-12/FileAccessAgent_deploy.jar"
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/text/AttributedCharacterIterator$Attribute.class",
+      "resourceURI": "jrt:/java.base/java/text/AttributedCharacterIterator$Attribute.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar!/org/assertj/core/api/AbstractCollectionAssert.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar",
+      "absolutePath": "../../../.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar"
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/lang/String.class",
+      "resourceURI": "jrt:/java.base/java/lang/String.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar!/org/assertj/core/api/AbstractShortArrayAssert.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar",
+      "absolutePath": "../../../.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar"
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar!/org/assertj/core/api/AbstractListAssert.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar",
+      "absolutePath": "../../../.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar"
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/util/stream/IntPipeline.class",
+      "resourceURI": "jrt:/java.base/java/util/stream/IntPipeline.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar!/org/assertj/core/api/AbstractOffsetTimeAssert.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar",
+      "absolutePath": "../../../.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar"
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/org/junit/platform/junit-platform-launcher/1.8.2/junit-platform-launcher-1.8.2.jar!/org/junit/platform/launcher/TestPlan.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/org/junit/platform/junit-platform-launcher/1.8.2/junit-platform-launcher-1.8.2.jar",
+      "absolutePath": "../../../.m2/repository/org/junit/platform/junit-platform-launcher/1.8.2/junit-platform-launcher-1.8.2.jar"
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/lang/ref/SoftReference.class",
+      "resourceURI": "jrt:/java.base/java/lang/ref/SoftReference.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/lang/IllegalStateException.class",
+      "resourceURI": "jrt:/java.base/java/lang/IllegalStateException.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/util/concurrent/ConcurrentHashMap$CollectionView.class",
+      "resourceURI": "jrt:/java.base/java/util/concurrent/ConcurrentHashMap$CollectionView.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/lang/RuntimeException.class",
+      "resourceURI": "jrt:/java.base/java/lang/RuntimeException.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/text/Format$Field.class",
+      "resourceURI": "jrt:/java.base/java/text/Format$Field.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/util/spi/CalendarDataProvider.class",
+      "resourceURI": "jrt:/java.base/java/util/spi/CalendarDataProvider.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/util/stream/Sink$ChainedInt.class",
+      "resourceURI": "jrt:/java.base/java/util/stream/Sink$ChainedInt.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/util/stream/ReferencePipeline.class",
+      "resourceURI": "jrt:/java.base/java/util/stream/ReferencePipeline.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar!/org/assertj/core/api/AbstractLocalDateAssert.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar",
+      "absolutePath": "../../../.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar"
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/io/IOException.class",
+      "resourceURI": "jrt:/java.base/java/io/IOException.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/io/ebean/persistence-api/3.0/persistence-api-3.0.jar!/javax/persistence/PersistenceException.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/io/ebean/persistence-api/3.0/persistence-api-3.0.jar",
+      "absolutePath": "../../../.m2/repository/io/ebean/persistence-api/3.0/persistence-api-3.0.jar"
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/util/concurrent/FutureTask.class",
+      "resourceURI": "jrt:/java.base/java/util/concurrent/FutureTask.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/io/ObjectInputStream$Logging.class",
+      "resourceURI": "jrt:/java.base/java/io/ObjectInputStream$Logging.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/sun/util/spi/CalendarProvider.class",
+      "resourceURI": "jrt:/java.base/sun/util/spi/CalendarProvider.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/util/stream/ReduceOps$ReduceOp.class",
+      "resourceURI": "jrt:/java.base/java/util/stream/ReduceOps$ReduceOp.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/org/junit/platform/junit-platform-engine/1.8.2/junit-platform-engine-1.8.2.jar!/org/junit/platform/engine/support/descriptor/EngineDescriptor.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/org/junit/platform/junit-platform-engine/1.8.2/junit-platform-engine-1.8.2.jar",
+      "absolutePath": "../../../.m2/repository/org/junit/platform/junit-platform-engine/1.8.2/junit-platform-engine-1.8.2.jar"
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/org/apache/maven/surefire/surefire-api/3.0.0-M4/surefire-api-3.0.0-M4.jar!/org/apache/maven/surefire/util/CloseableIterator.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/org/apache/maven/surefire/surefire-api/3.0.0-M4/surefire-api-3.0.0-M4.jar",
+      "absolutePath": "../../../.m2/repository/org/apache/maven/surefire/surefire-api/3.0.0-M4/surefire-api-3.0.0-M4.jar"
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/ch/qos/logback/logback-core/1.2.11/logback-core-1.2.11.jar!/ch/qos/logback/core/spi/ContextAwareBase.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/ch/qos/logback/logback-core/1.2.11/logback-core-1.2.11.jar",
+      "absolutePath": "../../../.m2/repository/ch/qos/logback/logback-core/1.2.11/logback-core-1.2.11.jar"
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/lang/Throwable.class",
+      "resourceURI": "jrt:/java.base/java/lang/Throwable.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/io/ObjectInputStream$ValidationList.class",
+      "resourceURI": "jrt:/java.base/java/io/ObjectInputStream$ValidationList.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/io/FilterOutputStream.class",
+      "resourceURI": "jrt:/java.base/java/io/FilterOutputStream.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/ch/qos/logback/logback-core/1.2.11/logback-core-1.2.11.jar!/ch/qos/logback/core/UnsynchronizedAppenderBase.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/ch/qos/logback/logback-core/1.2.11/logback-core-1.2.11.jar",
+      "absolutePath": "../../../.m2/repository/ch/qos/logback/logback-core/1.2.11/logback-core-1.2.11.jar"
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/util/ListResourceBundle.class",
+      "resourceURI": "jrt:/java.base/java/util/ListResourceBundle.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar!/org/assertj/core/api/AbstractIterableAssert.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar",
+      "absolutePath": "../../../.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar"
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/util/TimeZone.class",
+      "resourceURI": "jrt:/java.base/java/util/TimeZone.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/util/concurrent/CopyOnWriteArrayList.class",
+      "resourceURI": "jrt:/java.base/java/util/concurrent/CopyOnWriteArrayList.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/util/ResourceBundle.class",
+      "resourceURI": "jrt:/java.base/java/util/ResourceBundle.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/util/Date.class",
+      "resourceURI": "jrt:/java.base/java/util/Date.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar!/org/assertj/core/api/AbstractUriAssert.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar",
+      "absolutePath": "../../../.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar"
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/util/stream/ReferencePipeline$StatefulOp.class",
+      "resourceURI": "jrt:/java.base/java/util/stream/ReferencePipeline$StatefulOp.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "file:/home/jonas/Misc/Repos/ebean/ebean-api/target/classes/META-INF/ebean-maven-version.txt",
+      "resourceURI": "file:/home/jonas/Misc/Repos/ebean/ebean-api/target/classes/META-INF/ebean-maven-version.txt",
+      "absolutePath": "ebean-api/target/classes/META-INF/ebean-maven-version.txt"
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar!/org/assertj/core/api/AbstractByteAssert.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar",
+      "absolutePath": "../../../.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar"
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar!/org/assertj/core/internal/AbstractComparisonStrategy.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar",
+      "absolutePath": "../../../.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar"
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/ch/qos/logback/logback-core/1.2.11/logback-core-1.2.11.jar!/ch/qos/logback/core/pattern/DynamicConverter.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/ch/qos/logback/logback-core/1.2.11/logback-core-1.2.11.jar",
+      "absolutePath": "../../../.m2/repository/ch/qos/logback/logback-core/1.2.11/logback-core-1.2.11.jar"
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/lang/Boolean.class",
+      "resourceURI": "jrt:/java.base/java/lang/Boolean.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/security/Policy.class",
+      "resourceURI": "jrt:/java.base/java/security/Policy.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.8.2/junit-jupiter-engine-5.8.2.jar!/org/junit/jupiter/engine/descriptor/MethodBasedTestDescriptor.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.8.2/junit-jupiter-engine-5.8.2.jar",
+      "absolutePath": "../../../.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.8.2/junit-jupiter-engine-5.8.2.jar"
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/util/ResourceBundle$Control.class",
+      "resourceURI": "jrt:/java.base/java/util/ResourceBundle$Control.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "file:/home/jonas/Misc/Repos/ebean/ebean-api/target/classes/io/ebean/config/dbplatform/DbStandardHistorySupport.class",
+      "resourceURI": "file:/home/jonas/Misc/Repos/ebean/ebean-api/target/classes/io/ebean/config/dbplatform/DbStandardHistorySupport.class",
+      "absolutePath": "ebean-api/target/classes/io/ebean/config/dbplatform/DbStandardHistorySupport.class"
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/lang/invoke/DelegatingMethodHandle.class",
+      "resourceURI": "jrt:/java.base/java/lang/invoke/DelegatingMethodHandle.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/util/ResourceBundle$SingleFormatControl.class",
+      "resourceURI": "jrt:/java.base/java/util/ResourceBundle$SingleFormatControl.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/util/AbstractQueue.class",
+      "resourceURI": "jrt:/java.base/java/util/AbstractQueue.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/io/OutputStream.class",
+      "resourceURI": "jrt:/java.base/java/io/OutputStream.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar!/org/assertj/core/api/AbstractDateAssert.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar",
+      "absolutePath": "../../../.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar"
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/ch/qos/logback/logback-core/1.2.11/logback-core-1.2.11.jar!/ch/qos/logback/core/encoder/EncoderBase.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/ch/qos/logback/logback-core/1.2.11/logback-core-1.2.11.jar",
+      "absolutePath": "../../../.m2/repository/ch/qos/logback/logback-core/1.2.11/logback-core-1.2.11.jar"
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/text/NumberFormat.class",
+      "resourceURI": "jrt:/java.base/java/text/NumberFormat.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/security/PermissionCollection.class",
+      "resourceURI": "jrt:/java.base/java/security/PermissionCollection.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/jdk/internal/reflect/UnsafeStaticFieldAccessorImpl.class",
+      "resourceURI": "jrt:/java.base/jdk/internal/reflect/UnsafeStaticFieldAccessorImpl.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/io/ObjectInputFilter.class",
+      "resourceURI": "jrt:/java.base/java/io/ObjectInputFilter.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/sun/util/calendar/AbstractCalendar.class",
+      "resourceURI": "jrt:/java.base/sun/util/calendar/AbstractCalendar.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/ch/qos/logback/logback-core/1.2.11/logback-core-1.2.11.jar!/ch/qos/logback/core/OutputStreamAppender.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/ch/qos/logback/logback-core/1.2.11/logback-core-1.2.11.jar",
+      "absolutePath": "../../../.m2/repository/ch/qos/logback/logback-core/1.2.11/logback-core-1.2.11.jar"
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.8.2/junit-jupiter-engine-5.8.2.jar!/org/junit/jupiter/engine/discovery/AbstractOrderingVisitor.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.8.2/junit-jupiter-engine-5.8.2.jar",
+      "absolutePath": "../../../.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.8.2/junit-jupiter-engine-5.8.2.jar"
+    },
+    {
+      "resourceURL": "jrt:/java.base/jdk/internal/reflect/ConstructorAccessorImpl.class",
+      "resourceURI": "jrt:/java.base/jdk/internal/reflect/ConstructorAccessorImpl.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/io/ObjectInputStream$BlockDataInputStream.class",
+      "resourceURI": "jrt:/java.base/java/io/ObjectInputStream$BlockDataInputStream.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.8.2/junit-jupiter-api-5.8.2.jar!/org/junit/jupiter/api/DisplayNameGenerator$Standard.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.8.2/junit-jupiter-api-5.8.2.jar",
+      "absolutePath": "../../../.m2/repository/org/junit/jupiter/junit-jupiter-api/5.8.2/junit-jupiter-api-5.8.2.jar"
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/io/ObjectStreamClass.class",
+      "resourceURI": "jrt:/java.base/java/io/ObjectStreamClass.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar!/org/assertj/core/data/TemporalUnitOffset.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar",
+      "absolutePath": "../../../.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar"
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/lang/invoke/VarHandle.class",
+      "resourceURI": "jrt:/java.base/java/lang/invoke/VarHandle.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar!/org/assertj/core/api/AbstractFileAssert.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar",
+      "absolutePath": "../../../.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar"
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/lang/invoke/VarHandleReferences$FieldInstanceReadOnly.class",
+      "resourceURI": "jrt:/java.base/java/lang/invoke/VarHandleReferences$FieldInstanceReadOnly.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar!/org/assertj/core/api/AbstractOffsetDateTimeAssert.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar",
+      "absolutePath": "../../../.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar"
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar!/org/assertj/core/api/AbstractCharacterAssert.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar",
+      "absolutePath": "../../../.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar"
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/lang/invoke/DirectMethodHandle.class",
+      "resourceURI": "jrt:/java.base/java/lang/invoke/DirectMethodHandle.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/sun/util/calendar/CalendarDate.class",
+      "resourceURI": "jrt:/java.base/sun/util/calendar/CalendarDate.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/lang/Thread.class",
+      "resourceURI": "jrt:/java.base/java/lang/Thread.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar!/org/assertj/core/api/AbstractInstantAssert.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar",
+      "absolutePath": "../../../.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar"
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/util/concurrent/locks/AbstractOwnableSynchronizer.class",
+      "resourceURI": "jrt:/java.base/java/util/concurrent/locks/AbstractOwnableSynchronizer.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/time/DateTimeException.class",
+      "resourceURI": "jrt:/java.base/java/time/DateTimeException.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/util/regex/Pattern$CharProperty.class",
+      "resourceURI": "jrt:/java.base/java/util/regex/Pattern$CharProperty.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/jdk/internal/loader/Resource.class",
+      "resourceURI": "jrt:/java.base/jdk/internal/loader/Resource.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar!/org/assertj/core/api/AbstractBooleanAssert.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar",
+      "absolutePath": "../../../.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar"
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar!/org/assertj/core/api/FactoryBasedNavigableListAssert.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar",
+      "absolutePath": "../../../.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar"
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/io/ObjectInputStream$FieldValues.class",
+      "resourceURI": "jrt:/java.base/java/io/ObjectInputStream$FieldValues.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/io/ebean/persistence-api/3.0/persistence-api-3.0.jar!/javax/persistence/PessimisticLockException.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/io/ebean/persistence-api/3.0/persistence-api-3.0.jar",
+      "absolutePath": "../../../.m2/repository/io/ebean/persistence-api/3.0/persistence-api-3.0.jar"
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/util/regex/Pattern$Start.class",
+      "resourceURI": "jrt:/java.base/java/util/regex/Pattern$Start.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/sun/util/locale/provider/JRELocaleProviderAdapter.class",
+      "resourceURI": "jrt:/java.base/sun/util/locale/provider/JRELocaleProviderAdapter.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/util/stream/AbstractSpinedBuffer.class",
+      "resourceURI": "jrt:/java.base/java/util/stream/AbstractSpinedBuffer.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/lang/Exception.class",
+      "resourceURI": "jrt:/java.base/java/lang/Exception.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar!/org/assertj/core/api/AbstractAssert.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar",
+      "absolutePath": "../../../.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar"
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/io/ObjectStreamConstants.class",
+      "resourceURI": "jrt:/java.base/java/io/ObjectStreamConstants.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/io/ClassCache.class",
+      "resourceURI": "jrt:/java.base/java/io/ClassCache.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/nio/ByteBuffer.class",
+      "resourceURI": "jrt:/java.base/java/nio/ByteBuffer.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.management/sun/management/NotificationEmitterSupport.class",
+      "resourceURI": "jrt:/java.management/sun/management/NotificationEmitterSupport.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/util/stream/Sink$ChainedReference.class",
+      "resourceURI": "jrt:/java.base/java/util/stream/Sink$ChainedReference.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar!/org/assertj/core/api/AbstractBigIntegerAssert.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar",
+      "absolutePath": "../../../.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar"
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/util/concurrent/locks/ReentrantLock$Sync.class",
+      "resourceURI": "jrt:/java.base/java/util/concurrent/locks/ReentrantLock$Sync.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/io/InputStream.class",
+      "resourceURI": "jrt:/java.base/java/io/InputStream.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/org/apache/maven/surefire/surefire-api/3.0.0-M4/surefire-api-3.0.0-M4.jar!/org/apache/maven/surefire/shade/api/org/apache/commons/codec/binary/BaseNCodec.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/org/apache/maven/surefire/surefire-api/3.0.0-M4/surefire-api-3.0.0-M4.jar",
+      "absolutePath": "../../../.m2/repository/org/apache/maven/surefire/surefire-api/3.0.0-M4/surefire-api-3.0.0-M4.jar"
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/util/stream/Streams$ConcatSpliterator.class",
+      "resourceURI": "jrt:/java.base/java/util/stream/Streams$ConcatSpliterator.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/sun/util/calendar/CalendarSystem.class",
+      "resourceURI": "jrt:/java.base/sun/util/calendar/CalendarSystem.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/lang/ClassLoader.class",
+      "resourceURI": "jrt:/java.base/java/lang/ClassLoader.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/org/junit/platform/junit-platform-engine/1.8.2/junit-platform-engine-1.8.2.jar!/org/junit/platform/engine/support/descriptor/AbstractTestDescriptor.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/org/junit/platform/junit-platform-engine/1.8.2/junit-platform-engine-1.8.2.jar",
+      "absolutePath": "../../../.m2/repository/org/junit/platform/junit-platform-engine/1.8.2/junit-platform-engine-1.8.2.jar"
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/util/stream/Streams$AbstractStreamBuilderImpl.class",
+      "resourceURI": "jrt:/java.base/java/util/stream/Streams$AbstractStreamBuilderImpl.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/lang/System$LoggerFinder.class",
+      "resourceURI": "jrt:/java.base/java/lang/System$LoggerFinder.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar!/org/assertj/core/api/AbstractDurationAssert.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar",
+      "absolutePath": "../../../.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar"
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/util/IdentityHashMap$IdentityHashMapIterator.class",
+      "resourceURI": "jrt:/java.base/java/util/IdentityHashMap$IdentityHashMapIterator.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/org/apache/maven/surefire/surefire-api/3.0.0-M4/surefire-api-3.0.0-M4.jar!/org/apache/maven/surefire/providerapi/AbstractProvider.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/org/apache/maven/surefire/surefire-api/3.0.0-M4/surefire-api-3.0.0-M4.jar",
+      "absolutePath": "../../../.m2/repository/org/apache/maven/surefire/surefire-api/3.0.0-M4/surefire-api-3.0.0-M4.jar"
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.8.2/junit-jupiter-engine-5.8.2.jar!/org/junit/jupiter/engine/descriptor/ClassBasedTestDescriptor.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.8.2/junit-jupiter-engine-5.8.2.jar",
+      "absolutePath": "../../../.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.8.2/junit-jupiter-engine-5.8.2.jar"
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/util/stream/AbstractPipeline.class",
+      "resourceURI": "jrt:/java.base/java/util/stream/AbstractPipeline.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar!/org/assertj/core/api/AbstractBooleanArrayAssert.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar",
+      "absolutePath": "../../../.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar"
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar!/org/assertj/core/api/AbstractArrayAssert.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar",
+      "absolutePath": "../../../.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar"
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/io/Writer.class",
+      "resourceURI": "jrt:/java.base/java/io/Writer.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/security/SecureClassLoader.class",
+      "resourceURI": "jrt:/java.base/java/security/SecureClassLoader.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/lang/ThreadLocal.class",
+      "resourceURI": "jrt:/java.base/java/lang/ThreadLocal.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/org/apache/maven/surefire/surefire-booter/3.0.0-M4/surefire-booter-3.0.0-M4.jar!/org/apache/maven/surefire/booter/PpidChecker$ProcessInfoConsumer.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/org/apache/maven/surefire/surefire-booter/3.0.0-M4/surefire-booter-3.0.0-M4.jar",
+      "absolutePath": "../../../.m2/repository/org/apache/maven/surefire/surefire-booter/3.0.0-M4/surefire-booter-3.0.0-M4.jar"
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/lang/Enum.class",
+      "resourceURI": "jrt:/java.base/java/lang/Enum.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/io/ObjectInputStream$GetField.class",
+      "resourceURI": "jrt:/java.base/java/io/ObjectInputStream$GetField.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "file:/home/jonas/Misc/Repos/ebean/ebean-api/target/classes/io/ebean/config/dbplatform/AbstractDbEncrypt.class",
+      "resourceURI": "file:/home/jonas/Misc/Repos/ebean/ebean-api/target/classes/io/ebean/config/dbplatform/AbstractDbEncrypt.class",
+      "absolutePath": "ebean-api/target/classes/io/ebean/config/dbplatform/AbstractDbEncrypt.class"
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/org/junit/platform/junit-platform-engine/1.8.2/junit-platform-engine-1.8.2.jar!/org/junit/platform/engine/support/hierarchical/ThrowableCollector.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/org/junit/platform/junit-platform-engine/1.8.2/junit-platform-engine-1.8.2.jar",
+      "absolutePath": "../../../.m2/repository/org/junit/platform/junit-platform-engine/1.8.2/junit-platform-engine-1.8.2.jar"
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/lang/invoke/MethodHandle.class",
+      "resourceURI": "jrt:/java.base/java/lang/invoke/MethodHandle.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/ch/qos/logback/logback-classic/1.2.11/logback-classic-1.2.11.jar!/ch/qos/logback/classic/pattern/ClassicConverter.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/ch/qos/logback/logback-classic/1.2.11/logback-classic-1.2.11.jar",
+      "absolutePath": "../../../.m2/repository/ch/qos/logback/logback-classic/1.2.11/logback-classic-1.2.11.jar"
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/util/stream/SortedOps$AbstractRefSortingSink.class",
+      "resourceURI": "jrt:/java.base/java/util/stream/SortedOps$AbstractRefSortingSink.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/io/PrintStream.class",
+      "resourceURI": "jrt:/java.base/java/io/PrintStream.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/lang/invoke/BoundMethodHandle.class",
+      "resourceURI": "jrt:/java.base/java/lang/invoke/BoundMethodHandle.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/org/junit/platform/junit-platform-commons/1.8.2/junit-platform-commons-1.8.2.jar!/org/junit/platform/commons/function/Try.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/org/junit/platform/junit-platform-commons/1.8.2/junit-platform-commons-1.8.2.jar",
+      "absolutePath": "../../../.m2/repository/org/junit/platform/junit-platform-commons/1.8.2/junit-platform-commons-1.8.2.jar"
+    },
+    {
+      "resourceURL": "file:/home/jonas/Misc/Repos/ebean/platforms/oracle/target/classes/io/ebean/platform/oracle/OraclePlatform.class",
+      "resourceURI": "file:/home/jonas/Misc/Repos/ebean/platforms/oracle/target/classes/io/ebean/platform/oracle/OraclePlatform.class",
+      "absolutePath": "platforms/oracle/target/classes/io/ebean/platform/oracle/OraclePlatform.class"
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/util/Collections$SynchronizedCollection.class",
+      "resourceURI": "jrt:/java.base/java/util/Collections$SynchronizedCollection.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.8.2/junit-jupiter-engine-5.8.2.jar!/org/junit/jupiter/engine/discovery/AbstractAnnotatedDescriptorWrapper.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.8.2/junit-jupiter-engine-5.8.2.jar",
+      "absolutePath": "../../../.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.8.2/junit-jupiter-engine-5.8.2.jar"
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar!/org/assertj/core/api/AbstractTemporalAssert.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar",
+      "absolutePath": "../../../.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar"
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar!/org/assertj/core/api/AbstractBigDecimalAssert.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar",
+      "absolutePath": "../../../.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar"
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/util/regex/Pattern$SliceNode.class",
+      "resourceURI": "jrt:/java.base/java/util/regex/Pattern$SliceNode.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.logging/java/util/logging/Logger.class",
+      "resourceURI": "jrt:/java.logging/java/util/logging/Logger.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar!/org/assertj/core/api/AbstractShortAssert.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar",
+      "absolutePath": "../../../.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar"
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/nio/charset/Charset.class",
+      "resourceURI": "jrt:/java.base/java/nio/charset/Charset.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/security/GeneralSecurityException.class",
+      "resourceURI": "jrt:/java.base/java/security/GeneralSecurityException.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar!/org/assertj/core/api/AbstractFloatAssert.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar",
+      "absolutePath": "../../../.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar"
+    },
+    {
+      "resourceURL": "jrt:/java.management/sun/management/spi/PlatformMBeanProvider.class",
+      "resourceURI": "jrt:/java.management/sun/management/spi/PlatformMBeanProvider.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/util/AbstractMap.class",
+      "resourceURI": "jrt:/java.base/java/util/AbstractMap.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/jdk/internal/reflect/UnsafeFieldAccessorImpl.class",
+      "resourceURI": "jrt:/java.base/jdk/internal/reflect/UnsafeFieldAccessorImpl.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/util/AbstractCollection.class",
+      "resourceURI": "jrt:/java.base/java/util/AbstractCollection.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/sun/util/locale/provider/LocaleProviderAdapter.class",
+      "resourceURI": "jrt:/java.base/sun/util/locale/provider/LocaleProviderAdapter.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar!/org/assertj/core/api/AbstractDoubleArrayAssert.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar",
+      "absolutePath": "../../../.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar"
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/net/URLClassLoader.class",
+      "resourceURI": "jrt:/java.base/java/net/URLClassLoader.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar!/org/opentest4j/IncompleteExecutionException.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar",
+      "absolutePath": "../../../.m2/repository/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar"
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar!/org/assertj/core/api/AbstractDoubleAssert.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar",
+      "absolutePath": "../../../.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar"
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/security/Permission.class",
+      "resourceURI": "jrt:/java.base/java/security/Permission.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/util/zip/CRC32.class",
+      "resourceURI": "jrt:/java.base/java/util/zip/CRC32.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/util/concurrent/ConcurrentHashMap$Traverser.class",
+      "resourceURI": "jrt:/java.base/java/util/concurrent/ConcurrentHashMap$Traverser.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/io/ObjectInputValidation.class",
+      "resourceURI": "jrt:/java.base/java/io/ObjectInputValidation.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/text/spi/NumberFormatProvider.class",
+      "resourceURI": "jrt:/java.base/java/text/spi/NumberFormatProvider.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "file:/home/jonas/Misc/Repos/ebean/ebean-api/target/classes/io/ebean/DataIntegrityException.class",
+      "resourceURI": "file:/home/jonas/Misc/Repos/ebean/ebean-api/target/classes/io/ebean/DataIntegrityException.class",
+      "absolutePath": "ebean-api/target/classes/io/ebean/DataIntegrityException.class"
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/security/BasicPermission.class",
+      "resourceURI": "jrt:/java.base/java/security/BasicPermission.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/util/stream/MatchOps$BooleanTerminalSink.class",
+      "resourceURI": "jrt:/java.base/java/util/stream/MatchOps$BooleanTerminalSink.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/util/stream/StreamSpliterators$AbstractWrappingSpliterator.class",
+      "resourceURI": "jrt:/java.base/java/util/stream/StreamSpliterators$AbstractWrappingSpliterator.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/lang/CharacterData.class",
+      "resourceURI": "jrt:/java.base/java/lang/CharacterData.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar!/org/assertj/core/api/AbstractIntegerAssert.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar",
+      "absolutePath": "../../../.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar"
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/lang/Class.class",
+      "resourceURI": "jrt:/java.base/java/lang/Class.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/ch/qos/logback/logback-classic/1.2.11/logback-classic-1.2.11.jar!/ch/qos/logback/classic/pattern/ThrowableHandlingConverter.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/ch/qos/logback/logback-classic/1.2.11/logback-classic-1.2.11.jar",
+      "absolutePath": "../../../.m2/repository/ch/qos/logback/logback-classic/1.2.11/logback-classic-1.2.11.jar"
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/io/ObjectInputStream$HandleTable.class",
+      "resourceURI": "jrt:/java.base/java/io/ObjectInputStream$HandleTable.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/org/junit/platform/junit-platform-launcher/1.8.2/junit-platform-launcher-1.8.2.jar!/org/junit/platform/launcher/core/DelegatingEngineExecutionListener.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/org/junit/platform/junit-platform-launcher/1.8.2/junit-platform-launcher-1.8.2.jar",
+      "absolutePath": "../../../.m2/repository/org/junit/platform/junit-platform-launcher/1.8.2/junit-platform-launcher-1.8.2.jar"
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar!/org/assertj/core/api/AbstractThrowableAssert.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar",
+      "absolutePath": "../../../.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar"
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar!/org/assertj/core/api/AbstractUrlAssert.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar",
+      "absolutePath": "../../../.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar"
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/nio/channels/ReadableByteChannel.class",
+      "resourceURI": "jrt:/java.base/java/nio/channels/ReadableByteChannel.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/util/stream/IntPipeline$StatelessOp.class",
+      "resourceURI": "jrt:/java.base/java/util/stream/IntPipeline$StatelessOp.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar!/org/assertj/core/api/AbstractPeriodAssert.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar",
+      "absolutePath": "../../../.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar"
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/ch/qos/logback/logback-core/1.2.11/logback-core-1.2.11.jar!/ch/qos/logback/core/pattern/FormattingConverter.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/ch/qos/logback/logback-core/1.2.11/logback-core-1.2.11.jar",
+      "absolutePath": "../../../.m2/repository/ch/qos/logback/logback-core/1.2.11/logback-core-1.2.11.jar"
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/Documents/master_thesis/file-access-log-agent/binaries/real_read_using_bytebuddy_1-12-12/FileAccessAgent_deploy.jar!/com/file_access_agent/advice/ImageIOLogReadURLAdvice.class",
+      "resourceURI": "file:/home/jonas/Documents/master_thesis/file-access-log-agent/binaries/real_read_using_bytebuddy_1-12-12/FileAccessAgent_deploy.jar",
+      "absolutePath": "../../../Documents/master_thesis/file-access-log-agent/binaries/real_read_using_bytebuddy_1-12-12/FileAccessAgent_deploy.jar"
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/io/Externalizable.class",
+      "resourceURI": "jrt:/java.base/java/io/Externalizable.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar!/org/assertj/core/api/AbstractCharArrayAssert.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar",
+      "absolutePath": "../../../.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar"
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar!/org/assertj/core/configuration/PreferredAssumptionException.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar",
+      "absolutePath": "../../../.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar"
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/util/concurrent/ThreadPoolExecutor.class",
+      "resourceURI": "jrt:/java.base/java/util/concurrent/ThreadPoolExecutor.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/util/Collections$UnmodifiableList.class",
+      "resourceURI": "jrt:/java.base/java/util/Collections$UnmodifiableList.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/util/concurrent/ForkJoinTask.class",
+      "resourceURI": "jrt:/java.base/java/util/concurrent/ForkJoinTask.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/util/HashMap$HashMapSpliterator.class",
+      "resourceURI": "jrt:/java.base/java/util/HashMap$HashMapSpliterator.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/lang/SecurityException.class",
+      "resourceURI": "jrt:/java.base/java/lang/SecurityException.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/sun/util/calendar/BaseCalendar$Date.class",
+      "resourceURI": "jrt:/java.base/sun/util/calendar/BaseCalendar$Date.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/io/ebean/persistence-api/3.0/persistence-api-3.0.jar!/javax/persistence/OptimisticLockException.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/io/ebean/persistence-api/3.0/persistence-api-3.0.jar",
+      "absolutePath": "../../../.m2/repository/io/ebean/persistence-api/3.0/persistence-api-3.0.jar"
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar!/org/assertj/core/api/AbstractCharSequenceAssert.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar",
+      "absolutePath": "../../../.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar"
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar!/org/assertj/core/api/AbstractIntArrayAssert.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar",
+      "absolutePath": "../../../.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar"
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/io/DataInput.class",
+      "resourceURI": "jrt:/java.base/java/io/DataInput.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar!/org/assertj/core/api/AbstractLongArrayAssert.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar",
+      "absolutePath": "../../../.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar"
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/io/OutputStreamWriter.class",
+      "resourceURI": "jrt:/java.base/java/io/OutputStreamWriter.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/Documents/master_thesis/file-access-log-agent/binaries/real_read_using_bytebuddy_1-12-12/FileAccessAgent_deploy.jar!/com/file_access_agent/advice/ImageInputStreamCreatedFileLogAdvice.class",
+      "resourceURI": "file:/home/jonas/Documents/master_thesis/file-access-log-agent/binaries/real_read_using_bytebuddy_1-12-12/FileAccessAgent_deploy.jar",
+      "absolutePath": "../../../Documents/master_thesis/file-access-log-agent/binaries/real_read_using_bytebuddy_1-12-12/FileAccessAgent_deploy.jar"
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/lang/invoke/VarHandleInts$FieldStaticReadOnly.class",
+      "resourceURI": "jrt:/java.base/java/lang/invoke/VarHandleInts$FieldStaticReadOnly.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/io/Reader.class",
+      "resourceURI": "jrt:/java.base/java/io/Reader.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/text/FieldPosition.class",
+      "resourceURI": "jrt:/java.base/java/text/FieldPosition.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/sun/util/locale/provider/CalendarDataProviderImpl.class",
+      "resourceURI": "jrt:/java.base/sun/util/locale/provider/CalendarDataProviderImpl.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.8.2/junit-jupiter-api-5.8.2.jar!/org/junit/jupiter/api/DisplayNameGenerator$Simple.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.8.2/junit-jupiter-api-5.8.2.jar",
+      "absolutePath": "../../../.m2/repository/org/junit/jupiter/junit-jupiter-api/5.8.2/junit-jupiter-api-5.8.2.jar"
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/text/Format.class",
+      "resourceURI": "jrt:/java.base/java/text/Format.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar!/org/assertj/core/api/AbstractLocalDateTimeAssert.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar",
+      "absolutePath": "../../../.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar"
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/io/ObjectInput.class",
+      "resourceURI": "jrt:/java.base/java/io/ObjectInput.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/text/spi/DecimalFormatSymbolsProvider.class",
+      "resourceURI": "jrt:/java.base/java/text/spi/DecimalFormatSymbolsProvider.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/util/concurrent/locks/AbstractQueuedSynchronizer.class",
+      "resourceURI": "jrt:/java.base/java/util/concurrent/locks/AbstractQueuedSynchronizer.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/lang/AutoCloseable.class",
+      "resourceURI": "jrt:/java.base/java/lang/AutoCloseable.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/java/util/concurrent/locks/AbstractQueuedSynchronizer$Node.class",
+      "resourceURI": "jrt:/java.base/java/util/concurrent/locks/AbstractQueuedSynchronizer$Node.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jrt:/java.base/jdk/internal/logger/DefaultLoggerFinder.class",
+      "resourceURI": "jrt:/java.base/jdk/internal/logger/DefaultLoggerFinder.class",
+      "absolutePath": null
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar!/org/assertj/core/api/AbstractComparableAssert.class",
+      "resourceURI": "file:/home/jonas/.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar",
+      "absolutePath": "../../../.m2/repository/org/assertj/assertj-core/3.22.0/assertj-core-3.22.0.jar"
+    }
+  ],
+  "accessed_jar_entries": [
+    {
+      "jar_entry": "ch/qos/logback/core/status/StatusBase.class"
+    },
+    {
+      "jar_entry": "org/assertj/core/api/AbstractEnumerableAssert.class"
+    },
+    {
+      "jar_entry": "org/apache/maven/surefire/booter/AbstractPathConfiguration.class"
+    },
+    {
+      "jar_entry": "org/junit/jupiter/engine/descriptor/AbstractExtensionContext.class"
+    },
+    {
+      "jar_entry": "org/junit/jupiter/engine/descriptor/JupiterTestDescriptor.class"
+    },
+    {
+      "jar_entry": "ch/qos/logback/core/LayoutBase.class"
+    },
+    {
+      "jar_entry": "org/assertj/core/api/AbstractObjectAssert.class"
+    },
+    {
+      "jar_entry": "org/assertj/core/api/AbstractByteArrayAssert.class"
+    },
+    {
+      "jar_entry": "org/junit/jupiter/engine/discovery/predicates/IsTestableMethod.class"
+    },
+    {
+      "jar_entry": "org/junit/platform/engine/support/hierarchical/HierarchicalTestEngine.class"
+    },
+    {
+      "jar_entry": "com/file_access_agent/advice/FilesNewInputStreamAdvice.class"
+    },
+    {
+      "jar_entry": "org/assertj/core/description/Description.class"
+    },
+    {
+      "jar_entry": "org/junit/platform/commons/util/PreconditionViolationException.class"
+    },
+    {
+      "jar_entry": "org/assertj/core/api/AbstractLocalTimeAssert.class"
+    },
+    {
+      "jar_entry": "org/assertj/core/api/AbstractLongAssert.class"
+    },
+    {
+      "jar_entry": "org/assertj/core/api/AbstractStringAssert.class"
+    },
+    {
+      "jar_entry": "ch/qos/logback/core/ContextBase.class"
+    },
+    {
+      "jar_entry": "org/assertj/core/api/AbstractZonedDateTimeAssert.class"
+    },
+    {
+      "jar_entry": "org/assertj/core/api/AbstractInputStreamAssert.class"
+    },
+    {
+      "jar_entry": "org/assertj/core/api/AbstractFloatArrayAssert.class"
+    },
+    {
+      "jar_entry": "org/junit/platform/commons/JUnitException.class"
+    },
+    {
+      "jar_entry": "ch/qos/logback/core/pattern/Converter.class"
+    },
+    {
+      "jar_entry": "org/junit/jupiter/engine/discovery/MethodSelectorResolver$MethodType.class"
+    },
+    {
+      "jar_entry": "com/file_access_agent/advice/InputStreamReadLogAdvice.class"
+    },
+    {
+      "jar_entry": "org/assertj/core/api/AbstractCollectionAssert.class"
+    },
+    {
+      "jar_entry": "org/assertj/core/api/AbstractShortArrayAssert.class"
+    },
+    {
+      "jar_entry": "org/assertj/core/api/AbstractListAssert.class"
+    },
+    {
+      "jar_entry": "org/assertj/core/api/AbstractOffsetTimeAssert.class"
+    },
+    {
+      "jar_entry": "org/junit/platform/launcher/TestPlan.class"
+    },
+    {
+      "jar_entry": "org/assertj/core/api/AbstractLocalDateAssert.class"
+    },
+    {
+      "jar_entry": "javax/persistence/PersistenceException.class"
+    },
+    {
+      "jar_entry": "org/junit/platform/engine/support/descriptor/EngineDescriptor.class"
+    },
+    {
+      "jar_entry": "org/apache/maven/surefire/util/CloseableIterator.class"
+    },
+    {
+      "jar_entry": "ch/qos/logback/core/spi/ContextAwareBase.class"
+    },
+    {
+      "jar_entry": "ch/qos/logback/core/UnsynchronizedAppenderBase.class"
+    },
+    {
+      "jar_entry": "org/assertj/core/api/AbstractIterableAssert.class"
+    },
+    {
+      "jar_entry": "org/assertj/core/api/AbstractUriAssert.class"
+    },
+    {
+      "jar_entry": "org/assertj/core/api/AbstractByteAssert.class"
+    },
+    {
+      "jar_entry": "org/assertj/core/internal/AbstractComparisonStrategy.class"
+    },
+    {
+      "jar_entry": "ch/qos/logback/core/pattern/DynamicConverter.class"
+    },
+    {
+      "jar_entry": "org/junit/jupiter/engine/descriptor/MethodBasedTestDescriptor.class"
+    },
+    {
+      "jar_entry": "org/assertj/core/api/AbstractDateAssert.class"
+    },
+    {
+      "jar_entry": "ch/qos/logback/core/encoder/EncoderBase.class"
+    },
+    {
+      "jar_entry": "ch/qos/logback/core/OutputStreamAppender.class"
+    },
+    {
+      "jar_entry": "org/junit/jupiter/engine/discovery/AbstractOrderingVisitor.class"
+    },
+    {
+      "jar_entry": "org/junit/jupiter/api/DisplayNameGenerator$Standard.class"
+    },
+    {
+      "jar_entry": "org/assertj/core/data/TemporalUnitOffset.class"
+    },
+    {
+      "jar_entry": "org/assertj/core/api/AbstractFileAssert.class"
+    },
+    {
+      "jar_entry": "org/assertj/core/api/AbstractOffsetDateTimeAssert.class"
+    },
+    {
+      "jar_entry": "org/assertj/core/api/AbstractCharacterAssert.class"
+    },
+    {
+      "jar_entry": "org/assertj/core/api/AbstractInstantAssert.class"
+    },
+    {
+      "jar_entry": "org/assertj/core/api/AbstractBooleanAssert.class"
+    },
+    {
+      "jar_entry": "org/assertj/core/api/FactoryBasedNavigableListAssert.class"
+    },
+    {
+      "jar_entry": "javax/persistence/PessimisticLockException.class"
+    },
+    {
+      "jar_entry": "org/assertj/core/api/AbstractAssert.class"
+    },
+    {
+      "jar_entry": "org/assertj/core/api/AbstractBigIntegerAssert.class"
+    },
+    {
+      "jar_entry": "org/apache/maven/surefire/shade/api/org/apache/commons/codec/binary/BaseNCodec.class"
+    },
+    {
+      "jar_entry": "org/junit/platform/engine/support/descriptor/AbstractTestDescriptor.class"
+    },
+    {
+      "jar_entry": "org/assertj/core/api/AbstractDurationAssert.class"
+    },
+    {
+      "jar_entry": "org/apache/maven/surefire/providerapi/AbstractProvider.class"
+    },
+    {
+      "jar_entry": "org/junit/jupiter/engine/descriptor/ClassBasedTestDescriptor.class"
+    },
+    {
+      "jar_entry": "org/assertj/core/api/AbstractBooleanArrayAssert.class"
+    },
+    {
+      "jar_entry": "org/assertj/core/api/AbstractArrayAssert.class"
+    },
+    {
+      "jar_entry": "org/apache/maven/surefire/booter/PpidChecker$ProcessInfoConsumer.class"
+    },
+    {
+      "jar_entry": "org/junit/platform/engine/support/hierarchical/ThrowableCollector.class"
+    },
+    {
+      "jar_entry": "ch/qos/logback/classic/pattern/ClassicConverter.class"
+    },
+    {
+      "jar_entry": "org/junit/platform/commons/function/Try.class"
+    },
+    {
+      "jar_entry": "org/junit/jupiter/engine/discovery/AbstractAnnotatedDescriptorWrapper.class"
+    },
+    {
+      "jar_entry": "org/assertj/core/api/AbstractTemporalAssert.class"
+    },
+    {
+      "jar_entry": "org/assertj/core/api/AbstractBigDecimalAssert.class"
+    },
+    {
+      "jar_entry": "org/assertj/core/api/AbstractShortAssert.class"
+    },
+    {
+      "jar_entry": "org/assertj/core/api/AbstractFloatAssert.class"
+    },
+    {
+      "jar_entry": "org/assertj/core/api/AbstractDoubleArrayAssert.class"
+    },
+    {
+      "jar_entry": "org/opentest4j/IncompleteExecutionException.class"
+    },
+    {
+      "jar_entry": "org/assertj/core/api/AbstractDoubleAssert.class"
+    },
+    {
+      "jar_entry": "org/assertj/core/api/AbstractIntegerAssert.class"
+    },
+    {
+      "jar_entry": "ch/qos/logback/classic/pattern/ThrowableHandlingConverter.class"
+    },
+    {
+      "jar_entry": "org/junit/platform/launcher/core/DelegatingEngineExecutionListener.class"
+    },
+    {
+      "jar_entry": "org/assertj/core/api/AbstractThrowableAssert.class"
+    },
+    {
+      "jar_entry": "org/assertj/core/api/AbstractUrlAssert.class"
+    },
+    {
+      "jar_entry": "org/assertj/core/api/AbstractPeriodAssert.class"
+    },
+    {
+      "jar_entry": "ch/qos/logback/core/pattern/FormattingConverter.class"
+    },
+    {
+      "jar_entry": "com/file_access_agent/advice/ImageIOLogReadURLAdvice.class"
+    },
+    {
+      "jar_entry": "org/assertj/core/api/AbstractCharArrayAssert.class"
+    },
+    {
+      "jar_entry": "org/assertj/core/configuration/PreferredAssumptionException.class"
+    },
+    {
+      "jar_entry": "javax/persistence/OptimisticLockException.class"
+    },
+    {
+      "jar_entry": "org/assertj/core/api/AbstractCharSequenceAssert.class"
+    },
+    {
+      "jar_entry": "org/assertj/core/api/AbstractIntArrayAssert.class"
+    },
+    {
+      "jar_entry": "org/assertj/core/api/AbstractLongArrayAssert.class"
+    },
+    {
+      "jar_entry": "com/file_access_agent/advice/ImageInputStreamCreatedFileLogAdvice.class"
+    },
+    {
+      "jar_entry": "org/junit/jupiter/api/DisplayNameGenerator$Simple.class"
+    },
+    {
+      "jar_entry": "org/assertj/core/api/AbstractLocalDateTimeAssert.class"
+    },
+    {
+      "jar_entry": "org/assertj/core/api/AbstractComparableAssert.class"
+    },
+    null
+  ],
+  "record_debug_info": [
+    {
+      "recordId": 2780,
+      "info": {
+        "InputStream": "java.io.FileInputStream@51599e95",
+        "created_for_file": "/home/jonas/Misc/Repos/ebean/ebean-api/target/classes/io/ebean/config/dbplatform/DatabasePlatformProvider.class",
+        "record_type": "InputStreamCreatedRecord"
+      },
+      "stackTrace": "java.base/java.lang.Thread.getStackTrace(Thread.java:1610)\njava.base/java.io.FileInputStream.\u003cinit\u003e(FileInputStream.java:159)\njava.base/jdk.internal.loader.URLClassPath$FileLoader$1.getInputStream(URLClassPath.java:1268)\njava.base/jdk.internal.loader.Resource.cachedInputStream(Resource.java:77)\njava.base/jdk.internal.loader.Resource.getByteBuffer(Resource.java:163)\njava.base/jdk.internal.loader.BuiltinClassLoader.defineClass(BuiltinClassLoader.java:853)\njava.base/jdk.internal.loader.BuiltinClassLoader.findClassOnClassPathOrNull(BuiltinClassLoader.java:760)\njava.base/jdk.internal.loader.BuiltinClassLoader.loadClassOrNull(BuiltinClassLoader.java:681)\njava.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:639)\njava.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188)\njava.base/java.lang.ClassLoader.loadClass(ClassLoader.java:520)\njava.base/java.lang.ClassLoader.defineClass1(Native Method)\njava.base/java.lang.ClassLoader.defineClass(ClassLoader.java:1012)\njava.base/java.security.SecureClassLoader.defineClass(SecureClassLoader.java:150)\njava.base/jdk.internal.loader.BuiltinClassLoader.defineClass(BuiltinClassLoader.java:862)\njava.base/jdk.internal.loader.BuiltinClassLoader.findClassOnClassPathOrNull(BuiltinClassLoader.java:760)\njava.base/jdk.internal.loader.BuiltinClassLoader.loadClassOrNull(BuiltinClassLoader.java:681)\njava.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:639)\njava.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188)\njava.base/java.lang.ClassLoader.loadClass(ClassLoader.java:520)\njava.base/java.lang.Class.getDeclaredFields0(Native Method)\njava.base/java.lang.Class.privateGetDeclaredFields(Class.java:3297)\njava.base/java.lang.Class.getDeclaredFields(Class.java:2371)\norg.junit.platform.commons.util.ReflectionUtils.getDeclaredFields(ReflectionUtils.java:1470)\norg.junit.platform.commons.util.ReflectionUtils.findAllFieldsInHierarchy(ReflectionUtils.java:1200)\norg.junit.platform.commons.util.ReflectionUtils.findFields(ReflectionUtils.java:1188)\norg.junit.jupiter.engine.descriptor.ExtensionUtils.registerExtensionsFromFields(ExtensionUtils.java:96)\norg.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.prepare(ClassBasedTestDescriptor.java:150)\norg.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.prepare(ClassBasedTestDescriptor.java:80)\norg.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$prepare$2(NodeTestTask.java:123)\norg.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)\norg.junit.platform.engine.support.hierarchical.NodeTestTask.prepare(NodeTestTask.java:123)\norg.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:90)\njava.base/java.util.ArrayList.forEach(ArrayList.java:1511)\norg.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41)\norg.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:155)\norg.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)\norg.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141)\norg.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)\norg.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139)\norg.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)\norg.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138)\norg.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95)\norg.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.submit(SameThreadHierarchicalTestExecutorService.java:35)\norg.junit.platform.engine.support.hierarchical.HierarchicalTestExecutor.execute(HierarchicalTestExecutor.java:57)\norg.junit.platform.engine.support.hierarchical.HierarchicalTestEngine.execute(HierarchicalTestEngine.java:54)\norg.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:107)\norg.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:88)\norg.junit.platform.launcher.core.EngineExecutionOrchestrator.lambda$execute$0(EngineExecutionOrchestrator.java:54)\norg.junit.platform.launcher.core.EngineExecutionOrchestrator.withInterceptedStreams(EngineExecutionOrchestrator.java:67)\norg.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:52)\norg.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:114)\norg.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:86)\norg.junit.platform.launcher.core.DefaultLauncherSession$DelegatingLauncher.execute(DefaultLauncherSession.java:86)\norg.junit.platform.launcher.core.SessionPerRequestLauncher.execute(SessionPerRequestLauncher.java:53)\norg.apache.maven.surefire.junitplatform.JUnitPlatformProvider.invokeAllTests(JUnitPlatformProvider.java:154)\norg.apache.maven.surefire.junitplatform.JUnitPlatformProvider.invoke(JUnitPlatformProvider.java:127)\norg.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:377)\norg.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:138)\norg.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:465)\norg.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:451)\n"
+    }
+  ]
+}

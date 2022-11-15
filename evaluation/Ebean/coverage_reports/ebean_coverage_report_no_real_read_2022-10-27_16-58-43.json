@@ -1,0 +1,3310 @@
+{
+  "testing_timestamp": "1666882723929",
+  "accessed_files": [
+    {
+      "name": "PersistRequestCallableSql.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/core/PersistRequestCallableSql.class"
+    },
+    {
+      "name": "DeployBeanDescriptor$PropOrder.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/deploy/meta/DeployBeanDescriptor$PropOrder.class"
+    },
+    {
+      "name": "BeanPropertyAssoc.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/deploy/BeanPropertyAssoc.class"
+    },
+    {
+      "name": "DatabaseConfigProvider.class",
+      "path": "ebean-api/target/classes/io/ebean/config/DatabaseConfigProvider.class"
+    },
+    {
+      "name": "AssocOneHelpRefSimple.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/deploy/AssocOneHelpRefSimple.class"
+    },
+    {
+      "name": "ScalarTypeEnumWithMapping.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/type/ScalarTypeEnumWithMapping.class"
+    },
+    {
+      "name": "DdlAlterTable.class",
+      "path": "ebean-ddl-generator/target/classes/io/ebeaninternal/dbmigration/ddlgeneration/DdlAlterTable.class"
+    },
+    {
+      "name": "RedisSetup.class",
+      "path": "ebean-test/target/classes/io/ebean/test/config/platform/RedisSetup.class"
+    },
+    {
+      "name": "ClassPathScanners.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/core/ClassPathScanners.class"
+    },
+    {
+      "name": "ScalarTypeArrayList.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/type/ScalarTypeArrayList.class"
+    },
+    {
+      "name": "ScalarTypeLocalDateNative.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/type/ScalarTypeLocalDateNative.class"
+    },
+    {
+      "name": "SpiEbeanServer.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/api/SpiEbeanServer.class"
+    },
+    {
+      "name": "ScalarTypeURL.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/type/ScalarTypeURL.class"
+    },
+    {
+      "name": "GeneratedInsertTimestamp.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/deploy/generatedproperty/GeneratedInsertTimestamp.class"
+    },
+    {
+      "name": "ScalarTypeDouble.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/type/ScalarTypeDouble.class"
+    },
+    {
+      "name": "ScopedTransaction.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/api/ScopedTransaction.class"
+    },
+    {
+      "name": "LoadRequest.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/api/LoadRequest.class"
+    },
+    {
+      "name": "BeanQueryAdapter.class",
+      "path": "ebean-api/target/classes/io/ebean/event/BeanQueryAdapter.class"
+    },
+    {
+      "name": "GeneratedUpdateLong.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/deploy/generatedproperty/GeneratedUpdateLong.class"
+    },
+    {
+      "name": "UpdateQuery.class",
+      "path": "ebean-api/target/classes/io/ebean/UpdateQuery.class"
+    },
+    {
+      "name": "DatabaseConfig$UuidVersion.class",
+      "path": "ebean-api/target/classes/io/ebean/config/DatabaseConfig$UuidVersion.class"
+    },
+    {
+      "name": "IdentityType.class",
+      "path": "ebean-ddl-generator/target/classes/io/ebeaninternal/dbmigration/migration/IdentityType.class"
+    },
+    {
+      "name": "InheritInfoVisitor.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/deploy/InheritInfoVisitor.class"
+    },
+    {
+      "name": "IdentityMode.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/deploy/IdentityMode.class"
+    },
+    {
+      "name": "DB2Ddl.class",
+      "path": "ebean-ddl-generator/target/classes/io/ebeaninternal/dbmigration/ddlgeneration/platform/DB2Ddl.class"
+    },
+    {
+      "name": "DbPrimary.class",
+      "path": "ebean-api/target/classes/io/ebean/DbPrimary.class"
+    },
+    {
+      "name": "BeanCollectionLoader.class",
+      "path": "ebean-api/target/classes/io/ebean/bean/BeanCollectionLoader.class"
+    },
+    {
+      "name": "STreePropertyAssoc.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/query/STreePropertyAssoc.class"
+    },
+    {
+      "name": "SqlErrorCodes.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/SqlErrorCodes.class"
+    },
+    {
+      "name": "MConfiguration.class",
+      "path": "ebean-ddl-generator/target/classes/io/ebeaninternal/dbmigration/model/MConfiguration.class"
+    },
+    {
+      "name": "ServerLookup.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/cluster/ServerLookup.class"
+    },
+    {
+      "name": "SimpleDataSourceProvider.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/core/SimpleDataSourceProvider.class"
+    },
+    {
+      "name": "FutureRowCount.class",
+      "path": "ebean-api/target/classes/io/ebean/FutureRowCount.class"
+    },
+    {
+      "name": "BeanTable.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/deploy/BeanTable.class"
+    },
+    {
+      "name": "BeanPersisterFactory.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/persist/BeanPersisterFactory.class"
+    },
+    {
+      "name": "PlatformSetup.class",
+      "path": "ebean-test/target/classes/io/ebean/test/config/platform/PlatformSetup.class"
+    },
+    {
+      "name": "surefire_616320103626176503492tmp",
+      "path": "ebean-csv-reader/target/surefire/surefire_616320103626176503492tmp"
+    },
+    {
+      "name": "BackgroundExecutorWrapper.class",
+      "path": "ebean-api/target/classes/io/ebean/config/BackgroundExecutorWrapper.class"
+    },
+    {
+      "name": "io.ebean.config.dbplatform.DatabasePlatformProvider",
+      "path": "platforms/h2/target/classes/META-INF/services/io.ebean.config.dbplatform.DatabasePlatformProvider"
+    },
+    {
+      "name": "DocQueryRequest.class",
+      "path": "ebean-core/target/classes/io/ebeanservice/docstore/api/DocQueryRequest.class"
+    },
+    {
+      "name": "DefaultContainer.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/core/DefaultContainer.class"
+    },
+    {
+      "name": "ServerCacheNotifyPlugin.class",
+      "path": "ebean-api/target/classes/io/ebean/cache/ServerCacheNotifyPlugin.class"
+    },
+    {
+      "name": "SpiDdlGeneratorProvider.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/api/SpiDdlGeneratorProvider.class"
+    },
+    {
+      "name": "DatabasePlatformProvider.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/DatabasePlatformProvider.class"
+    },
+    {
+      "name": "DaemonExecutorService.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/executor/DaemonExecutorService.class"
+    },
+    {
+      "name": "LimitOffsetSqlLimiter.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/LimitOffsetSqlLimiter.class"
+    },
+    {
+      "name": "ScalarTypeFile.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/type/ScalarTypeFile.class"
+    },
+    {
+      "name": "DeployBeanPropertyLists$Mode.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/deploy/meta/DeployBeanPropertyLists$Mode.class"
+    },
+    {
+      "name": "ServiceUtil.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/core/ServiceUtil.class"
+    },
+    {
+      "name": "PersistRequestOrmUpdate.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/core/PersistRequestOrmUpdate.class"
+    },
+    {
+      "name": "DefaultChangeLogRegister$BasicFilter.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/changelog/DefaultChangeLogRegister$BasicFilter.class"
+    },
+    {
+      "name": "BasicDbExpression.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/expression/platform/BasicDbExpression.class"
+    },
+    {
+      "name": "DbEncrypt.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/DbEncrypt.class"
+    },
+    {
+      "name": "BeanPropertyAccess.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/properties/BeanPropertyAccess.class"
+    },
+    {
+      "name": "GeneratedUpdateJavaTime$ZonedDT.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/deploy/generatedproperty/GeneratedUpdateJavaTime$ZonedDT.class"
+    },
+    {
+      "name": "ExtraMetrics.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/api/ExtraMetrics.class"
+    },
+    {
+      "name": "AnnotationAssoc.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/deploy/parse/AnnotationAssoc.class"
+    },
+    {
+      "name": "BeanPropertyGetter.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/properties/BeanPropertyGetter.class"
+    },
+    {
+      "name": "NoneDocStore.class",
+      "path": "ebean-core/target/classes/io/ebeanservice/docstore/none/NoneDocStore.class"
+    },
+    {
+      "name": "CQueryPlan.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/query/CQueryPlan.class"
+    },
+    {
+      "name": "ModelBuildContext.class",
+      "path": "ebean-ddl-generator/target/classes/io/ebeaninternal/dbmigration/model/build/ModelBuildContext.class"
+    },
+    {
+      "name": "YugabyteDdl.class",
+      "path": "ebean-ddl-generator/target/classes/io/ebeaninternal/dbmigration/ddlgeneration/platform/YugabyteDdl.class"
+    },
+    {
+      "name": "ScalarTypeTime.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/type/ScalarTypeTime.class"
+    },
+    {
+      "name": "VisitProperties.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/deploy/visitor/VisitProperties.class"
+    },
+    {
+      "name": "PendingDrops.class",
+      "path": "ebean-ddl-generator/target/classes/io/ebeaninternal/dbmigration/model/PendingDrops.class"
+    },
+    {
+      "name": "LoadManyRequest.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/api/LoadManyRequest.class"
+    },
+    {
+      "name": "SlowQueryListener.class",
+      "path": "ebean-api/target/classes/io/ebean/config/SlowQueryListener.class"
+    },
+    {
+      "name": "InsertTimestampFactory.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/deploy/generatedproperty/InsertTimestampFactory.class"
+    },
+    {
+      "name": "ContainerConfig.class",
+      "path": "ebean-api/target/classes/io/ebean/config/ContainerConfig.class"
+    },
+    {
+      "name": "PersistHandler.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/persist/dml/PersistHandler.class"
+    },
+    {
+      "name": "DLogManager.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/logger/DLogManager.class"
+    },
+    {
+      "name": "BindableList.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/persist/dmlbind/BindableList.class"
+    },
+    {
+      "name": "ScalarTypeMonthDay.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/type/ScalarTypeMonthDay.class"
+    },
+    {
+      "name": "PlatformHistoryDdl.class",
+      "path": "ebean-ddl-generator/target/classes/io/ebeaninternal/dbmigration/ddlgeneration/platform/PlatformHistoryDdl.class"
+    },
+    {
+      "name": "DeployBeanDescriptor.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/deploy/meta/DeployBeanDescriptor.class"
+    },
+    {
+      "name": "BeanPropertyAssocMany.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/deploy/BeanPropertyAssocMany.class"
+    },
+    {
+      "name": "CockroachDdl.class",
+      "path": "ebean-ddl-generator/target/classes/io/ebeaninternal/dbmigration/ddlgeneration/platform/CockroachDdl.class"
+    },
+    {
+      "name": "AnnotationBase.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/deploy/parse/AnnotationBase.class"
+    },
+    {
+      "name": "ChangeSetType.class",
+      "path": "ebean-ddl-generator/target/classes/io/ebeaninternal/dbmigration/migration/ChangeSetType.class"
+    },
+    {
+      "name": "DbOffline.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/api/DbOffline.class"
+    },
+    {
+      "name": "AbstractMultiValueBind.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/persist/platform/AbstractMultiValueBind.class"
+    },
+    {
+      "name": "ScalarJsonMapper.class",
+      "path": "ebean-core-type/target/classes/io/ebean/core/type/ScalarJsonMapper.class"
+    },
+    {
+      "name": "BeanPropertyVisitor.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/deploy/visitor/BeanPropertyVisitor.class"
+    },
+    {
+      "name": "BeanCascadeInfo.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/deploy/BeanCascadeInfo.class"
+    },
+    {
+      "name": "GeneratedWhenModified.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/deploy/generatedproperty/GeneratedWhenModified.class"
+    },
+    {
+      "name": "NoopCallOriginFactory.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/core/NoopCallOriginFactory.class"
+    },
+    {
+      "name": "DeployBeanPropertySimpleCollection.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/deploy/meta/DeployBeanPropertySimpleCollection.class"
+    },
+    {
+      "name": "DB2GetKeys.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/persist/DB2GetKeys.class"
+    },
+    {
+      "name": "AnnotationFields.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/deploy/parse/AnnotationFields.class"
+    },
+    {
+      "name": "DbPlatformTypeLookup.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/DbPlatformTypeLookup.class"
+    },
+    {
+      "name": "DbViewHistorySupport.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/DbViewHistorySupport.class"
+    },
+    {
+      "name": "ServerCacheManager.class",
+      "path": "ebean-api/target/classes/io/ebean/cache/ServerCacheManager.class"
+    },
+    {
+      "name": "DatabaseFactory.class",
+      "path": "ebean-api/target/classes/io/ebean/DatabaseFactory.class"
+    },
+    {
+      "name": "ScalarTypeMonth.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/type/ScalarTypeMonth.class"
+    },
+    {
+      "name": "NoneDocStoreBeanAdapter.class",
+      "path": "ebean-core/target/classes/io/ebeanservice/docstore/none/NoneDocStoreBeanAdapter.class"
+    },
+    {
+      "name": "DaemonScheduleThreadPool.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/executor/DaemonScheduleThreadPool.class"
+    },
+    {
+      "name": "BeanIudMetrics$1.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/deploy/BeanIudMetrics$1.class"
+    },
+    {
+      "name": "ChangeSet.class",
+      "path": "ebean-ddl-generator/target/classes/io/ebeaninternal/dbmigration/migration/ChangeSet.class"
+    },
+    {
+      "name": "ScalarTypeConverter.class",
+      "path": "ebean-api/target/classes/io/ebean/config/ScalarTypeConverter.class"
+    },
+    {
+      "name": "CockroachSetup.class",
+      "path": "ebean-test/target/classes/io/ebean/test/config/platform/CockroachSetup.class"
+    },
+    {
+      "name": "TransactionScopeManager.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/transaction/TransactionScopeManager.class"
+    },
+    {
+      "name": "H2PlatformProvider.class",
+      "path": "platforms/h2/target/classes/io/ebean/platform/h2/H2PlatformProvider.class"
+    },
+    {
+      "name": "BatchedBeanHolder.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/persist/BatchedBeanHolder.class"
+    },
+    {
+      "name": "PersistRequest.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/core/PersistRequest.class"
+    },
+    {
+      "name": "PersistListenerManager.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/deploy/PersistListenerManager.class"
+    },
+    {
+      "name": "DbConstraintNormalise.class",
+      "path": "ebean-api/target/classes/io/ebean/config/DbConstraintNormalise.class"
+    },
+    {
+      "name": "BeanDescriptorInitContext.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/deploy/BeanDescriptorInitContext.class"
+    },
+    {
+      "name": "BeanVisitor.class",
+      "path": "ebean-ddl-generator/target/classes/io/ebeaninternal/dbmigration/model/visitor/BeanVisitor.class"
+    },
+    {
+      "name": "SaveManyBeans.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/persist/SaveManyBeans.class"
+    },
+    {
+      "name": "CsvReader$CsvColumn.class",
+      "path": "ebean-csv-reader/target/classes/io/ebean/csv/reader/CsvReader$CsvColumn.class"
+    },
+    {
+      "name": "BatchDepthComparator.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/persist/BatchDepthComparator.class"
+    },
+    {
+      "name": "BeanDescriptorElementScalarMap.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/deploy/BeanDescriptorElementScalarMap.class"
+    },
+    {
+      "name": "PagedList.class",
+      "path": "ebean-api/target/classes/io/ebean/PagedList.class"
+    },
+    {
+      "name": "DocMapping.class",
+      "path": "ebean-api/target/classes/io/ebean/docstore/DocMapping.class"
+    },
+    {
+      "name": "ScalarTypeInetAddress.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/type/ScalarTypeInetAddress.class"
+    },
+    {
+      "name": "ServerConfigStartup.class",
+      "path": "ebean-api/target/classes/io/ebean/event/ServerConfigStartup.class"
+    },
+    {
+      "name": "BatchedPstmtHolder.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/persist/BatchedPstmtHolder.class"
+    },
+    {
+      "name": "ScalarTypeUUIDNative.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/type/ScalarTypeUUIDNative.class"
+    },
+    {
+      "name": "ScalarTypeNotFound.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/type/ScalarTypeNotFound.class"
+    },
+    {
+      "name": "ImportedIdSimple$EntryComparator.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/deploy/id/ImportedIdSimple$EntryComparator.class"
+    },
+    {
+      "name": "NoopQueryPlanManager.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/api/NoopQueryPlanManager.class"
+    },
+    {
+      "name": "JavaTimeUtils.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/deploy/generatedproperty/JavaTimeUtils.class"
+    },
+    {
+      "name": "Query.class",
+      "path": "ebean-api/target/classes/io/ebean/Query.class"
+    },
+    {
+      "name": "CsvCallback.class",
+      "path": "ebean-csv-reader/target/classes/io/ebean/csv/reader/CsvCallback.class"
+    },
+    {
+      "name": "BeanDeleteIdRequest.class",
+      "path": "ebean-api/target/classes/io/ebean/event/BeanDeleteIdRequest.class"
+    },
+    {
+      "name": "SpiQuery.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/api/SpiQuery.class"
+    },
+    {
+      "name": "DmlBeanPersister.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/persist/dml/DmlBeanPersister.class"
+    },
+    {
+      "name": "DocStoreBeanAdapter.class",
+      "path": "ebean-core/target/classes/io/ebeanservice/docstore/api/DocStoreBeanAdapter.class"
+    },
+    {
+      "name": "DbTriggerBasedHistoryDdl.class",
+      "path": "ebean-ddl-generator/target/classes/io/ebeaninternal/dbmigration/ddlgeneration/platform/DbTriggerBasedHistoryDdl.class"
+    },
+    {
+      "name": "QueryPlanLoggerPostgres.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/query/QueryPlanLoggerPostgres.class"
+    },
+    {
+      "name": "AutoTuneService.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/autotune/AutoTuneService.class"
+    },
+    {
+      "name": "BeanPropertyAssocOne.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/deploy/BeanPropertyAssocOne.class"
+    },
+    {
+      "name": "TextException.class",
+      "path": "ebean-api/target/classes/io/ebean/text/TextException.class"
+    },
+    {
+      "name": "StringHelper.class",
+      "path": "ebean-api/target/classes/io/ebean/util/StringHelper.class"
+    },
+    {
+      "name": "DefaultConstraintMaxLength.class",
+      "path": "ebean-ddl-generator/target/classes/io/ebeaninternal/dbmigration/ddlgeneration/platform/DefaultConstraintMaxLength.class"
+    },
+    {
+      "name": "DdlOptions.class",
+      "path": "ebean-ddl-generator/target/classes/io/ebeaninternal/dbmigration/ddlgeneration/DdlOptions.class"
+    },
+    {
+      "name": "DocStoreFactory.class",
+      "path": "ebean-core/target/classes/io/ebeanservice/docstore/api/DocStoreFactory.class"
+    },
+    {
+      "name": "SingleBeanLoader.class",
+      "path": "ebean-api/target/classes/io/ebean/bean/SingleBeanLoader.class"
+    },
+    {
+      "name": "TimedMetricMap.class",
+      "path": "ebean-api/target/classes/io/ebean/metric/TimedMetricMap.class"
+    },
+    {
+      "name": "BatchDepthOrder$Counter.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/persist/BatchDepthOrder$Counter.class"
+    },
+    {
+      "name": "PlatformConfig$DbUuid.class",
+      "path": "ebean-api/target/classes/io/ebean/config/PlatformConfig$DbUuid.class"
+    },
+    {
+      "name": "BackgroundExecutor.class",
+      "path": "ebean-api/target/classes/io/ebean/BackgroundExecutor.class"
+    },
+    {
+      "name": "DtoBeanManager.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/dto/DtoBeanManager.class"
+    },
+    {
+      "name": "AutoTune.class",
+      "path": "ebean-api/target/classes/io/ebean/AutoTune.class"
+    },
+    {
+      "name": "ScalarTypePostgresHstore.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/type/ScalarTypePostgresHstore.class"
+    },
+    {
+      "name": "AutoTuneMode.class",
+      "path": "ebean-api/target/classes/io/ebean/config/AutoTuneMode.class"
+    },
+    {
+      "name": "AssocOneHelp.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/deploy/AssocOneHelp.class"
+    },
+    {
+      "name": "ebean-maven-version.txt",
+      "path": "ebean-api/target/classes/META-INF/ebean-maven-version.txt"
+    },
+    {
+      "name": "NoHistorySupportDdl.class",
+      "path": "ebean-ddl-generator/target/classes/io/ebeaninternal/dbmigration/ddlgeneration/platform/NoHistorySupportDdl.class"
+    },
+    {
+      "name": "PostCommitProcessing.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/transaction/PostCommitProcessing.class"
+    },
+    {
+      "name": "DocStoreConfig.class",
+      "path": "ebean-api/target/classes/io/ebean/config/DocStoreConfig.class"
+    },
+    {
+      "name": "ScalarTypeZonedDateTime.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/type/ScalarTypeZonedDateTime.class"
+    },
+    {
+      "name": "ServerCacheFactory.class",
+      "path": "ebean-api/target/classes/io/ebean/cache/ServerCacheFactory.class"
+    },
+    {
+      "name": "GeneratedWhoModified.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/deploy/generatedproperty/GeneratedWhoModified.class"
+    },
+    {
+      "name": "ImportedIdSimple.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/deploy/id/ImportedIdSimple.class"
+    },
+    {
+      "name": "DdlGenerator.class",
+      "path": "ebean-ddl-generator/target/classes/io/ebeaninternal/dbmigration/DdlGenerator.class"
+    },
+    {
+      "name": "ScalarTypeOffsetTime.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/type/ScalarTypeOffsetTime.class"
+    },
+    {
+      "name": "UuidGeneratedProperty.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/deploy/generatedproperty/UuidGeneratedProperty.class"
+    },
+    {
+      "name": "JsonContext.class",
+      "path": "ebean-api/target/classes/io/ebean/text/json/JsonContext.class"
+    },
+    {
+      "name": "BeanRequest.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/core/BeanRequest.class"
+    },
+    {
+      "name": "io.ebean.metric.MetricFactory",
+      "path": "ebean-core/target/classes/META-INF/services/io.ebean.metric.MetricFactory"
+    },
+    {
+      "name": "SpiLoggerFactory.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/api/SpiLoggerFactory.class"
+    },
+    {
+      "name": "IdBinderFactory.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/deploy/id/IdBinderFactory.class"
+    },
+    {
+      "name": "DmlUtil.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/persist/DmlUtil.class"
+    },
+    {
+      "name": "DbPlatformTypeMapping$BooleanLogicalType.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/DbPlatformTypeMapping$BooleanLogicalType.class"
+    },
+    {
+      "name": "ScalarTypeFloat.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/type/ScalarTypeFloat.class"
+    },
+    {
+      "name": "EntityBean.class",
+      "path": "ebean-api/target/classes/io/ebean/bean/EntityBean.class"
+    },
+    {
+      "name": "DeployBeanInfo.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/deploy/parse/DeployBeanInfo.class"
+    },
+    {
+      "name": "DefaultPersistExecute.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/persist/DefaultPersistExecute.class"
+    },
+    {
+      "name": "DmlMode.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/persist/dml/DmlMode.class"
+    },
+    {
+      "name": "BeanDescriptor.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/deploy/BeanDescriptor.class"
+    },
+    {
+      "name": "Filter.class",
+      "path": "ebean-api/target/classes/io/ebean/Filter.class"
+    },
+    {
+      "name": "MetricFactory.class",
+      "path": "ebean-api/target/classes/io/ebean/metric/MetricFactory.class"
+    },
+    {
+      "name": "BindablePropertyVersion.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/persist/dmlbind/BindablePropertyVersion.class"
+    },
+    {
+      "name": "BatchedBeanHolder$1.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/persist/BatchedBeanHolder$1.class"
+    },
+    {
+      "name": "DataBinder.class",
+      "path": "ebean-core-type/target/classes/io/ebean/core/type/DataBinder.class"
+    },
+    {
+      "name": "DatabasePlatformFactory.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/core/DatabasePlatformFactory.class"
+    },
+    {
+      "name": "BasicSqlLimiter.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/BasicSqlLimiter.class"
+    },
+    {
+      "name": "DuplicateKeyException.class",
+      "path": "ebean-api/target/classes/io/ebean/DuplicateKeyException.class"
+    },
+    {
+      "name": "SpiContainer.class",
+      "path": "ebean-api/target/classes/io/ebean/service/SpiContainer.class"
+    },
+    {
+      "name": "Config.class",
+      "path": "ebean-test/target/classes/io/ebean/test/config/platform/Config.class"
+    },
+    {
+      "name": "BeanLifecycleAdapterFactory.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/deploy/BeanLifecycleAdapterFactory.class"
+    },
+    {
+      "name": "DbConstraintNaming$MaxLength.class",
+      "path": "ebean-api/target/classes/io/ebean/config/DbConstraintNaming$MaxLength.class"
+    },
+    {
+      "name": "ScalarJsonManager.class",
+      "path": "ebean-core-type/target/classes/io/ebean/core/type/ScalarJsonManager.class"
+    },
+    {
+      "name": "AnnotationUtil.class",
+      "path": "ebean-api/target/classes/io/ebean/util/AnnotationUtil.class"
+    },
+    {
+      "name": "DefaultBeanLoader.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/core/DefaultBeanLoader.class"
+    },
+    {
+      "name": "FixedEncryptKeyManager.class",
+      "path": "ebean-test/target/classes/io/ebean/test/config/provider/FixedEncryptKeyManager.class"
+    },
+    {
+      "name": "AbstractHanaDdl.class",
+      "path": "ebean-ddl-generator/target/classes/io/ebeaninternal/dbmigration/ddlgeneration/platform/AbstractHanaDdl.class"
+    },
+    {
+      "name": "DeployTableJoin.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/deploy/meta/DeployTableJoin.class"
+    },
+    {
+      "name": "ScalarTypeCalendar.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/type/ScalarTypeCalendar.class"
+    },
+    {
+      "name": "DocumentStore.class",
+      "path": "ebean-api/target/classes/io/ebean/DocumentStore.class"
+    },
+    {
+      "name": "QueryPlanLoggerExplain.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/query/QueryPlanLoggerExplain.class"
+    },
+    {
+      "name": "io.ebeaninternal.api.SpiLoggerFactory",
+      "path": "ebean-test/target/classes/META-INF/services/io.ebeaninternal.api.SpiLoggerFactory"
+    },
+    {
+      "name": "TransactionFactoryTenant.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/transaction/TransactionFactoryTenant.class"
+    },
+    {
+      "name": "DocUpdateContext.class",
+      "path": "ebean-api/target/classes/io/ebean/docstore/DocUpdateContext.class"
+    },
+    {
+      "name": "FactoryProperty.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/persist/dmlbind/FactoryProperty.class"
+    },
+    {
+      "name": "ShutdownManager$ShutdownHook.class",
+      "path": "ebean-api/target/classes/io/ebean/event/ShutdownManager$ShutdownHook.class"
+    },
+    {
+      "name": "SimpleAesEncryptor.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/type/SimpleAesEncryptor.class"
+    },
+    {
+      "name": "ElPropertyChainBuilder.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/el/ElPropertyChainBuilder.class"
+    },
+    {
+      "name": "BeanProperty.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/deploy/BeanProperty.class"
+    },
+    {
+      "name": "InitDataSource.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/core/InitDataSource.class"
+    },
+    {
+      "name": "BeanManager.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/deploy/BeanManager.class"
+    },
+    {
+      "name": "ScalarTypeCidr$Varchar.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/type/ScalarTypeCidr$Varchar.class"
+    },
+    {
+      "name": "ExeUpdateSql.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/persist/ExeUpdateSql.class"
+    },
+    {
+      "name": "Encryptor.class",
+      "path": "ebean-api/target/classes/io/ebean/config/Encryptor.class"
+    },
+    {
+      "name": "DeployTableJoinColumn.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/deploy/meta/DeployTableJoinColumn.class"
+    },
+    {
+      "name": "DbType.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/DbType.class"
+    },
+    {
+      "name": "BeanDescriptorElement.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/deploy/BeanDescriptorElement.class"
+    },
+    {
+      "name": "DefaultServerCache.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/cache/DefaultServerCache.class"
+    },
+    {
+      "name": "Plugin.class",
+      "path": "ebean-api/target/classes/io/ebean/plugin/Plugin.class"
+    },
+    {
+      "name": "ExpressionPath.class",
+      "path": "ebean-api/target/classes/io/ebean/plugin/ExpressionPath.class"
+    },
+    {
+      "name": "TransactionFactoryTenantWithRead.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/transaction/TransactionFactoryTenantWithRead.class"
+    },
+    {
+      "name": "GeneratedUpdateJavaTime$LocalDT.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/deploy/generatedproperty/GeneratedUpdateJavaTime$LocalDT.class"
+    },
+    {
+      "name": "BindableRequest.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/persist/dmlbind/BindableRequest.class"
+    },
+    {
+      "name": "BeanQueryAdapterManager.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/deploy/BeanQueryAdapterManager.class"
+    },
+    {
+      "name": "ScalarTypeYearMonthDate.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/type/ScalarTypeYearMonthDate.class"
+    },
+    {
+      "name": "MetaFactory.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/persist/dml/MetaFactory.class"
+    },
+    {
+      "name": "SpiPersistenceContext.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/api/SpiPersistenceContext.class"
+    },
+    {
+      "name": "logging.properties",
+      "path": "../../../../../usr/lib/jvm/java-17-openjdk-amd64/conf/logging.properties"
+    },
+    {
+      "name": "ModelBuildBeanVisitor.class",
+      "path": "ebean-ddl-generator/target/classes/io/ebeaninternal/dbmigration/model/build/ModelBuildBeanVisitor.class"
+    },
+    {
+      "name": "DbEncryptFunction.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/DbEncryptFunction.class"
+    },
+    {
+      "name": "DtoQueryEngine.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/query/DtoQueryEngine.class"
+    },
+    {
+      "name": "TableDdl.class",
+      "path": "ebean-ddl-generator/target/classes/io/ebeaninternal/dbmigration/ddlgeneration/TableDdl.class"
+    },
+    {
+      "name": "BatchControl.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/persist/BatchControl.class"
+    },
+    {
+      "name": "DaemonThreadFactory.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/executor/DaemonThreadFactory.class"
+    },
+    {
+      "name": "CQueryDraftSupport.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/query/CQueryDraftSupport.class"
+    },
+    {
+      "name": "EnhanceBeanPropertyAccess$Getter.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/properties/EnhanceBeanPropertyAccess$Getter.class"
+    },
+    {
+      "name": "DbExpressionHandlerFactory.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/expression/platform/DbExpressionHandlerFactory.class"
+    },
+    {
+      "name": "ConcurrencyMode.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/api/ConcurrencyMode.class"
+    },
+    {
+      "name": "DeployBeanPropertyAssoc.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/deploy/meta/DeployBeanPropertyAssoc.class"
+    },
+    {
+      "name": "DeleteMeta.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/persist/dml/DeleteMeta.class"
+    },
+    {
+      "name": "XmapService.class",
+      "path": "ebean-externalmapping-api/target/classes/io/ebeaninternal/xmapping/api/XmapService.class"
+    },
+    {
+      "name": "BeanDescriptorManager.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/deploy/BeanDescriptorManager.class"
+    },
+    {
+      "name": "EntityClassRegister.class",
+      "path": "ebean-api/target/classes/io/ebean/config/EntityClassRegister.class"
+    },
+    {
+      "name": "UserContext.class",
+      "path": "ebean-test/target/classes/io/ebean/test/UserContext.class"
+    },
+    {
+      "name": "NuoDBSetup.class",
+      "path": "ebean-test/target/classes/io/ebean/test/config/platform/NuoDBSetup.class"
+    },
+    {
+      "name": "ScalarTypeBigDecimal.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/type/ScalarTypeBigDecimal.class"
+    },
+    {
+      "name": "ProfilingConfig.class",
+      "path": "ebean-api/target/classes/io/ebean/config/ProfilingConfig.class"
+    },
+    {
+      "name": "CQueryBuilder.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/query/CQueryBuilder.class"
+    },
+    {
+      "name": "ClassLoadConfig.class",
+      "path": "ebean-api/target/classes/io/ebean/config/ClassLoadConfig.class"
+    },
+    {
+      "name": "ElementHelp.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/deploy/ElementHelp.class"
+    },
+    {
+      "name": "LoadBeanRequest.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/api/LoadBeanRequest.class"
+    },
+    {
+      "name": "DeployUtil.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/deploy/parse/DeployUtil.class"
+    },
+    {
+      "name": "QueryPlanLogger.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/query/QueryPlanLogger.class"
+    },
+    {
+      "name": "ElComparator.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/el/ElComparator.class"
+    },
+    {
+      "name": "AnnotationAssocOnes.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/deploy/parse/AnnotationAssocOnes.class"
+    },
+    {
+      "name": "DbExpressionHandler.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/expression/platform/DbExpressionHandler.class"
+    },
+    {
+      "name": "BootupClassPathSearch.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/core/bootup/BootupClassPathSearch.class"
+    },
+    {
+      "name": "CQueryBuilderRawSql.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/query/CQueryBuilderRawSql.class"
+    },
+    {
+      "name": "BeanPostConstructListener.class",
+      "path": "ebean-api/target/classes/io/ebean/event/BeanPostConstructListener.class"
+    },
+    {
+      "name": "DefaultTypeManager.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/type/DefaultTypeManager.class"
+    },
+    {
+      "name": "DdlBuffer.class",
+      "path": "ebean-ddl-generator/target/classes/io/ebeaninternal/dbmigration/ddlgeneration/DdlBuffer.class"
+    },
+    {
+      "name": "DeployBeanTable.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/deploy/meta/DeployBeanTable.class"
+    },
+    {
+      "name": "TenantMode.class",
+      "path": "ebean-api/target/classes/io/ebean/config/TenantMode.class"
+    },
+    {
+      "name": "SpiTransactionManager.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/api/SpiTransactionManager.class"
+    },
+    {
+      "name": "ScalarTypeInet.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/type/ScalarTypeInet.class"
+    },
+    {
+      "name": "CaptureLogger.class",
+      "path": "ebean-test/target/classes/io/ebean/test/CaptureLogger.class"
+    },
+    {
+      "name": "DeployBeanPropertyLists.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/deploy/meta/DeployBeanPropertyLists.class"
+    },
+    {
+      "name": "DbPlatformTypeMapping.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/DbPlatformTypeMapping.class"
+    },
+    {
+      "name": "SaveMany.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/persist/SaveMany.class"
+    },
+    {
+      "name": "TransactionManagerOptions.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/transaction/TransactionManagerOptions.class"
+    },
+    {
+      "name": "DefaultBackgroundExecutor.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/executor/DefaultBackgroundExecutor.class"
+    },
+    {
+      "name": "Persister.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/core/Persister.class"
+    },
+    {
+      "name": "Property.class",
+      "path": "ebean-api/target/classes/io/ebean/plugin/Property.class"
+    },
+    {
+      "name": "ChangeLogPrepare.class",
+      "path": "ebean-api/target/classes/io/ebean/event/changelog/ChangeLogPrepare.class"
+    },
+    {
+      "name": "ScalarTypeChar.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/type/ScalarTypeChar.class"
+    },
+    {
+      "name": "ExternalTransactionScopeManager.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/transaction/ExternalTransactionScopeManager.class"
+    },
+    {
+      "name": "QueryPlanLoggerOracle.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/query/QueryPlanLoggerOracle.class"
+    },
+    {
+      "name": "EncryptDeploy.class",
+      "path": "ebean-api/target/classes/io/ebean/config/EncryptDeploy.class"
+    },
+    {
+      "name": "IdType.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/IdType.class"
+    },
+    {
+      "name": "TxScope.class",
+      "path": "ebean-api/target/classes/io/ebean/TxScope.class"
+    },
+    {
+      "name": "DdlHandler.class",
+      "path": "ebean-ddl-generator/target/classes/io/ebeaninternal/dbmigration/ddlgeneration/DdlHandler.class"
+    },
+    {
+      "name": "DefaultRelationalQueryEngine.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/query/DefaultRelationalQueryEngine.class"
+    },
+    {
+      "name": "BasicSqlLimitOffset.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/BasicSqlLimitOffset.class"
+    },
+    {
+      "name": "DefaultCacheHolder.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/cache/DefaultCacheHolder.class"
+    },
+    {
+      "name": "BatchDepthOrder.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/persist/BatchDepthOrder.class"
+    },
+    {
+      "name": "AssocOneHelpRefExported.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/deploy/AssocOneHelpRefExported.class"
+    },
+    {
+      "name": "BeanDescriptorElementEmbedded.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/deploy/BeanDescriptorElementEmbedded.class"
+    },
+    {
+      "name": "TransactionFactory.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/transaction/TransactionFactory.class"
+    },
+    {
+      "name": "EnumToDbStringMap.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/type/EnumToDbStringMap.class"
+    },
+    {
+      "name": "ProviderAutoConfig.class",
+      "path": "ebean-test/target/classes/io/ebean/test/config/provider/ProviderAutoConfig.class"
+    },
+    {
+      "name": "YugabyteSetup.class",
+      "path": "ebean-test/target/classes/io/ebean/test/config/platform/YugabyteSetup.class"
+    },
+    {
+      "name": "ScalarTypeArray.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/type/ScalarTypeArray.class"
+    },
+    {
+      "name": "BeanPropertyJsonMapper.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/deploy/BeanPropertyJsonMapper.class"
+    },
+    {
+      "name": "TransactionManager$1.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/transaction/TransactionManager$1.class"
+    },
+    {
+      "name": "BeanDocType.class",
+      "path": "ebean-api/target/classes/io/ebean/plugin/BeanDocType.class"
+    },
+    {
+      "name": "FactoryBaseProperties.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/persist/dmlbind/FactoryBaseProperties.class"
+    },
+    {
+      "name": "DeployInherit.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/deploy/parse/DeployInherit.class"
+    },
+    {
+      "name": "BindableAssocOne.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/persist/dmlbind/BindableAssocOne.class"
+    },
+    {
+      "name": "PlatformMatch.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/api/PlatformMatch.class"
+    },
+    {
+      "name": "InternString.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/core/InternString.class"
+    },
+    {
+      "name": "DocStoreIntegration.class",
+      "path": "ebean-core/target/classes/io/ebeanservice/docstore/api/DocStoreIntegration.class"
+    },
+    {
+      "name": "ScalarTypeInstant.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/type/ScalarTypeInstant.class"
+    },
+    {
+      "name": "H2HistoryDdl.class",
+      "path": "ebean-ddl-generator/target/classes/io/ebeaninternal/dbmigration/ddlgeneration/platform/H2HistoryDdl.class"
+    },
+    {
+      "name": "io.ebeaninternal.api.SpiDdlGeneratorProvider",
+      "path": "ebean-ddl-generator/target/classes/META-INF/services/io.ebeaninternal.api.SpiDdlGeneratorProvider"
+    },
+    {
+      "name": "ScalarTypeLogicalType.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/type/ScalarTypeLogicalType.class"
+    },
+    {
+      "name": "ElPropertyValue.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/el/ElPropertyValue.class"
+    },
+    {
+      "name": "ServerCacheRegion.class",
+      "path": "ebean-api/target/classes/io/ebean/cache/ServerCacheRegion.class"
+    },
+    {
+      "name": "ShutdownManager.class",
+      "path": "ebean-api/target/classes/io/ebean/event/ShutdownManager.class"
+    },
+    {
+      "name": "surefire2302175670204344165tmp",
+      "path": "ebean-csv-reader/target/surefire/surefire2302175670204344165tmp"
+    },
+    {
+      "name": "ModelBuildPropertyVisitor.class",
+      "path": "ebean-ddl-generator/target/classes/io/ebeaninternal/dbmigration/model/build/ModelBuildPropertyVisitor.class"
+    },
+    {
+      "name": "WhoUserProvider.class",
+      "path": "ebean-test/target/classes/io/ebean/test/config/provider/WhoUserProvider.class"
+    },
+    {
+      "name": "SpiContainerFactory.class",
+      "path": "ebean-api/target/classes/io/ebean/service/SpiContainerFactory.class"
+    },
+    {
+      "name": "GeneratedInsertJavaTime$LocalDT.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/deploy/generatedproperty/GeneratedInsertJavaTime$LocalDT.class"
+    },
+    {
+      "name": "BeanDescriptorCacheHelp.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/deploy/BeanDescriptorCacheHelp.class"
+    },
+    {
+      "name": "DdlScript.class",
+      "path": "ebean-ddl-generator/target/classes/io/ebeaninternal/extraddl/model/DdlScript.class"
+    },
+    {
+      "name": "GeneratedUpdateTimestamp.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/deploy/generatedproperty/GeneratedUpdateTimestamp.class"
+    },
+    {
+      "name": "Junction.class",
+      "path": "ebean-api/target/classes/io/ebean/Junction.class"
+    },
+    {
+      "name": "ScalarTypeZoneId.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/type/ScalarTypeZoneId.class"
+    },
+    {
+      "name": "Detect.class",
+      "path": "ebean-ddl-generator/target/classes/io/ebeaninternal/dbmigration/Detect.class"
+    },
+    {
+      "name": "DbIdentity.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/DbIdentity.class"
+    },
+    {
+      "name": "BeanPropertiesReader.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/properties/BeanPropertiesReader.class"
+    },
+    {
+      "name": "ScalarTypeArraySetH2.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/type/ScalarTypeArraySetH2.class"
+    },
+    {
+      "name": "EncryptKeyManager.class",
+      "path": "ebean-api/target/classes/io/ebean/config/EncryptKeyManager.class"
+    },
+    {
+      "name": "SingleBeanLoader$L2.class",
+      "path": "ebean-api/target/classes/io/ebean/bean/SingleBeanLoader$L2.class"
+    },
+    {
+      "name": "MdcBackgroundExecutorWrapper.class",
+      "path": "ebean-api/target/classes/io/ebean/config/MdcBackgroundExecutorWrapper.class"
+    },
+    {
+      "name": "SqlCodeTranslator.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/SqlCodeTranslator.class"
+    },
+    {
+      "name": "ScalarTypeSetFactory.class",
+      "path": "ebean-core-type/target/classes/io/ebean/core/type/ScalarTypeSetFactory.class"
+    },
+    {
+      "name": "BeanPropertyJsonBasic.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/deploy/BeanPropertyJsonBasic.class"
+    },
+    {
+      "name": "ExtraDbTypes.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/ExtraDbTypes.class"
+    },
+    {
+      "name": "CurrentTenantProvider.class",
+      "path": "ebean-api/target/classes/io/ebean/config/CurrentTenantProvider.class"
+    },
+    {
+      "name": "PlatformArrayTypeFactory.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/type/PlatformArrayTypeFactory.class"
+    },
+    {
+      "name": "application-test.yml",
+      "path": "ebean-csv-reader/target/test-classes/application-test.yml"
+    },
+    {
+      "name": "JsonConfig$Include.class",
+      "path": "ebean-api/target/classes/io/ebean/config/JsonConfig$Include.class"
+    },
+    {
+      "name": "DetermineManyType.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/deploy/parse/DetermineManyType.class"
+    },
+    {
+      "name": "BindableProperty.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/persist/dmlbind/BindableProperty.class"
+    },
+    {
+      "name": "DefaultPersister.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/persist/DefaultPersister.class"
+    },
+    {
+      "name": "ArrayElementConverter.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/type/ArrayElementConverter.class"
+    },
+    {
+      "name": "AnnotationAssocManys.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/deploy/parse/AnnotationAssocManys.class"
+    },
+    {
+      "name": "PlatformDdl.class",
+      "path": "ebean-ddl-generator/target/classes/io/ebeaninternal/dbmigration/ddlgeneration/platform/PlatformDdl.class"
+    },
+    {
+      "name": "SpiJsonContext.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/api/SpiJsonContext.class"
+    },
+    {
+      "name": "BeanLoader.class",
+      "path": "ebean-api/target/classes/io/ebean/bean/BeanLoader.class"
+    },
+    {
+      "name": "CountMetric.class",
+      "path": "ebean-api/target/classes/io/ebean/metric/CountMetric.class"
+    },
+    {
+      "name": "ScalarTypeDate.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/type/ScalarTypeDate.class"
+    },
+    {
+      "name": "BootupClasses.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/core/bootup/BootupClasses.class"
+    },
+    {
+      "name": "CallableSql.class",
+      "path": "ebean-api/target/classes/io/ebean/CallableSql.class"
+    },
+    {
+      "name": "TypeManager.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/type/TypeManager.class"
+    },
+    {
+      "name": "ScalarTypeMathBigInteger.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/type/ScalarTypeMathBigInteger.class"
+    },
+    {
+      "name": "CQueryHistorySupport.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/query/CQueryHistorySupport.class"
+    },
+    {
+      "name": "CsvReaderTest.class",
+      "path": "ebean-csv-reader/target/test-classes/io/ebean/csv/reader/CsvReaderTest.class"
+    },
+    {
+      "name": "PlatformDdlBuilder$1.class",
+      "path": "ebean-ddl-generator/target/classes/io/ebeaninternal/dbmigration/ddlgeneration/PlatformDdlBuilder$1.class"
+    },
+    {
+      "name": "BeanFinderManager.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/deploy/BeanFinderManager.class"
+    },
+    {
+      "name": "IOUtils.class",
+      "path": "ebean-api/target/classes/io/ebean/util/IOUtils.class"
+    },
+    {
+      "name": "TransactionManager.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/transaction/TransactionManager.class"
+    },
+    {
+      "name": "SpiUpdatePlan.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/api/SpiUpdatePlan.class"
+    },
+    {
+      "name": "QueryPlanMetric.class",
+      "path": "ebean-api/target/classes/io/ebean/metric/QueryPlanMetric.class"
+    },
+    {
+      "name": "StringParser.class",
+      "path": "ebean-api/target/classes/io/ebean/text/StringParser.class"
+    },
+    {
+      "name": "PostConstructManager.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/deploy/PostConstructManager.class"
+    },
+    {
+      "name": "GeoTypeProvider.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/api/GeoTypeProvider.class"
+    },
+    {
+      "name": "AutoConfigureForTesting.class",
+      "path": "ebean-test/target/classes/io/ebean/test/config/AutoConfigureForTesting.class"
+    },
+    {
+      "name": "ExtraTypeFactory.class",
+      "path": "ebean-core-type/target/classes/io/ebean/core/type/ExtraTypeFactory.class"
+    },
+    {
+      "name": "EntityBeanIntercept.class",
+      "path": "ebean-api/target/classes/io/ebean/bean/EntityBeanIntercept.class"
+    },
+    {
+      "name": "RunOnceMarker.class",
+      "path": "ebean-test/target/classes/io/ebean/test/config/RunOnceMarker.class"
+    },
+    {
+      "name": "ExpressionList.class",
+      "path": "ebean-api/target/classes/io/ebean/ExpressionList.class"
+    },
+    {
+      "name": "TransactionCallback.class",
+      "path": "ebean-api/target/classes/io/ebean/TransactionCallback.class"
+    },
+    {
+      "name": "ScalarTypeArrayListH2$Factory.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/type/ScalarTypeArrayListH2$Factory.class"
+    },
+    {
+      "name": "CamelCaseHelper.class",
+      "path": "ebean-api/target/classes/io/ebean/util/CamelCaseHelper.class"
+    },
+    {
+      "name": "SqlJoinType.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/query/SqlJoinType.class"
+    },
+    {
+      "name": "AssocOneHelpEmbedded.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/deploy/AssocOneHelpEmbedded.class"
+    },
+    {
+      "name": "BatchPostExecute.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/persist/BatchPostExecute.class"
+    },
+    {
+      "name": "CQueryEngine.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/query/CQueryEngine.class"
+    },
+    {
+      "name": "PreGetterCallback.class",
+      "path": "ebean-api/target/classes/io/ebean/bean/PreGetterCallback.class"
+    },
+    {
+      "name": "BatchedPstmt.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/persist/BatchedPstmt.class"
+    },
+    {
+      "name": "PostgresSetup.class",
+      "path": "ebean-test/target/classes/io/ebean/test/config/platform/PostgresSetup.class"
+    },
+    {
+      "name": "ScalarTypeDuration.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/type/ScalarTypeDuration.class"
+    },
+    {
+      "name": "ScalarTypePeriod.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/type/ScalarTypePeriod.class"
+    },
+    {
+      "name": "GeneratedUpdateJavaTime$InstantDT.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/deploy/generatedproperty/GeneratedUpdateJavaTime$InstantDT.class"
+    },
+    {
+      "name": "TableJoin.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/deploy/TableJoin.class"
+    },
+    {
+      "name": "SpiTransaction.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/api/SpiTransaction.class"
+    },
+    {
+      "name": "NoAutoTuneService.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/autotune/NoAutoTuneService.class"
+    },
+    {
+      "name": "BulkEventListenerMap.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/transaction/BulkEventListenerMap.class"
+    },
+    {
+      "name": "DbDefaultValue.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/DbDefaultValue.class"
+    },
+    {
+      "name": "SqlServerDdl.class",
+      "path": "ebean-ddl-generator/target/classes/io/ebeaninternal/dbmigration/ddlgeneration/platform/SqlServerDdl.class"
+    },
+    {
+      "name": "H2Platform.class",
+      "path": "platforms/h2/target/classes/io/ebean/platform/h2/H2Platform.class"
+    },
+    {
+      "name": "DtoQuery.class",
+      "path": "ebean-api/target/classes/io/ebean/DtoQuery.class"
+    },
+    {
+      "name": "PersistenceContextScope.class",
+      "path": "ebean-api/target/classes/io/ebean/PersistenceContextScope.class"
+    },
+    {
+      "name": "ClickHouseSetup.class",
+      "path": "ebean-test/target/classes/io/ebean/test/config/platform/ClickHouseSetup.class"
+    },
+    {
+      "name": "CancelableQuery.class",
+      "path": "ebean-api/target/classes/io/ebean/CancelableQuery.class"
+    },
+    {
+      "name": "DefaultTypeFactory.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/type/DefaultTypeFactory.class"
+    },
+    {
+      "name": "MetaQueryMetric.class",
+      "path": "ebean-api/target/classes/io/ebean/meta/MetaQueryMetric.class"
+    },
+    {
+      "name": "OrmQueryEngine.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/core/OrmQueryEngine.class"
+    },
+    {
+      "name": "WhoTenantProvider.class",
+      "path": "ebean-test/target/classes/io/ebean/test/config/provider/WhoTenantProvider.class"
+    },
+    {
+      "name": "GeneratedInsertJavaTime$OffsetDT.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/deploy/generatedproperty/GeneratedInsertJavaTime$OffsetDT.class"
+    },
+    {
+      "name": "DTimedMetricMap.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/profile/DTimedMetricMap.class"
+    },
+    {
+      "name": "CQueryPlanRawSql.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/query/CQueryPlanRawSql.class"
+    },
+    {
+      "name": "package-info.class",
+      "path": "ebean-ddl-generator/target/classes/io/ebeaninternal/extraddl/model/package-info.class"
+    },
+    {
+      "name": "ScalarTypeTimeZone.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/type/ScalarTypeTimeZone.class"
+    },
+    {
+      "name": "ScalarTypeInteger.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/type/ScalarTypeInteger.class"
+    },
+    {
+      "name": "default.policy",
+      "path": "../../../../../usr/lib/jvm/java-17-openjdk-amd64/lib/security/default.policy"
+    },
+    {
+      "name": "TimeStringParserTest.class",
+      "path": "ebean-csv-reader/target/test-classes/io/ebean/csv/reader/TimeStringParserTest.class"
+    },
+    {
+      "name": "ClusterManager.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/cluster/ClusterManager.class"
+    },
+    {
+      "name": "FixedEncryptKey.class",
+      "path": "ebean-test/target/classes/io/ebean/test/config/provider/FixedEncryptKey.class"
+    },
+    {
+      "name": "SpiLogger.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/api/SpiLogger.class"
+    },
+    {
+      "name": "ServerMetrics.class",
+      "path": "ebean-api/target/classes/io/ebean/meta/ServerMetrics.class"
+    },
+    {
+      "name": "EncryptDeploy$Mode.class",
+      "path": "ebean-api/target/classes/io/ebean/config/EncryptDeploy$Mode.class"
+    },
+    {
+      "name": "SaveManyElementCollectionMap.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/persist/SaveManyElementCollectionMap.class"
+    },
+    {
+      "name": "BatchedSqlException.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/persist/BatchedSqlException.class"
+    },
+    {
+      "name": "ScalarTypeCharArray.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/type/ScalarTypeCharArray.class"
+    },
+    {
+      "name": "DocStoreEmbeddedInvalidationProperties.class",
+      "path": "ebean-core/target/classes/io/ebeanservice/docstore/api/support/DocStoreEmbeddedInvalidationProperties.class"
+    },
+    {
+      "name": "ScalarTypeCidr.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/type/ScalarTypeCidr.class"
+    },
+    {
+      "name": "ScalarType.class",
+      "path": "ebean-core-type/target/classes/io/ebean/core/type/ScalarType.class"
+    },
+    {
+      "name": "ScalarTypeShort.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/type/ScalarTypeShort.class"
+    },
+    {
+      "name": "DefaultServerCacheManager.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/cache/DefaultServerCacheManager.class"
+    },
+    {
+      "name": "GeneratedInsertJavaTime$Base.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/deploy/generatedproperty/GeneratedInsertJavaTime$Base.class"
+    },
+    {
+      "name": "ToStringAware.class",
+      "path": "ebean-api/target/classes/io/ebean/bean/ToStringAware.class"
+    },
+    {
+      "name": "DocStoreUpdateProcessor.class",
+      "path": "ebean-core/target/classes/io/ebeanservice/docstore/api/DocStoreUpdateProcessor.class"
+    },
+    {
+      "name": "GenerateDmlRequest.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/persist/dml/GenerateDmlRequest.class"
+    },
+    {
+      "name": "ScalarTypeArraySetH2$Factory.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/type/ScalarTypeArraySetH2$Factory.class"
+    },
+    {
+      "name": "OracleDdl.class",
+      "path": "ebean-ddl-generator/target/classes/io/ebeaninternal/dbmigration/ddlgeneration/platform/OracleDdl.class"
+    },
+    {
+      "name": "PersistRequest$Type.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/core/PersistRequest$Type.class"
+    },
+    {
+      "name": "Str.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/util/Str.class"
+    },
+    {
+      "name": "MetaCountMetric.class",
+      "path": "ebean-api/target/classes/io/ebean/meta/MetaCountMetric.class"
+    },
+    {
+      "name": "BaseDdlHandler.class",
+      "path": "ebean-ddl-generator/target/classes/io/ebeaninternal/dbmigration/ddlgeneration/BaseDdlHandler.class"
+    },
+    {
+      "name": "TenantSchemaProvider.class",
+      "path": "ebean-api/target/classes/io/ebean/config/TenantSchemaProvider.class"
+    },
+    {
+      "name": "ScalarTypeUtilDate$TimestampType.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/type/ScalarTypeUtilDate$TimestampType.class"
+    },
+    {
+      "name": "AnnotationParser.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/deploy/parse/AnnotationParser.class"
+    },
+    {
+      "name": "ScalarTypeArraySet.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/type/ScalarTypeArraySet.class"
+    },
+    {
+      "name": "NoneDocStoreFactory$NoneIntegration.class",
+      "path": "ebean-core/target/classes/io/ebeanservice/docstore/none/NoneDocStoreFactory$NoneIntegration.class"
+    },
+    {
+      "name": "CallOrigin.class",
+      "path": "ebean-api/target/classes/io/ebean/bean/CallOrigin.class"
+    },
+    {
+      "name": "DefaultTransactionScopeManager.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/transaction/DefaultTransactionScopeManager.class"
+    },
+    {
+      "name": "DScriptRunner.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/core/DScriptRunner.class"
+    },
+    {
+      "name": "SpiTransactionProxy.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/api/SpiTransactionProxy.class"
+    },
+    {
+      "name": "TimedMetricStats.class",
+      "path": "ebean-api/target/classes/io/ebean/metric/TimedMetricStats.class"
+    },
+    {
+      "name": "InsertHandler.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/persist/dml/InsertHandler.class"
+    },
+    {
+      "name": "BaseDdlBuffer.class",
+      "path": "ebean-ddl-generator/target/classes/io/ebeaninternal/dbmigration/ddlgeneration/platform/BaseDdlBuffer.class"
+    },
+    {
+      "name": "ScalarTypeLongVarchar.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/type/ScalarTypeLongVarchar.class"
+    },
+    {
+      "name": "DocStoreUpdate.class",
+      "path": "ebean-core/target/classes/io/ebeanservice/docstore/api/DocStoreUpdate.class"
+    },
+    {
+      "name": "TableJoinColumn.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/deploy/TableJoinColumn.class"
+    },
+    {
+      "name": "ReadValidationAnnotations.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/deploy/parse/ReadValidationAnnotations.class"
+    },
+    {
+      "name": "FactoryAssocOnes$1.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/persist/dmlbind/FactoryAssocOnes$1.class"
+    },
+    {
+      "name": "Db2Setup.class",
+      "path": "ebean-test/target/classes/io/ebean/test/config/platform/Db2Setup.class"
+    },
+    {
+      "name": "DbHistorySupport.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/DbHistorySupport.class"
+    },
+    {
+      "name": "EncryptKey.class",
+      "path": "ebean-api/target/classes/io/ebean/config/EncryptKey.class"
+    },
+    {
+      "name": "ScalarTypeOffsetDateTime.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/type/ScalarTypeOffsetDateTime.class"
+    },
+    {
+      "name": "STreeProperty.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/query/STreeProperty.class"
+    },
+    {
+      "name": "SqlServerSetup.class",
+      "path": "ebean-test/target/classes/io/ebean/test/config/platform/SqlServerSetup.class"
+    },
+    {
+      "name": "H2HistorySupport.class",
+      "path": "platforms/h2/target/classes/io/ebean/platform/h2/H2HistorySupport.class"
+    },
+    {
+      "name": "MariaDBSetup.class",
+      "path": "ebean-test/target/classes/io/ebean/test/config/platform/MariaDBSetup.class"
+    },
+    {
+      "name": "AnnotationClass.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/deploy/parse/AnnotationClass.class"
+    },
+    {
+      "name": "SpiExpressionFactory.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/api/SpiExpressionFactory.class"
+    },
+    {
+      "name": "H2DbExpression.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/expression/platform/H2DbExpression.class"
+    },
+    {
+      "name": "GeneratedCounterInteger.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/deploy/generatedproperty/GeneratedCounterInteger.class"
+    },
+    {
+      "name": "PostgresHelper.class",
+      "path": "ebean-core-type/target/classes/io/ebean/core/type/PostgresHelper.class"
+    },
+    {
+      "name": "BeanNotRegisteredException.class",
+      "path": "ebean-api/target/classes/io/ebean/config/BeanNotRegisteredException.class"
+    },
+    {
+      "name": "PersistRequestBean$1.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/core/PersistRequestBean$1.class"
+    },
+    {
+      "name": "ScalarTypeBaseDateTime.class",
+      "path": "ebean-core-type/target/classes/io/ebean/core/type/ScalarTypeBaseDateTime.class"
+    },
+    {
+      "name": "ScalarTypeTimestamp.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/type/ScalarTypeTimestamp.class"
+    },
+    {
+      "name": "BeanManagerFactory.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/deploy/BeanManagerFactory.class"
+    },
+    {
+      "name": "TestCsvReaderWithCallback.class",
+      "path": "ebean-csv-reader/target/test-classes/io/ebean/csv/reader/TestCsvReaderWithCallback.class"
+    },
+    {
+      "name": "SqlRow.class",
+      "path": "ebean-api/target/classes/io/ebean/SqlRow.class"
+    },
+    {
+      "name": "ClockService.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/core/ClockService.class"
+    },
+    {
+      "name": "Model.class",
+      "path": "ebean-api/target/classes/io/ebean/Model.class"
+    },
+    {
+      "name": "ScalarTypeLocale.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/type/ScalarTypeLocale.class"
+    },
+    {
+      "name": "MetricVisitor.class",
+      "path": "ebean-api/target/classes/io/ebean/meta/MetricVisitor.class"
+    },
+    {
+      "name": "MetricNamingMatch.class",
+      "path": "ebean-api/target/classes/io/ebean/meta/MetricNamingMatch.class"
+    },
+    {
+      "name": "TimeStringParser.class",
+      "path": "ebean-csv-reader/target/classes/io/ebean/csv/reader/TimeStringParser.class"
+    },
+    {
+      "name": "IdGenerator.class",
+      "path": "ebean-api/target/classes/io/ebean/config/IdGenerator.class"
+    },
+    {
+      "name": "SqlUpdate.class",
+      "path": "ebean-api/target/classes/io/ebean/SqlUpdate.class"
+    },
+    {
+      "name": "SqlQuery.class",
+      "path": "ebean-api/target/classes/io/ebean/SqlQuery.class"
+    },
+    {
+      "name": "ScalarTypeCurrency.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/type/ScalarTypeCurrency.class"
+    },
+    {
+      "name": "DefaultServerCacheFactory.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/cache/DefaultServerCacheFactory.class"
+    },
+    {
+      "name": "DbTableBasedHistoryDdl.class",
+      "path": "ebean-ddl-generator/target/classes/io/ebeaninternal/dbmigration/ddlgeneration/platform/DbTableBasedHistoryDdl.class"
+    },
+    {
+      "name": "PostgresDdl.class",
+      "path": "ebean-ddl-generator/target/classes/io/ebeaninternal/dbmigration/ddlgeneration/platform/PostgresDdl.class"
+    },
+    {
+      "name": "ReadAuditLogger.class",
+      "path": "ebean-api/target/classes/io/ebean/event/readaudit/ReadAuditLogger.class"
+    },
+    {
+      "name": "SpiProfileTransactionEvent.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/api/SpiProfileTransactionEvent.class"
+    },
+    {
+      "name": "GeneratedInsertLong.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/deploy/generatedproperty/GeneratedInsertLong.class"
+    },
+    {
+      "name": "MetaMetric.class",
+      "path": "ebean-api/target/classes/io/ebean/meta/MetaMetric.class"
+    },
+    {
+      "name": "DefaultReadAuditPrepare.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/readaudit/DefaultReadAuditPrepare.class"
+    },
+    {
+      "name": "DocStoreBeanBaseAdapter$1.class",
+      "path": "ebean-core/target/classes/io/ebeanservice/docstore/api/support/DocStoreBeanBaseAdapter$1.class"
+    },
+    {
+      "name": "ElPropertyChain.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/el/ElPropertyChain.class"
+    },
+    {
+      "name": "AnnotationFind.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/deploy/parse/AnnotationFind.class"
+    },
+    {
+      "name": "BeanState.class",
+      "path": "ebean-api/target/classes/io/ebean/BeanState.class"
+    },
+    {
+      "name": "AbstractNamingConvention.class",
+      "path": "ebean-api/target/classes/io/ebean/config/AbstractNamingConvention.class"
+    },
+    {
+      "name": "BeanDescriptorMap.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/deploy/BeanDescriptorMap.class"
+    },
+    {
+      "name": "PlatformAutoConfig.class",
+      "path": "ebean-test/target/classes/io/ebean/test/config/platform/PlatformAutoConfig.class"
+    },
+    {
+      "name": "VisitAllUsing.class",
+      "path": "ebean-ddl-generator/target/classes/io/ebeaninternal/dbmigration/model/visitor/VisitAllUsing.class"
+    },
+    {
+      "name": "H2DbEncrypt.class",
+      "path": "platforms/h2/target/classes/io/ebean/platform/h2/H2DbEncrypt.class"
+    },
+    {
+      "name": "BeanNotEnhancedException.class",
+      "path": "ebean-api/target/classes/io/ebean/config/BeanNotEnhancedException.class"
+    },
+    {
+      "name": "SpiCacheControl.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/api/SpiCacheControl.class"
+    },
+    {
+      "name": "BaseTableDdl.class",
+      "path": "ebean-ddl-generator/target/classes/io/ebeaninternal/dbmigration/ddlgeneration/platform/BaseTableDdl.class"
+    },
+    {
+      "name": "BaseTableIdentity.class",
+      "path": "ebean-ddl-generator/target/classes/io/ebeaninternal/dbmigration/ddlgeneration/platform/BaseTableIdentity.class"
+    },
+    {
+      "name": "PersistExecute.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/persist/PersistExecute.class"
+    },
+    {
+      "name": "Flags.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/persist/Flags.class"
+    },
+    {
+      "name": "DbPlatformType.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/DbPlatformType.class"
+    },
+    {
+      "name": "BeanDiffVisitor.class",
+      "path": "ebean-api/target/classes/io/ebean/bean/BeanDiffVisitor.class"
+    },
+    {
+      "name": "BindableIdScalar.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/persist/dmlbind/BindableIdScalar.class"
+    },
+    {
+      "name": "CreateSchema.class",
+      "path": "ebean-ddl-generator/target/classes/io/ebeaninternal/dbmigration/migration/CreateSchema.class"
+    },
+    {
+      "name": "Expression.class",
+      "path": "ebean-api/target/classes/io/ebean/Expression.class"
+    },
+    {
+      "name": "GeneratedUpdateDate.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/deploy/generatedproperty/GeneratedUpdateDate.class"
+    },
+    {
+      "name": "STreePropertyAssocMany.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/query/STreePropertyAssocMany.class"
+    },
+    {
+      "name": "Bindable.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/persist/dmlbind/Bindable.class"
+    },
+    {
+      "name": "DefaultServerCachePlugin.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/cache/DefaultServerCachePlugin.class"
+    },
+    {
+      "name": "SqlLimiter.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/SqlLimiter.class"
+    },
+    {
+      "name": "MultiValueBind.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/persist/platform/MultiValueBind.class"
+    },
+    {
+      "name": "SqliteSetup.class",
+      "path": "ebean-test/target/classes/io/ebean/test/config/platform/SqliteSetup.class"
+    },
+    {
+      "name": "TransactionFactoryBasicWithRead.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/transaction/TransactionFactoryBasicWithRead.class"
+    },
+    {
+      "name": "TransactionFactoryBuilder.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/transaction/TransactionFactoryBuilder.class"
+    },
+    {
+      "name": "MetaTimedMetric.class",
+      "path": "ebean-api/target/classes/io/ebean/meta/MetaTimedMetric.class"
+    },
+    {
+      "name": "PlatformHistoryDdl$TableBased.class",
+      "path": "ebean-ddl-generator/target/classes/io/ebeaninternal/dbmigration/ddlgeneration/platform/PlatformHistoryDdl$TableBased.class"
+    },
+    {
+      "name": "DataBind.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/bind/DataBind.class"
+    },
+    {
+      "name": "ScalarTypeYear.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/type/ScalarTypeYear.class"
+    },
+    {
+      "name": "DdlIdentity.class",
+      "path": "ebean-ddl-generator/target/classes/io/ebeaninternal/dbmigration/ddlgeneration/platform/DdlIdentity.class"
+    },
+    {
+      "name": "PlatformConfig.class",
+      "path": "ebean-api/target/classes/io/ebean/config/PlatformConfig.class"
+    },
+    {
+      "name": "ScalarTypeBoolean$BooleanBase.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/type/ScalarTypeBoolean$BooleanBase.class"
+    },
+    {
+      "name": "H2DbEncrypt$H2DateFunction.class",
+      "path": "platforms/h2/target/classes/io/ebean/platform/h2/H2DbEncrypt$H2DateFunction.class"
+    },
+    {
+      "name": "Column.class",
+      "path": "ebean-ddl-generator/target/classes/io/ebeaninternal/dbmigration/migration/Column.class"
+    },
+    {
+      "name": "CallStack.class",
+      "path": "ebean-api/target/classes/io/ebean/bean/CallStack.class"
+    },
+    {
+      "name": "H2Ddl.class",
+      "path": "ebean-ddl-generator/target/classes/io/ebeaninternal/dbmigration/ddlgeneration/platform/H2Ddl.class"
+    },
+    {
+      "name": "DTimedMetric.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/profile/DTimedMetric.class"
+    },
+    {
+      "name": "EnumToDbIntegerMap.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/type/EnumToDbIntegerMap.class"
+    },
+    {
+      "name": "BeanLifecycleAdapterFactory$MethodsHolder.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/deploy/BeanLifecycleAdapterFactory$MethodsHolder.class"
+    },
+    {
+      "name": "HanaSetup.class",
+      "path": "ebean-test/target/classes/io/ebean/test/config/platform/HanaSetup.class"
+    },
+    {
+      "name": "AssocOneHelpRefInherit.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/deploy/AssocOneHelpRefInherit.class"
+    },
+    {
+      "name": "ExpressionFactory.class",
+      "path": "ebean-api/target/classes/io/ebean/ExpressionFactory.class"
+    },
+    {
+      "name": "ScalarTypeURI.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/type/ScalarTypeURI.class"
+    },
+    {
+      "name": "Postgres9Ddl.class",
+      "path": "ebean-ddl-generator/target/classes/io/ebeaninternal/dbmigration/ddlgeneration/platform/Postgres9Ddl.class"
+    },
+    {
+      "name": "DefaultCsvCallback.class",
+      "path": "ebean-csv-reader/target/classes/io/ebean/csv/reader/DefaultCsvCallback.class"
+    },
+    {
+      "name": "ScalarTypeEnumStandard$StringEnum.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/type/ScalarTypeEnumStandard$StringEnum.class"
+    },
+    {
+      "name": "DataReader.class",
+      "path": "ebean-core-type/target/classes/io/ebean/core/type/DataReader.class"
+    },
+    {
+      "name": "DCountMetric.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/profile/DCountMetric.class"
+    },
+    {
+      "name": "NamingConvention.class",
+      "path": "ebean-api/target/classes/io/ebean/config/NamingConvention.class"
+    },
+    {
+      "name": "tzdb.dat",
+      "path": "../../../../../usr/lib/jvm/java-17-openjdk-amd64/lib/tzdb.dat"
+    },
+    {
+      "name": "DefaultChangeLogPrepare.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/changelog/DefaultChangeLogPrepare.class"
+    },
+    {
+      "name": "BeanQueryRequest.class",
+      "path": "ebean-api/target/classes/io/ebean/event/BeanQueryRequest.class"
+    },
+    {
+      "name": "ScalarTypeInet$Varchar.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/type/ScalarTypeInet$Varchar.class"
+    },
+    {
+      "name": "Database.class",
+      "path": "ebean-api/target/classes/io/ebean/Database.class"
+    },
+    {
+      "name": "GeneratedInsertJavaTime$ZonedDT.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/deploy/generatedproperty/GeneratedInsertJavaTime$ZonedDT.class"
+    },
+    {
+      "name": "ScalarTypeJsonCollection.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/type/ScalarTypeJsonCollection.class"
+    },
+    {
+      "name": "DatabasePlatform.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/DatabasePlatform.class"
+    },
+    {
+      "name": "JdbcTransaction.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/transaction/JdbcTransaction.class"
+    },
+    {
+      "name": "SpiBackgroundExecutor.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/api/SpiBackgroundExecutor.class"
+    },
+    {
+      "name": "SpiCacheManager.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/cache/SpiCacheManager.class"
+    },
+    {
+      "name": "BeanIudMetrics.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/deploy/BeanIudMetrics.class"
+    },
+    {
+      "name": "SpiQueryFetch.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/api/SpiQueryFetch.class"
+    },
+    {
+      "name": "STreePropertyAssocOne.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/query/STreePropertyAssocOne.class"
+    },
+    {
+      "name": "AutoConfigure.class",
+      "path": "ebean-api/target/classes/io/ebean/config/AutoConfigure.class"
+    },
+    {
+      "name": "SpiOrmQueryRequest.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/core/SpiOrmQueryRequest.class"
+    },
+    {
+      "name": "TransactionEvent.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/api/TransactionEvent.class"
+    },
+    {
+      "name": "ScalarTypeLocalDate.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/type/ScalarTypeLocalDate.class"
+    },
+    {
+      "name": "NoneDocStoreUpdateProcessor.class",
+      "path": "ebean-core/target/classes/io/ebeanservice/docstore/none/NoneDocStoreUpdateProcessor.class"
+    },
+    {
+      "name": "MySqlDdl.class",
+      "path": "ebean-ddl-generator/target/classes/io/ebeaninternal/dbmigration/ddlgeneration/platform/MySqlDdl.class"
+    },
+    {
+      "name": "EbeanVersion.class",
+      "path": "ebean-api/target/classes/io/ebean/EbeanVersion.class"
+    },
+    {
+      "name": "DCacheControlNone.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/deploy/DCacheControlNone.class"
+    },
+    {
+      "name": "ScalarTypeArrayBase.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/type/ScalarTypeArrayBase.class"
+    },
+    {
+      "name": "ScalarTypeLocalTime.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/type/ScalarTypeLocalTime.class"
+    },
+    {
+      "name": "ScalarTypeStringBase.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/type/ScalarTypeStringBase.class"
+    },
+    {
+      "name": "ScalarTypeZoneOffset.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/type/ScalarTypeZoneOffset.class"
+    },
+    {
+      "name": "ScalarTypeClob.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/type/ScalarTypeClob.class"
+    },
+    {
+      "name": "SpiProfileHandler.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/api/SpiProfileHandler.class"
+    },
+    {
+      "name": "DefaultServer.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/core/DefaultServer.class"
+    },
+    {
+      "name": "UserContext$UserContextThreadLocal.class",
+      "path": "ebean-test/target/classes/io/ebean/test/UserContext$UserContextThreadLocal.class"
+    },
+    {
+      "name": "ScalarTypeBoolean$Native.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/type/ScalarTypeBoolean$Native.class"
+    },
+    {
+      "name": "ClusterBroadcastFactory.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/cluster/ClusterBroadcastFactory.class"
+    },
+    {
+      "name": "DefaultServerQueryCache.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/cache/DefaultServerQueryCache.class"
+    },
+    {
+      "name": "FactoryVersion.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/persist/dmlbind/FactoryVersion.class"
+    },
+    {
+      "name": "ReadAuditPrepare.class",
+      "path": "ebean-api/target/classes/io/ebean/event/readaudit/ReadAuditPrepare.class"
+    },
+    {
+      "name": "ReadAnnotations.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/deploy/parse/ReadAnnotations.class"
+    },
+    {
+      "name": "ScopeTrans.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/api/ScopeTrans.class"
+    },
+    {
+      "name": "QueryPlanLoggerSqlServer.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/query/QueryPlanLoggerSqlServer.class"
+    },
+    {
+      "name": "BeanDescriptorManager$BeanDescComparator.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/deploy/BeanDescriptorManager$BeanDescComparator.class"
+    },
+    {
+      "name": "ExeOrmUpdate.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/persist/ExeOrmUpdate.class"
+    },
+    {
+      "name": "ExtendedServer.class",
+      "path": "ebean-api/target/classes/io/ebean/ExtendedServer.class"
+    },
+    {
+      "name": "ElasticSearchSetup.class",
+      "path": "ebean-test/target/classes/io/ebean/test/config/platform/ElasticSearchSetup.class"
+    },
+    {
+      "name": "SpiQueryPlan.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/api/SpiQueryPlan.class"
+    },
+    {
+      "name": "DeployBeanProperty.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/deploy/meta/DeployBeanProperty.class"
+    },
+    {
+      "name": "SpiBeanType.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/api/SpiBeanType.class"
+    },
+    {
+      "name": "BeanFkeyProperty.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/deploy/BeanFkeyProperty.class"
+    },
+    {
+      "name": "CsvUtilReader.class",
+      "path": "ebean-csv-reader/target/classes/io/ebean/csv/reader/CsvUtilReader.class"
+    },
+    {
+      "name": "SqlLimitRequest.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/SqlLimitRequest.class"
+    },
+    {
+      "name": "ChangeLogRegister.class",
+      "path": "ebean-api/target/classes/io/ebean/event/changelog/ChangeLogRegister.class"
+    },
+    {
+      "name": "SerializableConflictException.class",
+      "path": "ebean-api/target/classes/io/ebean/SerializableConflictException.class"
+    },
+    {
+      "name": "CoreLog.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/api/CoreLog.class"
+    },
+    {
+      "name": "ScalarTypePath.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/type/ScalarTypePath.class"
+    },
+    {
+      "name": "DefaultServerCacheFactory$NoopServerCacheNotify.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/cache/DefaultServerCacheFactory$NoopServerCacheNotify.class"
+    },
+    {
+      "name": "ScriptRunner.class",
+      "path": "ebean-api/target/classes/io/ebean/ScriptRunner.class"
+    },
+    {
+      "name": "PersistRequestUpdateSql.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/core/PersistRequestUpdateSql.class"
+    },
+    {
+      "name": "BeanPersistRequest.class",
+      "path": "ebean-api/target/classes/io/ebean/event/BeanPersistRequest.class"
+    },
+    {
+      "name": "PostgresMultiValueBind.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/persist/platform/PostgresMultiValueBind.class"
+    },
+    {
+      "name": "BeanDescriptor$EntityType.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/deploy/BeanDescriptor$EntityType.class"
+    },
+    {
+      "name": "DistillPackages.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/core/bootup/DistillPackages.class"
+    },
+    {
+      "name": "WriteCreateIndex.class",
+      "path": "ebean-ddl-generator/target/classes/io/ebeaninternal/dbmigration/ddlgeneration/platform/WriteCreateIndex.class"
+    },
+    {
+      "name": "MTableIdentity$1.class",
+      "path": "ebean-ddl-generator/target/classes/io/ebeaninternal/dbmigration/model/MTableIdentity$1.class"
+    },
+    {
+      "name": "DAddress.class",
+      "path": "ebean-csv-reader/target/test-classes/org/example/DAddress.class"
+    },
+    {
+      "name": "IdBinderEmbedded.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/deploy/id/IdBinderEmbedded.class"
+    },
+    {
+      "name": "ExtraDdlXmlReader.class",
+      "path": "ebean-ddl-generator/target/classes/io/ebeaninternal/extraddl/model/ExtraDdlXmlReader.class"
+    },
+    {
+      "name": "BatchControl$Queue.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/persist/BatchControl$Queue.class"
+    },
+    {
+      "name": "ServerCache.class",
+      "path": "ebean-api/target/classes/io/ebean/cache/ServerCache.class"
+    },
+    {
+      "name": "BeanPostLoad.class",
+      "path": "ebean-api/target/classes/io/ebean/event/BeanPostLoad.class"
+    },
+    {
+      "name": "GeneratedPropertyFactory.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/deploy/generatedproperty/GeneratedPropertyFactory.class"
+    },
+    {
+      "name": "ScalarTypeEnumStandard$EnumBase.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/type/ScalarTypeEnumStandard$EnumBase.class"
+    },
+    {
+      "name": "DeployBeanPropertyAssocOne.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/deploy/meta/DeployBeanPropertyAssocOne.class"
+    },
+    {
+      "name": "MColumn.class",
+      "path": "ebean-ddl-generator/target/classes/io/ebeaninternal/dbmigration/model/MColumn.class"
+    },
+    {
+      "name": "DB.class",
+      "path": "ebean-api/target/classes/io/ebean/DB.class"
+    },
+    {
+      "name": "ScalarTypeBaseVarchar.class",
+      "path": "ebean-core-type/target/classes/io/ebean/core/type/ScalarTypeBaseVarchar.class"
+    },
+    {
+      "name": "DefaultChangeLogRegister.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/changelog/DefaultChangeLogRegister.class"
+    },
+    {
+      "name": "DefaultMetaInfoManager.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/core/DefaultMetaInfoManager.class"
+    },
+    {
+      "name": "DeployIdentityMode.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/deploy/meta/DeployIdentityMode.class"
+    },
+    {
+      "name": "DCacheRegionNone.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/deploy/DCacheRegionNone.class"
+    },
+    {
+      "name": "ModelContainer.class",
+      "path": "ebean-ddl-generator/target/classes/io/ebeaninternal/dbmigration/model/ModelContainer.class"
+    },
+    {
+      "name": "CounterFactory.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/deploy/generatedproperty/CounterFactory.class"
+    },
+    {
+      "name": "CurrentUserProvider.class",
+      "path": "ebean-api/target/classes/io/ebean/config/CurrentUserProvider.class"
+    },
+    {
+      "name": "ScalarTypeArrayListH2.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/type/ScalarTypeArrayListH2.class"
+    },
+    {
+      "name": "ScalarTypeLong.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/type/ScalarTypeLong.class"
+    },
+    {
+      "name": "ScalarTypeDayOfWeek.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/type/ScalarTypeDayOfWeek.class"
+    },
+    {
+      "name": "Update.class",
+      "path": "ebean-api/target/classes/io/ebean/Update.class"
+    },
+    {
+      "name": "EnumToDbValueMap.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/type/EnumToDbValueMap.class"
+    },
+    {
+      "name": "DatabaseConfig.class",
+      "path": "ebean-api/target/classes/io/ebean/config/DatabaseConfig.class"
+    },
+    {
+      "name": "CreateTable.class",
+      "path": "ebean-ddl-generator/target/classes/io/ebeaninternal/dbmigration/migration/CreateTable.class"
+    },
+    {
+      "name": "TableModState.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/transaction/TableModState.class"
+    },
+    {
+      "name": "PlatformTypeConverter.class",
+      "path": "ebean-ddl-generator/target/classes/io/ebeaninternal/dbmigration/ddlgeneration/platform/util/PlatformTypeConverter.class"
+    },
+    {
+      "name": "PersistenceContext.class",
+      "path": "ebean-api/target/classes/io/ebean/bean/PersistenceContext.class"
+    },
+    {
+      "name": "SaveManyElementCollection.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/persist/SaveManyElementCollection.class"
+    },
+    {
+      "name": "GeneratedUpdateJavaTime$OffsetDT.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/deploy/generatedproperty/GeneratedUpdateJavaTime$OffsetDT.class"
+    },
+    {
+      "name": "WriteForeignKey.class",
+      "path": "ebean-ddl-generator/target/classes/io/ebeaninternal/dbmigration/ddlgeneration/platform/WriteForeignKey.class"
+    },
+    {
+      "name": "ScalarTypeClass.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/type/ScalarTypeClass.class"
+    },
+    {
+      "name": "Customer$Status.class",
+      "path": "ebean-csv-reader/target/test-classes/org/example/Customer$Status.class"
+    },
+    {
+      "name": "EnhanceBeanPropertyAccess.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/properties/EnhanceBeanPropertyAccess.class"
+    },
+    {
+      "name": "FutureIds.class",
+      "path": "ebean-api/target/classes/io/ebean/FutureIds.class"
+    },
+    {
+      "name": "ArrayStack.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/util/ArrayStack.class"
+    },
+    {
+      "name": "QueryPlanManager.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/api/QueryPlanManager.class"
+    },
+    {
+      "name": "ExtraDdl.class",
+      "path": "ebean-ddl-generator/target/classes/io/ebeaninternal/extraddl/model/ExtraDdl.class"
+    },
+    {
+      "name": "QueryIterator.class",
+      "path": "ebean-api/target/classes/io/ebean/QueryIterator.class"
+    },
+    {
+      "name": "PlatformDdlBuilder.class",
+      "path": "ebean-ddl-generator/target/classes/io/ebeaninternal/dbmigration/ddlgeneration/PlatformDdlBuilder.class"
+    },
+    {
+      "name": "BindableId.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/persist/dmlbind/BindableId.class"
+    },
+    {
+      "name": "GeneratedUpdateJavaTime$Base.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/deploy/generatedproperty/GeneratedUpdateJavaTime$Base.class"
+    },
+    {
+      "name": "BaseMeta.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/persist/dml/BaseMeta.class"
+    },
+    {
+      "name": "OracleSetup.class",
+      "path": "ebean-test/target/classes/io/ebean/test/config/platform/OracleSetup.class"
+    },
+    {
+      "name": "BasicTypeConverter.class",
+      "path": "ebean-core-type/target/classes/io/ebean/core/type/BasicTypeConverter.class"
+    },
+    {
+      "name": "IndexSet.class",
+      "path": "ebean-ddl-generator/target/classes/io/ebeaninternal/dbmigration/ddlgeneration/platform/util/IndexSet.class"
+    },
+    {
+      "name": "DocStoreTransactionManager.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/transaction/DocStoreTransactionManager.class"
+    },
+    {
+      "name": "PersistenceContextUtil.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/deploy/PersistenceContextUtil.class"
+    },
+    {
+      "name": "RelationalQueryEngine.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/core/RelationalQueryEngine.class"
+    },
+    {
+      "name": "GeneratedCounterLong.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/deploy/generatedproperty/GeneratedCounterLong.class"
+    },
+    {
+      "name": "CsvReader.class",
+      "path": "ebean-csv-reader/target/classes/io/ebean/csv/reader/CsvReader.class"
+    },
+    {
+      "name": "BeanPersister.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/persist/BeanPersister.class"
+    },
+    {
+      "name": "BeanPersistListener.class",
+      "path": "ebean-api/target/classes/io/ebean/event/BeanPersistListener.class"
+    },
+    {
+      "name": "MTable.class",
+      "path": "ebean-ddl-generator/target/classes/io/ebeaninternal/dbmigration/model/MTable.class"
+    },
+    {
+      "name": "BaseTablePropertyVisitor.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/deploy/visitor/BaseTablePropertyVisitor.class"
+    },
+    {
+      "name": "FactoryAssocOnes.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/persist/dmlbind/FactoryAssocOnes.class"
+    },
+    {
+      "name": "IdBinderEmpty.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/deploy/id/IdBinderEmpty.class"
+    },
+    {
+      "name": "LoggedSql.class",
+      "path": "ebean-test/target/classes/io/ebean/test/LoggedSql.class"
+    },
+    {
+      "name": "NuoDbDdl.class",
+      "path": "ebean-ddl-generator/target/classes/io/ebeaninternal/dbmigration/ddlgeneration/platform/NuoDbDdl.class"
+    },
+    {
+      "name": "ClickHouseDdl.class",
+      "path": "ebean-ddl-generator/target/classes/io/ebeaninternal/dbmigration/ddlgeneration/platform/ClickHouseDdl.class"
+    },
+    {
+      "name": "H2Setup.class",
+      "path": "ebean-test/target/classes/io/ebean/test/config/platform/H2Setup.class"
+    },
+    {
+      "name": "WriteUniqueConstraint.class",
+      "path": "ebean-ddl-generator/target/classes/io/ebeaninternal/dbmigration/ddlgeneration/platform/WriteUniqueConstraint.class"
+    },
+    {
+      "name": "HanaColumnStoreDdl.class",
+      "path": "ebean-ddl-generator/target/classes/io/ebeaninternal/dbmigration/ddlgeneration/platform/HanaColumnStoreDdl.class"
+    },
+    {
+      "name": "SpiCacheRegion.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/api/SpiCacheRegion.class"
+    },
+    {
+      "name": "CurrentModel.class",
+      "path": "ebean-ddl-generator/target/classes/io/ebeaninternal/dbmigration/model/CurrentModel.class"
+    },
+    {
+      "name": "FetchPath.class",
+      "path": "ebean-api/target/classes/io/ebean/FetchPath.class"
+    },
+    {
+      "name": "BaseEntity.class",
+      "path": "ebean-csv-reader/target/test-classes/org/example/BaseEntity.class"
+    },
+    {
+      "name": "builtin-extra-ddl.xml",
+      "path": "ebean-ddl-generator/target/classes/io/ebeaninternal/dbmigration/builtin-extra-ddl.xml"
+    },
+    {
+      "name": "EncryptDeployManager.class",
+      "path": "ebean-api/target/classes/io/ebean/config/EncryptDeployManager.class"
+    },
+    {
+      "name": "ExampleExpression.class",
+      "path": "ebean-api/target/classes/io/ebean/ExampleExpression.class"
+    },
+    {
+      "name": "SaveManyBase.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/persist/SaveManyBase.class"
+    },
+    {
+      "name": "GeneratedInsertDate.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/deploy/generatedproperty/GeneratedInsertDate.class"
+    },
+    {
+      "name": "SpiLogManager.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/api/SpiLogManager.class"
+    },
+    {
+      "name": "DefaultOrmQueryEngine.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/query/DefaultOrmQueryEngine.class"
+    },
+    {
+      "name": "PlatformDdl$1.class",
+      "path": "ebean-ddl-generator/target/classes/io/ebeaninternal/dbmigration/ddlgeneration/platform/PlatformDdl$1.class"
+    },
+    {
+      "name": "BeanType.class",
+      "path": "ebean-api/target/classes/io/ebean/plugin/BeanType.class"
+    },
+    {
+      "name": "DataErrorType.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/DataErrorType.class"
+    },
+    {
+      "name": "PstmtFactory.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/persist/PstmtFactory.class"
+    },
+    {
+      "name": "ClassLoadConfig$ClassLoaderContext.class",
+      "path": "ebean-api/target/classes/io/ebean/config/ClassLoadConfig$ClassLoaderContext.class"
+    },
+    {
+      "name": "AcquireLockException.class",
+      "path": "ebean-api/target/classes/io/ebean/AcquireLockException.class"
+    },
+    {
+      "name": "QueryCacheEntryValidate.class",
+      "path": "ebean-api/target/classes/io/ebean/cache/QueryCacheEntryValidate.class"
+    },
+    {
+      "name": "NoneDocStoreFactory.class",
+      "path": "ebean-core/target/classes/io/ebeanservice/docstore/none/NoneDocStoreFactory.class"
+    },
+    {
+      "name": "InternalConfigXmlMap.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/core/InternalConfigXmlMap.class"
+    },
+    {
+      "name": "StringFormatter.class",
+      "path": "ebean-api/target/classes/io/ebean/text/StringFormatter.class"
+    },
+    {
+      "name": "ElPropertyDeploy.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/el/ElPropertyDeploy.class"
+    },
+    {
+      "name": "SingleBeanLoader$Ref.class",
+      "path": "ebean-api/target/classes/io/ebean/bean/SingleBeanLoader$Ref.class"
+    },
+    {
+      "name": "GeneratedWhoCreated.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/deploy/generatedproperty/GeneratedWhoCreated.class"
+    },
+    {
+      "name": "ScalarTypeBytesLongVarbinary.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/type/ScalarTypeBytesLongVarbinary.class"
+    },
+    {
+      "name": "AnnotationSql.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/deploy/parse/AnnotationSql.class"
+    },
+    {
+      "name": "ObtainedTransactionImplicit.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/core/ObtainedTransactionImplicit.class"
+    },
+    {
+      "name": "JdbcClose.class",
+      "path": "ebean-api/target/classes/io/ebean/util/JdbcClose.class"
+    },
+    {
+      "name": "ReadAnnotationConfig.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/deploy/parse/ReadAnnotationConfig.class"
+    },
+    {
+      "name": "InternalConfiguration$1.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/core/InternalConfiguration$1.class"
+    },
+    {
+      "name": "GeneratedProperty.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/deploy/generatedproperty/GeneratedProperty.class"
+    },
+    {
+      "name": "DdlWrite.class",
+      "path": "ebean-ddl-generator/target/classes/io/ebeaninternal/dbmigration/ddlgeneration/DdlWrite.class"
+    },
+    {
+      "name": "DeployCreateProperties.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/deploy/parse/DeployCreateProperties.class"
+    },
+    {
+      "name": "DeployBeanPropertyLists$NoopSetter.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/deploy/meta/DeployBeanPropertyLists$NoopSetter.class"
+    },
+    {
+      "name": "ManifestReader.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/core/bootup/ManifestReader.class"
+    },
+    {
+      "name": "PersistControllerManager.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/deploy/PersistControllerManager.class"
+    },
+    {
+      "name": "H2DbEncrypt$H2VarcharFunction.class",
+      "path": "platforms/h2/target/classes/io/ebean/platform/h2/H2DbEncrypt$H2VarcharFunction.class"
+    },
+    {
+      "name": "ScalarTypeBaseDate.class",
+      "path": "ebean-core-type/target/classes/io/ebean/core/type/ScalarTypeBaseDate.class"
+    },
+    {
+      "name": "STreeType.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/query/STreeType.class"
+    },
+    {
+      "name": "ServerCachePlugin.class",
+      "path": "ebean-api/target/classes/io/ebean/cache/ServerCachePlugin.class"
+    },
+    {
+      "name": "JsonConfig$Date.class",
+      "path": "ebean-api/target/classes/io/ebean/config/JsonConfig$Date.class"
+    },
+    {
+      "name": "ScalarTypeBool.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/type/ScalarTypeBool.class"
+    },
+    {
+      "name": "ChangeLogFilter.class",
+      "path": "ebean-api/target/classes/io/ebean/event/changelog/ChangeLogFilter.class"
+    },
+    {
+      "name": "SpiCancelableQuery.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/api/SpiCancelableQuery.class"
+    },
+    {
+      "name": "ObtainedTransaction.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/core/ObtainedTransaction.class"
+    },
+    {
+      "name": "UnderscoreNamingConvention.class",
+      "path": "ebean-api/target/classes/io/ebean/config/UnderscoreNamingConvention.class"
+    },
+    {
+      "name": "CapturingLoggerFactory$LogAdapter.class",
+      "path": "ebean-test/target/classes/io/ebean/test/CapturingLoggerFactory$LogAdapter.class"
+    },
+    {
+      "name": "MTableIdentity.class",
+      "path": "ebean-ddl-generator/target/classes/io/ebeaninternal/dbmigration/model/MTableIdentity.class"
+    },
+    {
+      "name": "Country.class",
+      "path": "ebean-csv-reader/target/test-classes/org/example/Country.class"
+    },
+    {
+      "name": "test1.csv",
+      "path": "ebean-csv-reader/target/test-classes/test1.csv"
+    },
+    {
+      "name": "DocQueryContext.class",
+      "path": "ebean-api/target/classes/io/ebean/docstore/DocQueryContext.class"
+    },
+    {
+      "name": "FactoryEmbedded.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/persist/dmlbind/FactoryEmbedded.class"
+    },
+    {
+      "name": "ToStringBuilder.class",
+      "path": "ebean-api/target/classes/io/ebean/bean/ToStringBuilder.class"
+    },
+    {
+      "name": "io.ebean.service.SpiContainerFactory",
+      "path": "ebean-core/target/classes/META-INF/services/io.ebean.service.SpiContainerFactory"
+    },
+    {
+      "name": "EncodeB64.class",
+      "path": "ebean-api/target/classes/io/ebean/util/EncodeB64.class"
+    },
+    {
+      "name": "EnhanceBeanPropertyAccess$Setter.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/properties/EnhanceBeanPropertyAccess$Setter.class"
+    },
+    {
+      "name": "java.policy",
+      "path": "../../../../../usr/lib/jvm/java-17-openjdk-amd64/conf/security/java.policy"
+    },
+    {
+      "name": "DefaultExpressionFactory.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/expression/DefaultExpressionFactory.class"
+    },
+    {
+      "name": "DataTimeZone.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/core/timezone/DataTimeZone.class"
+    },
+    {
+      "name": "GeneratedWhenCreated.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/deploy/generatedproperty/GeneratedWhenCreated.class"
+    },
+    {
+      "name": "DbExpressionHandlerFactory$1.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/expression/platform/DbExpressionHandlerFactory$1.class"
+    },
+    {
+      "name": "SpiServer.class",
+      "path": "ebean-api/target/classes/io/ebean/plugin/SpiServer.class"
+    },
+    {
+      "name": "ScalarTypeUUIDBase.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/type/ScalarTypeUUIDBase.class"
+    },
+    {
+      "name": "DbContext.class",
+      "path": "ebean-api/target/classes/io/ebean/DbContext.class"
+    },
+    {
+      "name": "DmlHandler.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/persist/dml/DmlHandler.class"
+    },
+    {
+      "name": "CacheManagerOptions.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/cache/CacheManagerOptions.class"
+    },
+    {
+      "name": "TransactionFactoryBasic.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/transaction/TransactionFactoryBasic.class"
+    },
+    {
+      "name": "ModelDiff.class",
+      "path": "ebean-ddl-generator/target/classes/io/ebeaninternal/dbmigration/model/ModelDiff.class"
+    },
+    {
+      "name": "TxnProfileEventCodes.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/api/TxnProfileEventCodes.class"
+    },
+    {
+      "name": "PostgisSetup.class",
+      "path": "ebean-test/target/classes/io/ebean/test/config/platform/PostgisSetup.class"
+    },
+    {
+      "name": "ExeCallableSql.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/persist/ExeCallableSql.class"
+    },
+    {
+      "name": "BeanPropertySetter.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/properties/BeanPropertySetter.class"
+    },
+    {
+      "name": "BeanPropertySimpleCollection.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/deploy/BeanPropertySimpleCollection.class"
+    },
+    {
+      "name": "InsertMeta.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/persist/dml/InsertMeta.class"
+    },
+    {
+      "name": "ScalarTypeBytesBlob.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/type/ScalarTypeBytesBlob.class"
+    },
+    {
+      "name": "IdBinder.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/deploy/id/IdBinder.class"
+    },
+    {
+      "name": "ScalarTypeByte.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/type/ScalarTypeByte.class"
+    },
+    {
+      "name": "BeanCascadeInfo$1.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/deploy/BeanCascadeInfo$1.class"
+    },
+    {
+      "name": "MySqlSetup.class",
+      "path": "ebean-test/target/classes/io/ebean/test/config/platform/MySqlSetup.class"
+    },
+    {
+      "name": "io.ebean.config.AutoConfigure",
+      "path": "ebean-test/target/classes/META-INF/services/io.ebean.config.AutoConfigure"
+    },
+    {
+      "name": "DmlBeanPersisterFactory.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/persist/dml/DmlBeanPersisterFactory.class"
+    },
+    {
+      "name": "DContainerFactory.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/DContainerFactory.class"
+    },
+    {
+      "name": "BeanPersistController.class",
+      "path": "ebean-api/target/classes/io/ebean/event/BeanPersistController.class"
+    },
+    {
+      "name": "Binder.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/persist/Binder.class"
+    },
+    {
+      "name": "ScalarTypeString.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/type/ScalarTypeString.class"
+    },
+    {
+      "name": "SplitName.class",
+      "path": "ebean-api/target/classes/io/ebean/util/SplitName.class"
+    },
+    {
+      "name": "ServerCacheOptions.class",
+      "path": "ebean-api/target/classes/io/ebean/cache/ServerCacheOptions.class"
+    },
+    {
+      "name": "DefaultPersistenceContext.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/transaction/DefaultPersistenceContext.class"
+    },
+    {
+      "name": "SpiTransactionScopeManager.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/api/SpiTransactionScopeManager.class"
+    },
+    {
+      "name": "ScalarTypeBytesVarbinary.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/type/ScalarTypeBytesVarbinary.class"
+    },
+    {
+      "name": "ServerCacheNotify.class",
+      "path": "ebean-api/target/classes/io/ebean/cache/ServerCacheNotify.class"
+    },
+    {
+      "name": "ScalarDataReader.class",
+      "path": "ebean-core-type/target/classes/io/ebean/core/type/ScalarDataReader.class"
+    },
+    {
+      "name": "ExternalTransactionManager.class",
+      "path": "ebean-api/target/classes/io/ebean/config/ExternalTransactionManager.class"
+    },
+    {
+      "name": "DocStoreEmbeddedInvalidation.class",
+      "path": "ebean-core/target/classes/io/ebeanservice/docstore/api/support/DocStoreEmbeddedInvalidation.class"
+    },
+    {
+      "name": "NoDataTimeZone.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/core/timezone/NoDataTimeZone.class"
+    },
+    {
+      "name": "TimedMetric.class",
+      "path": "ebean-api/target/classes/io/ebean/metric/TimedMetric.class"
+    },
+    {
+      "name": "DMetricFactory.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/profile/DMetricFactory.class"
+    },
+    {
+      "name": "DeployBeanPropertyLists$1.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/deploy/meta/DeployBeanPropertyLists$1.class"
+    },
+    {
+      "name": "DeployBeanPropertyAssocMany.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/deploy/meta/DeployBeanPropertyAssocMany.class"
+    },
+    {
+      "name": "Transaction.class",
+      "path": "ebean-api/target/classes/io/ebean/Transaction.class"
+    },
+    {
+      "name": "ScalarTypeEnum.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/type/ScalarTypeEnum.class"
+    },
+    {
+      "name": "PropertiesWrapper.class",
+      "path": "ebean-api/target/classes/io/ebean/config/PropertiesWrapper.class"
+    },
+    {
+      "name": "HsqldbDdl.class",
+      "path": "ebean-ddl-generator/target/classes/io/ebeaninternal/dbmigration/ddlgeneration/platform/HsqldbDdl.class"
+    },
+    {
+      "name": "PlatformIdGenerator.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/PlatformIdGenerator.class"
+    },
+    {
+      "name": "MariaDbDdl.class",
+      "path": "ebean-ddl-generator/target/classes/io/ebeaninternal/dbmigration/ddlgeneration/platform/MariaDbDdl.class"
+    },
+    {
+      "name": "BeanDescriptorElementEmbeddedMap.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/deploy/BeanDescriptorElementEmbeddedMap.class"
+    },
+    {
+      "name": "PostLoadManager.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/deploy/PostLoadManager.class"
+    },
+    {
+      "name": "UpdateMeta.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/persist/dml/UpdateMeta.class"
+    },
+    {
+      "name": "DeployDocPropertyOptions.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/deploy/DeployDocPropertyOptions.class"
+    },
+    {
+      "name": "DataIntegrityException.class",
+      "path": "ebean-api/target/classes/io/ebean/DataIntegrityException.class"
+    },
+    {
+      "name": "FactoryId.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/persist/dmlbind/FactoryId.class"
+    },
+    {
+      "name": "GeneratedInsertJavaTime$InstantDT.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/deploy/generatedproperty/GeneratedInsertJavaTime$InstantDT.class"
+    },
+    {
+      "name": "ImportedId.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/deploy/id/ImportedId.class"
+    },
+    {
+      "name": "SqlExceptionTranslator.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/SqlExceptionTranslator.class"
+    },
+    {
+      "name": "TenantCatalogProvider.class",
+      "path": "ebean-api/target/classes/io/ebean/config/TenantCatalogProvider.class"
+    },
+    {
+      "name": "AbstractDbEncrypt.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/AbstractDbEncrypt.class"
+    },
+    {
+      "name": "ScalarTypeLocalDateTime.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/type/ScalarTypeLocalDateTime.class"
+    },
+    {
+      "name": "AutoTuneServiceProvider.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/autotune/AutoTuneServiceProvider.class"
+    },
+    {
+      "name": "AutoTuneConfig.class",
+      "path": "ebean-api/target/classes/io/ebean/config/AutoTuneConfig.class"
+    },
+    {
+      "name": "BulkTableEvent.class",
+      "path": "ebean-api/target/classes/io/ebean/event/BulkTableEvent.class"
+    },
+    {
+      "name": "NotEnhancedException.class",
+      "path": "ebean-api/target/classes/io/ebean/bean/NotEnhancedException.class"
+    },
+    {
+      "name": "InternalConfiguration.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/core/InternalConfiguration.class"
+    },
+    {
+      "name": "SpiDdlGenerator.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/api/SpiDdlGenerator.class"
+    },
+    {
+      "name": "BeanDescriptorDraftHelp.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/deploy/BeanDescriptorDraftHelp.class"
+    },
+    {
+      "name": "ScalarTypeBytesBase.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/type/ScalarTypeBytesBase.class"
+    },
+    {
+      "name": "BeanDescriptorElementScalar.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/deploy/BeanDescriptorElementScalar.class"
+    },
+    {
+      "name": "MetaInfoManager.class",
+      "path": "ebean-api/target/classes/io/ebean/meta/MetaInfoManager.class"
+    },
+    {
+      "name": "ScalarTypeBase.class",
+      "path": "ebean-core-type/target/classes/io/ebean/core/type/ScalarTypeBase.class"
+    },
+    {
+      "name": "DocPropertyOptions.class",
+      "path": "ebean-core/target/classes/io/ebeanservice/docstore/api/mapping/DocPropertyOptions.class"
+    },
+    {
+      "name": "DocStoreBeanBaseAdapter.class",
+      "path": "ebean-core/target/classes/io/ebeanservice/docstore/api/support/DocStoreBeanBaseAdapter.class"
+    },
+    {
+      "name": "DbPlatformTypeMapping$1.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/DbPlatformTypeMapping$1.class"
+    },
+    {
+      "name": "DbConstraintNaming.class",
+      "path": "ebean-api/target/classes/io/ebean/config/DbConstraintNaming.class"
+    },
+    {
+      "name": "DataSourceSupplier.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/transaction/DataSourceSupplier.class"
+    },
+    {
+      "name": "Customer.class",
+      "path": "ebean-csv-reader/target/test-classes/org/example/Customer.class"
+    },
+    {
+      "name": "SQLiteDdl.class",
+      "path": "ebean-ddl-generator/target/classes/io/ebeaninternal/dbmigration/ddlgeneration/platform/SQLiteDdl.class"
+    },
+    {
+      "name": "FutureList.class",
+      "path": "ebean-api/target/classes/io/ebean/FutureList.class"
+    },
+    {
+      "name": "JsonConfig$DateTime.class",
+      "path": "ebean-api/target/classes/io/ebean/config/JsonConfig$DateTime.class"
+    },
+    {
+      "name": "DdlGeneratorProvider.class",
+      "path": "ebean-ddl-generator/target/classes/io/ebeaninternal/dbmigration/DdlGeneratorProvider.class"
+    },
+    {
+      "name": "MetricServiceProvider.class",
+      "path": "ebean-api/target/classes/io/ebean/metric/MetricServiceProvider.class"
+    },
+    {
+      "name": "TableName.class",
+      "path": "ebean-api/target/classes/io/ebean/config/TableName.class"
+    },
+    {
+      "name": "ChangeLogListener.class",
+      "path": "ebean-api/target/classes/io/ebean/event/changelog/ChangeLogListener.class"
+    },
+    {
+      "name": "IdBinderSimple.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/deploy/id/IdBinderSimple.class"
+    },
+    {
+      "name": "PersistRequestBean.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/core/PersistRequestBean.class"
+    },
+    {
+      "name": "CacheOptions.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/core/CacheOptions.class"
+    },
+    {
+      "name": "ScalarTypeBytesBinary.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/type/ScalarTypeBytesBinary.class"
+    },
+    {
+      "name": "BeanFindController.class",
+      "path": "ebean-api/target/classes/io/ebean/event/BeanFindController.class"
+    },
+    {
+      "name": "NoopProfileHandler.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/transaction/NoopProfileHandler.class"
+    },
+    {
+      "name": "CallOriginFactory.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/core/CallOriginFactory.class"
+    },
+    {
+      "name": "InterceptReadWrite.class",
+      "path": "ebean-api/target/classes/io/ebean/bean/InterceptReadWrite.class"
+    },
+    {
+      "name": "SpiBeanTypeManager.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/api/SpiBeanTypeManager.class"
+    },
+    {
+      "name": "BeanPropertyIdClass.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/deploy/BeanPropertyIdClass.class"
+    },
+    {
+      "name": "BeanPropertyOrderColumn.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/deploy/BeanPropertyOrderColumn.class"
+    },
+    {
+      "name": "PropertyAssocMany.class",
+      "path": "ebean-api/target/classes/io/ebean/plugin/PropertyAssocMany.class"
+    },
+    {
+      "name": "CapturingLoggerFactory.class",
+      "path": "ebean-test/target/classes/io/ebean/test/CapturingLoggerFactory.class"
+    },
+    {
+      "name": "BaseDbExpression.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/expression/platform/BaseDbExpression.class"
+    },
+    {
+      "name": "RawSql.class",
+      "path": "ebean-api/target/classes/io/ebean/RawSql.class"
+    },
+    {
+      "name": "DefaultCacheAdapter.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/cache/DefaultCacheAdapter.class"
+    },
+    {
+      "name": "TransientProperties.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/deploy/parse/TransientProperties.class"
+    },
+    {
+      "name": "UpdateTimestampFactory.class",
+      "path": "ebean-core/target/classes/io/ebeaninternal/server/deploy/generatedproperty/UpdateTimestampFactory.class"
+    }
+  ],
+  "accessed_resources": [
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/org/glassfish/jaxb/jaxb-runtime/2.3.6/jaxb-runtime-2.3.6.jar!/META-INF/services/javax.xml.bind.JAXBContext",
+      "resourceURI": "file:/home/jonas/.m2/repository/org/glassfish/jaxb/jaxb-runtime/2.3.6/jaxb-runtime-2.3.6.jar",
+      "absolutePath": "../../../.m2/repository/org/glassfish/jaxb/jaxb-runtime/2.3.6/jaxb-runtime-2.3.6.jar"
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/Documents/master_thesis/file-access-log-agent/binaries/real_read_using_bytebuddy_1-12-12/FileAccessAgent_deploy.jar!/com/file_access_agent/advice/ImageInputStreamCreatedFileLogAdvice.class",
+      "resourceURI": "file:/home/jonas/Documents/master_thesis/file-access-log-agent/binaries/real_read_using_bytebuddy_1-12-12/FileAccessAgent_deploy.jar",
+      "absolutePath": "../../../Documents/master_thesis/file-access-log-agent/binaries/real_read_using_bytebuddy_1-12-12/FileAccessAgent_deploy.jar"
+    },
+    {
+      "resourceURL": "file:/home/jonas/Misc/Repos/ebean/ebean-ddl-generator/target/classes/io/ebeaninternal/dbmigration/builtin-extra-ddl.xml",
+      "resourceURI": "file:/home/jonas/Misc/Repos/ebean/ebean-ddl-generator/target/classes/io/ebeaninternal/dbmigration/builtin-extra-ddl.xml",
+      "absolutePath": "ebean-ddl-generator/target/classes/io/ebeaninternal/dbmigration/builtin-extra-ddl.xml"
+    },
+    {
+      "resourceURL": "file:/home/jonas/Misc/Repos/ebean/ebean-csv-reader/target/test-classes/application-test.yml",
+      "resourceURI": "file:/home/jonas/Misc/Repos/ebean/ebean-csv-reader/target/test-classes/application-test.yml",
+      "absolutePath": "ebean-csv-reader/target/test-classes/application-test.yml"
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/Documents/master_thesis/file-access-log-agent/binaries/real_read_using_bytebuddy_1-12-12/FileAccessAgent_deploy.jar!/com/file_access_agent/advice/ImageIOLogReadURLAdvice.class",
+      "resourceURI": "file:/home/jonas/Documents/master_thesis/file-access-log-agent/binaries/real_read_using_bytebuddy_1-12-12/FileAccessAgent_deploy.jar",
+      "absolutePath": "../../../Documents/master_thesis/file-access-log-agent/binaries/real_read_using_bytebuddy_1-12-12/FileAccessAgent_deploy.jar"
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/Documents/master_thesis/file-access-log-agent/binaries/real_read_using_bytebuddy_1-12-12/FileAccessAgent_deploy.jar!/com/file_access_agent/advice/FilesNewInputStreamAdvice.class",
+      "resourceURI": "file:/home/jonas/Documents/master_thesis/file-access-log-agent/binaries/real_read_using_bytebuddy_1-12-12/FileAccessAgent_deploy.jar",
+      "absolutePath": "../../../Documents/master_thesis/file-access-log-agent/binaries/real_read_using_bytebuddy_1-12-12/FileAccessAgent_deploy.jar"
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/com/h2database/h2/2.1.214/h2-2.1.214.jar!/org/h2/util/data.zip",
+      "resourceURI": "file:/home/jonas/.m2/repository/com/h2database/h2/2.1.214/h2-2.1.214.jar",
+      "absolutePath": "../../../.m2/repository/com/h2database/h2/2.1.214/h2-2.1.214.jar"
+    },
+    {
+      "resourceURL": "file:/home/jonas/Misc/Repos/ebean/ebean-api/target/classes/META-INF/ebean-maven-version.txt",
+      "resourceURI": "file:/home/jonas/Misc/Repos/ebean/ebean-api/target/classes/META-INF/ebean-maven-version.txt",
+      "absolutePath": "ebean-api/target/classes/META-INF/ebean-maven-version.txt"
+    },
+    {
+      "resourceURL": "file:/home/jonas/Misc/Repos/ebean/ebean-csv-reader/target/test-classes/test1.csv",
+      "resourceURI": "file:/home/jonas/Misc/Repos/ebean/ebean-csv-reader/target/test-classes/test1.csv",
+      "absolutePath": "ebean-csv-reader/target/test-classes/test1.csv"
+    }
+  ],
+  "accessed_jar_entries": [
+    {
+      "jar_entry": "META-INF/services/javax.xml.bind.JAXBContext"
+    },
+    {
+      "jar_entry": "com/file_access_agent/advice/ImageInputStreamCreatedFileLogAdvice.class"
+    },
+    {
+      "jar_entry": "com/file_access_agent/advice/ImageIOLogReadURLAdvice.class"
+    },
+    {
+      "jar_entry": "com/file_access_agent/advice/FilesNewInputStreamAdvice.class"
+    },
+    {
+      "jar_entry": "org/h2/util/data.zip"
+    },
+    null
+  ],
+  "record_debug_info": [
+    {
+      "recordId": 148,
+      "info": {
+        "InputStream": "java.io.FileInputStream@7806c15a",
+        "created_for_file": "/home/jonas/Misc/Repos/ebean/ebean-api/target/classes/io/ebean/config/dbplatform/DatabasePlatformProvider.class",
+        "record_type": "InputStreamCreatedRecord"
+      },
+      "stackTrace": "java.base/java.lang.Thread.getStackTrace(Thread.java:1610)\njava.base/java.io.FileInputStream.\u003cinit\u003e(FileInputStream.java:159)\njava.base/jdk.internal.loader.URLClassPath$FileLoader$1.getInputStream(URLClassPath.java:1268)\njava.base/jdk.internal.loader.Resource.cachedInputStream(Resource.java:77)\njava.base/jdk.internal.loader.Resource.getByteBuffer(Resource.java:163)\njava.base/jdk.internal.loader.BuiltinClassLoader.defineClass(BuiltinClassLoader.java:853)\njava.base/jdk.internal.loader.BuiltinClassLoader.findClassOnClassPathOrNull(BuiltinClassLoader.java:760)\njava.base/jdk.internal.loader.BuiltinClassLoader.loadClassOrNull(BuiltinClassLoader.java:681)\njava.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:639)\njava.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188)\njava.base/java.lang.ClassLoader.loadClass(ClassLoader.java:520)\nio.ebeaninternal.server.core.DatabasePlatformFactory.\u003cinit\u003e(DatabasePlatformFactory.java:32)\nio.ebeaninternal.server.core.DefaultContainer.setDatabasePlatform(DefaultContainer.java:207)\nio.ebeaninternal.server.core.DefaultContainer.createServer(DefaultContainer.java:95)\nio.ebeaninternal.server.core.DefaultContainer.createServer(DefaultContainer.java:57)\nio.ebeaninternal.server.core.DefaultContainer.createServer(DefaultContainer.java:29)\nio.ebean.DatabaseFactory.create(DatabaseFactory.java:60)\nio.ebean.DbContext.getWithCreate(DbContext.java:98)\nio.ebean.DbContext.\u003cinit\u003e(DbContext.java:37)\nio.ebean.DbContext.\u003cclinit\u003e(DbContext.java:23)\nio.ebean.DB.\u003cclinit\u003e(DB.java:63)\nio.ebean.csv.reader.CsvReaderTest.test(CsvReaderTest.java:24)\njava.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)\njava.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)\njava.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\njava.base/java.lang.reflect.Method.invoke(Method.java:568)\norg.junit.platform.commons.util.ReflectionUtils.invokeMethod(ReflectionUtils.java:725)\norg.junit.jupiter.engine.execution.MethodInvocation.proceed(MethodInvocation.java:60)\norg.junit.jupiter.engine.execution.InvocationInterceptorChain$ValidatingInvocation.proceed(InvocationInterceptorChain.java:131)\norg.junit.jupiter.engine.extension.TimeoutExtension.intercept(TimeoutExtension.java:149)\norg.junit.jupiter.engine.extension.TimeoutExtension.interceptTestableMethod(TimeoutExtension.java:140)\norg.junit.jupiter.engine.extension.TimeoutExtension.interceptTestMethod(TimeoutExtension.java:84)\norg.junit.jupiter.engine.execution.ExecutableInvoker$ReflectiveInterceptorCall.lambda$ofVoidMethod$0(ExecutableInvoker.java:115)\norg.junit.jupiter.engine.execution.ExecutableInvoker.lambda$invoke$0(ExecutableInvoker.java:105)\norg.junit.jupiter.engine.execution.InvocationInterceptorChain$InterceptedInvocation.proceed(InvocationInterceptorChain.java:106)\norg.junit.jupiter.engine.execution.InvocationInterceptorChain.proceed(InvocationInterceptorChain.java:64)\norg.junit.jupiter.engine.execution.InvocationInterceptorChain.chainAndInvoke(InvocationInterceptorChain.java:45)\norg.junit.jupiter.engine.execution.InvocationInterceptorChain.invoke(InvocationInterceptorChain.java:37)\norg.junit.jupiter.engine.execution.ExecutableInvoker.invoke(ExecutableInvoker.java:104)\norg.junit.jupiter.engine.execution.ExecutableInvoker.invoke(ExecutableInvoker.java:98)\norg.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.lambda$invokeTestMethod$7(TestMethodTestDescriptor.java:214)\norg.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)\norg.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.invokeTestMethod(TestMethodTestDescriptor.java:210)\norg.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:135)\norg.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:66)\norg.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:151)\norg.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)\norg.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141)\norg.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)\norg.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139)\norg.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)\norg.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138)\norg.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95)\njava.base/java.util.ArrayList.forEach(ArrayList.java:1511)\norg.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41)\norg.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:155)\norg.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)\norg.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141)\norg.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)\norg.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139)\norg.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)\norg.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138)\norg.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95)\njava.base/java.util.ArrayList.forEach(ArrayList.java:1511)\norg.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41)\norg.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:155)\norg.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)\norg.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141)\norg.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)\norg.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139)\norg.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)\norg.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138)\norg.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95)\norg.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.submit(SameThreadHierarchicalTestExecutorService.java:35)\norg.junit.platform.engine.support.hierarchical.HierarchicalTestExecutor.execute(HierarchicalTestExecutor.java:57)\norg.junit.platform.engine.support.hierarchical.HierarchicalTestEngine.execute(HierarchicalTestEngine.java:54)\norg.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:107)\norg.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:88)\norg.junit.platform.launcher.core.EngineExecutionOrchestrator.lambda$execute$0(EngineExecutionOrchestrator.java:54)\norg.junit.platform.launcher.core.EngineExecutionOrchestrator.withInterceptedStreams(EngineExecutionOrchestrator.java:67)\norg.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:52)\norg.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:114)\norg.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:86)\norg.junit.platform.launcher.core.DefaultLauncherSession$DelegatingLauncher.execute(DefaultLauncherSession.java:86)\norg.junit.platform.launcher.core.SessionPerRequestLauncher.execute(SessionPerRequestLauncher.java:53)\norg.apache.maven.surefire.junitplatform.JUnitPlatformProvider.invokeAllTests(JUnitPlatformProvider.java:154)\norg.apache.maven.surefire.junitplatform.JUnitPlatformProvider.invoke(JUnitPlatformProvider.java:127)\norg.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:377)\norg.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:138)\norg.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:465)\norg.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:451)\n"
+    },
+    {
+      "recordId": 150,
+      "info": {
+        "InputStream": "java.io.FileInputStream@33b7754",
+        "created_for_file": "/home/jonas/Misc/Repos/ebean/platforms/h2/target/classes/META-INF/services/io.ebean.config.dbplatform.DatabasePlatformProvider",
+        "record_type": "InputStreamCreatedRecord"
+      },
+      "stackTrace": "java.base/java.lang.Thread.getStackTrace(Thread.java:1610)\njava.base/java.io.FileInputStream.\u003cinit\u003e(FileInputStream.java:159)\njava.base/java.io.FileInputStream.\u003cinit\u003e(FileInputStream.java:111)\njava.base/sun.net.www.protocol.file.FileURLConnection.connect(FileURLConnection.java:86)\njava.base/sun.net.www.protocol.file.FileURLConnection.getInputStream(FileURLConnection.java:189)\njava.base/java.util.ServiceLoader$LazyClassPathLookupIterator.parse(ServiceLoader.java:1172)\njava.base/java.util.ServiceLoader$LazyClassPathLookupIterator.nextProviderClass(ServiceLoader.java:1213)\njava.base/java.util.ServiceLoader$LazyClassPathLookupIterator.hasNextService(ServiceLoader.java:1228)\njava.base/java.util.ServiceLoader$LazyClassPathLookupIterator.hasNext(ServiceLoader.java:1273)\njava.base/java.util.ServiceLoader$2.hasNext(ServiceLoader.java:1309)\njava.base/java.util.ServiceLoader$3.hasNext(ServiceLoader.java:1393)\nio.ebeaninternal.server.core.DatabasePlatformFactory.\u003cinit\u003e(DatabasePlatformFactory.java:32)\nio.ebeaninternal.server.core.DefaultContainer.setDatabasePlatform(DefaultContainer.java:207)\nio.ebeaninternal.server.core.DefaultContainer.createServer(DefaultContainer.java:95)\nio.ebeaninternal.server.core.DefaultContainer.createServer(DefaultContainer.java:57)\nio.ebeaninternal.server.core.DefaultContainer.createServer(DefaultContainer.java:29)\nio.ebean.DatabaseFactory.create(DatabaseFactory.java:60)\nio.ebean.DbContext.getWithCreate(DbContext.java:98)\nio.ebean.DbContext.\u003cinit\u003e(DbContext.java:37)\nio.ebean.DbContext.\u003cclinit\u003e(DbContext.java:23)\nio.ebean.DB.\u003cclinit\u003e(DB.java:63)\nio.ebean.csv.reader.CsvReaderTest.test(CsvReaderTest.java:24)\njava.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)\njava.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)\njava.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\njava.base/java.lang.reflect.Method.invoke(Method.java:568)\norg.junit.platform.commons.util.ReflectionUtils.invokeMethod(ReflectionUtils.java:725)\norg.junit.jupiter.engine.execution.MethodInvocation.proceed(MethodInvocation.java:60)\norg.junit.jupiter.engine.execution.InvocationInterceptorChain$ValidatingInvocation.proceed(InvocationInterceptorChain.java:131)\norg.junit.jupiter.engine.extension.TimeoutExtension.intercept(TimeoutExtension.java:149)\norg.junit.jupiter.engine.extension.TimeoutExtension.interceptTestableMethod(TimeoutExtension.java:140)\norg.junit.jupiter.engine.extension.TimeoutExtension.interceptTestMethod(TimeoutExtension.java:84)\norg.junit.jupiter.engine.execution.ExecutableInvoker$ReflectiveInterceptorCall.lambda$ofVoidMethod$0(ExecutableInvoker.java:115)\norg.junit.jupiter.engine.execution.ExecutableInvoker.lambda$invoke$0(ExecutableInvoker.java:105)\norg.junit.jupiter.engine.execution.InvocationInterceptorChain$InterceptedInvocation.proceed(InvocationInterceptorChain.java:106)\norg.junit.jupiter.engine.execution.InvocationInterceptorChain.proceed(InvocationInterceptorChain.java:64)\norg.junit.jupiter.engine.execution.InvocationInterceptorChain.chainAndInvoke(InvocationInterceptorChain.java:45)\norg.junit.jupiter.engine.execution.InvocationInterceptorChain.invoke(InvocationInterceptorChain.java:37)\norg.junit.jupiter.engine.execution.ExecutableInvoker.invoke(ExecutableInvoker.java:104)\norg.junit.jupiter.engine.execution.ExecutableInvoker.invoke(ExecutableInvoker.java:98)\norg.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.lambda$invokeTestMethod$7(TestMethodTestDescriptor.java:214)\norg.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)\norg.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.invokeTestMethod(TestMethodTestDescriptor.java:210)\norg.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:135)\norg.junit.jupiter.engine.descriptor.TestMethodTestDescriptor.execute(TestMethodTestDescriptor.java:66)\norg.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:151)\norg.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)\norg.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141)\norg.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)\norg.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139)\norg.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)\norg.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138)\norg.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95)\njava.base/java.util.ArrayList.forEach(ArrayList.java:1511)\norg.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41)\norg.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:155)\norg.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)\norg.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141)\norg.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)\norg.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139)\norg.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)\norg.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138)\norg.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95)\njava.base/java.util.ArrayList.forEach(ArrayList.java:1511)\norg.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41)\norg.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:155)\norg.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)\norg.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141)\norg.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)\norg.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139)\norg.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)\norg.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138)\norg.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95)\norg.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.submit(SameThreadHierarchicalTestExecutorService.java:35)\norg.junit.platform.engine.support.hierarchical.HierarchicalTestExecutor.execute(HierarchicalTestExecutor.java:57)\norg.junit.platform.engine.support.hierarchical.HierarchicalTestEngine.execute(HierarchicalTestEngine.java:54)\norg.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:107)\norg.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:88)\norg.junit.platform.launcher.core.EngineExecutionOrchestrator.lambda$execute$0(EngineExecutionOrchestrator.java:54)\norg.junit.platform.launcher.core.EngineExecutionOrchestrator.withInterceptedStreams(EngineExecutionOrchestrator.java:67)\norg.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:52)\norg.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:114)\norg.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:86)\norg.junit.platform.launcher.core.DefaultLauncherSession$DelegatingLauncher.execute(DefaultLauncherSession.java:86)\norg.junit.platform.launcher.core.SessionPerRequestLauncher.execute(SessionPerRequestLauncher.java:53)\norg.apache.maven.surefire.junitplatform.JUnitPlatformProvider.invokeAllTests(JUnitPlatformProvider.java:154)\norg.apache.maven.surefire.junitplatform.JUnitPlatformProvider.invoke(JUnitPlatformProvider.java:127)\norg.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:377)\norg.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:138)\norg.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:465)\norg.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:451)\n"
+    }
+  ]
+}

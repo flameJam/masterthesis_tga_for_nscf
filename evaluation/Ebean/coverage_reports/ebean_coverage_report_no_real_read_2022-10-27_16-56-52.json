@@ -1,0 +1,270 @@
+{
+  "testing_timestamp": "1666882612220",
+  "accessed_files": [
+    {
+      "name": "PlatformConfig$DbUuid.class",
+      "path": "ebean-api/target/classes/io/ebean/config/PlatformConfig$DbUuid.class"
+    },
+    {
+      "name": "PlatformIdGenerator.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/PlatformIdGenerator.class"
+    },
+    {
+      "name": "surefire3180851762810122870tmp",
+      "path": "platforms/oracle/target/surefire/surefire3180851762810122870tmp"
+    },
+    {
+      "name": "OraclePlatformProviderTest.class",
+      "path": "platforms/oracle/target/test-classes/io/ebean/platform/oracle/OraclePlatformProviderTest.class"
+    },
+    {
+      "name": "surefire_717371780197030682790tmp",
+      "path": "platforms/oracle/target/surefire/surefire_717371780197030682790tmp"
+    },
+    {
+      "name": "DataIntegrityException.class",
+      "path": "ebean-api/target/classes/io/ebean/DataIntegrityException.class"
+    },
+    {
+      "name": "java.policy",
+      "path": "../../../../../usr/lib/jvm/java-17-openjdk-amd64/conf/security/java.policy"
+    },
+    {
+      "name": "ebean-maven-version.txt",
+      "path": "ebean-api/target/classes/META-INF/ebean-maven-version.txt"
+    },
+    {
+      "name": "DataErrorType.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/DataErrorType.class"
+    },
+    {
+      "name": "SqlExceptionTranslator.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/SqlExceptionTranslator.class"
+    },
+    {
+      "name": "AcquireLockException.class",
+      "path": "ebean-api/target/classes/io/ebean/AcquireLockException.class"
+    },
+    {
+      "name": "AbstractDbEncrypt.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/AbstractDbEncrypt.class"
+    },
+    {
+      "name": "OraclePlatform.class",
+      "path": "platforms/oracle/target/classes/io/ebean/platform/oracle/OraclePlatform.class"
+    },
+    {
+      "name": "OracleDbHistorySupport.class",
+      "path": "platforms/oracle/target/classes/io/ebean/platform/oracle/OracleDbHistorySupport.class"
+    },
+    {
+      "name": "DbType.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/DbType.class"
+    },
+    {
+      "name": "DbIdentity.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/DbIdentity.class"
+    },
+    {
+      "name": "DbPlatformTypeMapping.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/DbPlatformTypeMapping.class"
+    },
+    {
+      "name": "SqlCodeTranslator.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/SqlCodeTranslator.class"
+    },
+    {
+      "name": "OraclePlatformTest.class",
+      "path": "platforms/oracle/target/test-classes/io/ebean/platform/oracle/OraclePlatformTest.class"
+    },
+    {
+      "name": "SqlErrorCodes.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/SqlErrorCodes.class"
+    },
+    {
+      "name": "ExtraDbTypes.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/ExtraDbTypes.class"
+    },
+    {
+      "name": "tzdb.dat",
+      "path": "../../../../../usr/lib/jvm/java-17-openjdk-amd64/lib/tzdb.dat"
+    },
+    {
+      "name": "DbPlatformTypeMapping$BooleanLogicalType.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/DbPlatformTypeMapping$BooleanLogicalType.class"
+    },
+    {
+      "name": "BasicSqlAnsiLimiter.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/BasicSqlAnsiLimiter.class"
+    },
+    {
+      "name": "OracleAnsiSqlRowsLimiter.class",
+      "path": "platforms/oracle/target/classes/io/ebean/platform/oracle/OracleAnsiSqlRowsLimiter.class"
+    },
+    {
+      "name": "DbConstraintNaming.class",
+      "path": "ebean-api/target/classes/io/ebean/config/DbConstraintNaming.class"
+    },
+    {
+      "name": "OracleDbEncrypt$OraVarcharFunction.class",
+      "path": "platforms/oracle/target/classes/io/ebean/platform/oracle/OracleDbEncrypt$OraVarcharFunction.class"
+    },
+    {
+      "name": "SerializableConflictException.class",
+      "path": "ebean-api/target/classes/io/ebean/SerializableConflictException.class"
+    },
+    {
+      "name": "OracleRownumBasicLimiter.class",
+      "path": "platforms/oracle/target/classes/io/ebean/platform/oracle/OracleRownumBasicLimiter.class"
+    },
+    {
+      "name": "Oracle12Platform.class",
+      "path": "platforms/oracle/target/classes/io/ebean/platform/oracle/Oracle12Platform.class"
+    },
+    {
+      "name": "OraclePlatformProvider.class",
+      "path": "platforms/oracle/target/classes/io/ebean/platform/oracle/OraclePlatformProvider.class"
+    },
+    {
+      "name": "DbDefaultValue.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/DbDefaultValue.class"
+    },
+    {
+      "name": "OracleDbEncrypt$OraDateFunction.class",
+      "path": "platforms/oracle/target/classes/io/ebean/platform/oracle/OracleDbEncrypt$OraDateFunction.class"
+    },
+    {
+      "name": "DatabasePlatform.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/DatabasePlatform.class"
+    },
+    {
+      "name": "IdType.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/IdType.class"
+    },
+    {
+      "name": "logging.properties",
+      "path": "../../../../../usr/lib/jvm/java-17-openjdk-amd64/conf/logging.properties"
+    },
+    {
+      "name": "Oracle11Platform.class",
+      "path": "platforms/oracle/target/classes/io/ebean/platform/oracle/Oracle11Platform.class"
+    },
+    {
+      "name": "DbPlatformTypeLookup.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/DbPlatformTypeLookup.class"
+    },
+    {
+      "name": "DbPlatformType.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/DbPlatformType.class"
+    },
+    {
+      "name": "DbEncryptFunction.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/DbEncryptFunction.class"
+    },
+    {
+      "name": "OracleDbEncrypt.class",
+      "path": "platforms/oracle/target/classes/io/ebean/platform/oracle/OracleDbEncrypt.class"
+    },
+    {
+      "name": "BasicSqlLimiter.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/BasicSqlLimiter.class"
+    },
+    {
+      "name": "BasicSqlLimitOffset.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/BasicSqlLimitOffset.class"
+    },
+    {
+      "name": "DuplicateKeyException.class",
+      "path": "ebean-api/target/classes/io/ebean/DuplicateKeyException.class"
+    },
+    {
+      "name": "DatabasePlatformProvider.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/DatabasePlatformProvider.class"
+    },
+    {
+      "name": "DbHistorySupport.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/DbHistorySupport.class"
+    },
+    {
+      "name": "LimitOffsetSqlLimiter.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/LimitOffsetSqlLimiter.class"
+    },
+    {
+      "name": "OracleRownumSqlLimiter.class",
+      "path": "platforms/oracle/target/classes/io/ebean/platform/oracle/OracleRownumSqlLimiter.class"
+    },
+    {
+      "name": "SqlLimiter.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/SqlLimiter.class"
+    },
+    {
+      "name": "default.policy",
+      "path": "../../../../../usr/lib/jvm/java-17-openjdk-amd64/lib/security/default.policy"
+    },
+    {
+      "name": "DbEncrypt.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/DbEncrypt.class"
+    },
+    {
+      "name": "EbeanVersion.class",
+      "path": "ebean-api/target/classes/io/ebean/EbeanVersion.class"
+    },
+    {
+      "name": "DbStandardHistorySupport.class",
+      "path": "ebean-api/target/classes/io/ebean/config/dbplatform/DbStandardHistorySupport.class"
+    },
+    {
+      "name": "DbConstraintNormalise.class",
+      "path": "ebean-api/target/classes/io/ebean/config/DbConstraintNormalise.class"
+    },
+    {
+      "name": "PlatformConfig.class",
+      "path": "ebean-api/target/classes/io/ebean/config/PlatformConfig.class"
+    }
+  ],
+  "accessed_resources": [
+    {
+      "resourceURL": "jar:file:/home/jonas/Documents/master_thesis/file-access-log-agent/binaries/real_read_using_bytebuddy_1-12-12/FileAccessAgent_deploy.jar!/com/file_access_agent/advice/ImageInputStreamCreatedFileLogAdvice.class",
+      "resourceURI": "file:/home/jonas/Documents/master_thesis/file-access-log-agent/binaries/real_read_using_bytebuddy_1-12-12/FileAccessAgent_deploy.jar",
+      "absolutePath": "../../../Documents/master_thesis/file-access-log-agent/binaries/real_read_using_bytebuddy_1-12-12/FileAccessAgent_deploy.jar"
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/Documents/master_thesis/file-access-log-agent/binaries/real_read_using_bytebuddy_1-12-12/FileAccessAgent_deploy.jar!/com/file_access_agent/advice/ImageIOLogReadURLAdvice.class",
+      "resourceURI": "file:/home/jonas/Documents/master_thesis/file-access-log-agent/binaries/real_read_using_bytebuddy_1-12-12/FileAccessAgent_deploy.jar",
+      "absolutePath": "../../../Documents/master_thesis/file-access-log-agent/binaries/real_read_using_bytebuddy_1-12-12/FileAccessAgent_deploy.jar"
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/Documents/master_thesis/file-access-log-agent/binaries/real_read_using_bytebuddy_1-12-12/FileAccessAgent_deploy.jar!/com/file_access_agent/advice/FilesNewInputStreamAdvice.class",
+      "resourceURI": "file:/home/jonas/Documents/master_thesis/file-access-log-agent/binaries/real_read_using_bytebuddy_1-12-12/FileAccessAgent_deploy.jar",
+      "absolutePath": "../../../Documents/master_thesis/file-access-log-agent/binaries/real_read_using_bytebuddy_1-12-12/FileAccessAgent_deploy.jar"
+    },
+    {
+      "resourceURL": "file:/home/jonas/Misc/Repos/ebean/ebean-api/target/classes/META-INF/ebean-maven-version.txt",
+      "resourceURI": "file:/home/jonas/Misc/Repos/ebean/ebean-api/target/classes/META-INF/ebean-maven-version.txt",
+      "absolutePath": "ebean-api/target/classes/META-INF/ebean-maven-version.txt"
+    }
+  ],
+  "accessed_jar_entries": [
+    {
+      "jar_entry": "com/file_access_agent/advice/ImageInputStreamCreatedFileLogAdvice.class"
+    },
+    {
+      "jar_entry": "com/file_access_agent/advice/ImageIOLogReadURLAdvice.class"
+    },
+    {
+      "jar_entry": "com/file_access_agent/advice/FilesNewInputStreamAdvice.class"
+    },
+    null
+  ],
+  "record_debug_info": [
+    {
+      "recordId": 9,
+      "info": {
+        "InputStream": "java.io.FileInputStream@3fdbbf16",
+        "created_for_file": "/home/jonas/Misc/Repos/ebean/ebean-api/target/classes/io/ebean/config/dbplatform/DatabasePlatformProvider.class",
+        "record_type": "InputStreamCreatedRecord"
+      },
+      "stackTrace": "java.base/java.lang.Thread.getStackTrace(Thread.java:1610)\njava.base/java.io.FileInputStream.\u003cinit\u003e(FileInputStream.java:159)\njava.base/jdk.internal.loader.URLClassPath$FileLoader$1.getInputStream(URLClassPath.java:1268)\njava.base/jdk.internal.loader.Resource.cachedInputStream(Resource.java:77)\njava.base/jdk.internal.loader.Resource.getByteBuffer(Resource.java:163)\njava.base/jdk.internal.loader.BuiltinClassLoader.defineClass(BuiltinClassLoader.java:853)\njava.base/jdk.internal.loader.BuiltinClassLoader.findClassOnClassPathOrNull(BuiltinClassLoader.java:760)\njava.base/jdk.internal.loader.BuiltinClassLoader.loadClassOrNull(BuiltinClassLoader.java:681)\njava.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:639)\njava.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188)\njava.base/java.lang.ClassLoader.loadClass(ClassLoader.java:520)\njava.base/java.lang.ClassLoader.defineClass1(Native Method)\njava.base/java.lang.ClassLoader.defineClass(ClassLoader.java:1012)\njava.base/java.security.SecureClassLoader.defineClass(SecureClassLoader.java:150)\njava.base/jdk.internal.loader.BuiltinClassLoader.defineClass(BuiltinClassLoader.java:862)\njava.base/jdk.internal.loader.BuiltinClassLoader.findClassOnClassPathOrNull(BuiltinClassLoader.java:760)\njava.base/jdk.internal.loader.BuiltinClassLoader.loadClassOrNull(BuiltinClassLoader.java:681)\njava.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:639)\njava.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188)\njava.base/java.lang.ClassLoader.loadClass(ClassLoader.java:520)\njava.base/java.lang.Class.getDeclaredFields0(Native Method)\njava.base/java.lang.Class.privateGetDeclaredFields(Class.java:3297)\njava.base/java.lang.Class.getDeclaredFields(Class.java:2371)\norg.junit.platform.commons.util.ReflectionUtils.getDeclaredFields(ReflectionUtils.java:1470)\norg.junit.platform.commons.util.ReflectionUtils.findAllFieldsInHierarchy(ReflectionUtils.java:1200)\norg.junit.platform.commons.util.ReflectionUtils.findFields(ReflectionUtils.java:1188)\norg.junit.jupiter.engine.descriptor.ExtensionUtils.registerExtensionsFromFields(ExtensionUtils.java:96)\norg.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.prepare(ClassBasedTestDescriptor.java:150)\norg.junit.jupiter.engine.descriptor.ClassBasedTestDescriptor.prepare(ClassBasedTestDescriptor.java:80)\norg.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$prepare$2(NodeTestTask.java:123)\norg.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)\norg.junit.platform.engine.support.hierarchical.NodeTestTask.prepare(NodeTestTask.java:123)\norg.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:90)\njava.base/java.util.ArrayList.forEach(ArrayList.java:1511)\norg.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.invokeAll(SameThreadHierarchicalTestExecutorService.java:41)\norg.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$6(NodeTestTask.java:155)\norg.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)\norg.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$8(NodeTestTask.java:141)\norg.junit.platform.engine.support.hierarchical.Node.around(Node.java:137)\norg.junit.platform.engine.support.hierarchical.NodeTestTask.lambda$executeRecursively$9(NodeTestTask.java:139)\norg.junit.platform.engine.support.hierarchical.ThrowableCollector.execute(ThrowableCollector.java:73)\norg.junit.platform.engine.support.hierarchical.NodeTestTask.executeRecursively(NodeTestTask.java:138)\norg.junit.platform.engine.support.hierarchical.NodeTestTask.execute(NodeTestTask.java:95)\norg.junit.platform.engine.support.hierarchical.SameThreadHierarchicalTestExecutorService.submit(SameThreadHierarchicalTestExecutorService.java:35)\norg.junit.platform.engine.support.hierarchical.HierarchicalTestExecutor.execute(HierarchicalTestExecutor.java:57)\norg.junit.platform.engine.support.hierarchical.HierarchicalTestEngine.execute(HierarchicalTestEngine.java:54)\norg.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:107)\norg.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:88)\norg.junit.platform.launcher.core.EngineExecutionOrchestrator.lambda$execute$0(EngineExecutionOrchestrator.java:54)\norg.junit.platform.launcher.core.EngineExecutionOrchestrator.withInterceptedStreams(EngineExecutionOrchestrator.java:67)\norg.junit.platform.launcher.core.EngineExecutionOrchestrator.execute(EngineExecutionOrchestrator.java:52)\norg.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:114)\norg.junit.platform.launcher.core.DefaultLauncher.execute(DefaultLauncher.java:86)\norg.junit.platform.launcher.core.DefaultLauncherSession$DelegatingLauncher.execute(DefaultLauncherSession.java:86)\norg.junit.platform.launcher.core.SessionPerRequestLauncher.execute(SessionPerRequestLauncher.java:53)\norg.apache.maven.surefire.junitplatform.JUnitPlatformProvider.invokeAllTests(JUnitPlatformProvider.java:154)\norg.apache.maven.surefire.junitplatform.JUnitPlatformProvider.invoke(JUnitPlatformProvider.java:127)\norg.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:377)\norg.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:138)\norg.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:465)\norg.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:451)\n"
+    }
+  ]
+}

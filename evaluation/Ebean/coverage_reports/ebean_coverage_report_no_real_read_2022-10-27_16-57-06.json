@@ -1,0 +1,139 @@
+{
+  "testing_timestamp": "1666882626429",
+  "accessed_files": [
+    {
+      "name": "surefire_97135495348303523509tmp",
+      "path": "ebean-joda-time/target/surefire/surefire_97135495348303523509tmp"
+    },
+    {
+      "name": "ScalarTypeJodaLocalTime.class",
+      "path": "ebean-joda-time/target/classes/io/ebean/joda/time/ScalarTypeJodaLocalTime.class"
+    },
+    {
+      "name": "StringParser.class",
+      "path": "ebean-api/target/classes/io/ebean/text/StringParser.class"
+    },
+    {
+      "name": "ScalarTypeJodaPeriod.class",
+      "path": "ebean-joda-time/target/classes/io/ebean/joda/time/ScalarTypeJodaPeriod.class"
+    },
+    {
+      "name": "JsonConfig$Date.class",
+      "path": "ebean-api/target/classes/io/ebean/config/JsonConfig$Date.class"
+    },
+    {
+      "name": "StringFormatter.class",
+      "path": "ebean-api/target/classes/io/ebean/text/StringFormatter.class"
+    },
+    {
+      "name": "ScalarType.class",
+      "path": "ebean-core-type/target/classes/io/ebean/core/type/ScalarType.class"
+    },
+    {
+      "name": "ScalarTypeJodaLocalDateTimeTest.class",
+      "path": "ebean-joda-time/target/test-classes/io/ebean/joda/time/ScalarTypeJodaLocalDateTimeTest.class"
+    },
+    {
+      "name": "ScalarTypeJodaLocalDateTime.class",
+      "path": "ebean-joda-time/target/classes/io/ebean/joda/time/ScalarTypeJodaLocalDateTime.class"
+    },
+    {
+      "name": "JsonConfig$DateTime.class",
+      "path": "ebean-api/target/classes/io/ebean/config/JsonConfig$DateTime.class"
+    },
+    {
+      "name": "ScalarTypeJodaLocalTimeTest.class",
+      "path": "ebean-joda-time/target/test-classes/io/ebean/joda/time/ScalarTypeJodaLocalTimeTest.class"
+    },
+    {
+      "name": "ScalarTypeJodaLocalDate.class",
+      "path": "ebean-joda-time/target/classes/io/ebean/joda/time/ScalarTypeJodaLocalDate.class"
+    },
+    {
+      "name": "logging.properties",
+      "path": "../../../../../usr/lib/jvm/java-17-openjdk-amd64/conf/logging.properties"
+    },
+    {
+      "name": "ScalarTypeJodaPeriodTest.class",
+      "path": "ebean-joda-time/target/test-classes/io/ebean/joda/time/ScalarTypeJodaPeriodTest.class"
+    },
+    {
+      "name": "ScalarTypeJodaLocalDateTest.class",
+      "path": "ebean-joda-time/target/test-classes/io/ebean/joda/time/ScalarTypeJodaLocalDateTest.class"
+    },
+    {
+      "name": "ScalarTypeBaseVarchar.class",
+      "path": "ebean-core-type/target/classes/io/ebean/core/type/ScalarTypeBaseVarchar.class"
+    },
+    {
+      "name": "ScalarDataReader.class",
+      "path": "ebean-core-type/target/classes/io/ebean/core/type/ScalarDataReader.class"
+    },
+    {
+      "name": "tzdb.dat",
+      "path": "../../../../../usr/lib/jvm/java-17-openjdk-amd64/lib/tzdb.dat"
+    },
+    {
+      "name": "ScalarTypeBaseDateTime.class",
+      "path": "ebean-core-type/target/classes/io/ebean/core/type/ScalarTypeBaseDateTime.class"
+    },
+    {
+      "name": "ScalarTypeBase.class",
+      "path": "ebean-core-type/target/classes/io/ebean/core/type/ScalarTypeBase.class"
+    },
+    {
+      "name": "ScalarTypeBaseDate.class",
+      "path": "ebean-core-type/target/classes/io/ebean/core/type/ScalarTypeBaseDate.class"
+    },
+    {
+      "name": "surefire6770837786580708653tmp",
+      "path": "ebean-joda-time/target/surefire/surefire6770837786580708653tmp"
+    }
+  ],
+  "accessed_resources": [
+    {
+      "resourceURL": "jar:file:/home/jonas/Documents/master_thesis/file-access-log-agent/binaries/real_read_using_bytebuddy_1-12-12/FileAccessAgent_deploy.jar!/com/file_access_agent/advice/ImageInputStreamCreatedFileLogAdvice.class",
+      "resourceURI": "file:/home/jonas/Documents/master_thesis/file-access-log-agent/binaries/real_read_using_bytebuddy_1-12-12/FileAccessAgent_deploy.jar",
+      "absolutePath": "../../../Documents/master_thesis/file-access-log-agent/binaries/real_read_using_bytebuddy_1-12-12/FileAccessAgent_deploy.jar"
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/Documents/master_thesis/file-access-log-agent/binaries/real_read_using_bytebuddy_1-12-12/FileAccessAgent_deploy.jar!/com/file_access_agent/advice/ImageIOLogReadURLAdvice.class",
+      "resourceURI": "file:/home/jonas/Documents/master_thesis/file-access-log-agent/binaries/real_read_using_bytebuddy_1-12-12/FileAccessAgent_deploy.jar",
+      "absolutePath": "../../../Documents/master_thesis/file-access-log-agent/binaries/real_read_using_bytebuddy_1-12-12/FileAccessAgent_deploy.jar"
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/Documents/master_thesis/file-access-log-agent/binaries/real_read_using_bytebuddy_1-12-12/FileAccessAgent_deploy.jar!/com/file_access_agent/advice/FilesNewInputStreamAdvice.class",
+      "resourceURI": "file:/home/jonas/Documents/master_thesis/file-access-log-agent/binaries/real_read_using_bytebuddy_1-12-12/FileAccessAgent_deploy.jar",
+      "absolutePath": "../../../Documents/master_thesis/file-access-log-agent/binaries/real_read_using_bytebuddy_1-12-12/FileAccessAgent_deploy.jar"
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/joda-time/joda-time/2.11.1/joda-time-2.11.1.jar!/org/joda/time/tz/data/ZoneInfoMap",
+      "resourceURI": "file:/home/jonas/.m2/repository/joda-time/joda-time/2.11.1/joda-time-2.11.1.jar",
+      "absolutePath": "../../../.m2/repository/joda-time/joda-time/2.11.1/joda-time-2.11.1.jar"
+    },
+    {
+      "resourceURL": "jar:file:/home/jonas/.m2/repository/joda-time/joda-time/2.11.1/joda-time-2.11.1.jar!/org/joda/time/tz/data/Europe/Berlin",
+      "resourceURI": "file:/home/jonas/.m2/repository/joda-time/joda-time/2.11.1/joda-time-2.11.1.jar",
+      "absolutePath": "../../../.m2/repository/joda-time/joda-time/2.11.1/joda-time-2.11.1.jar"
+    }
+  ],
+  "accessed_jar_entries": [
+    {
+      "jar_entry": "com/file_access_agent/advice/ImageInputStreamCreatedFileLogAdvice.class"
+    },
+    {
+      "jar_entry": "com/file_access_agent/advice/ImageIOLogReadURLAdvice.class"
+    },
+    {
+      "jar_entry": "com/file_access_agent/advice/FilesNewInputStreamAdvice.class"
+    },
+    {
+      "jar_entry": "org/joda/time/tz/data/ZoneInfoMap"
+    },
+    {
+      "jar_entry": "org/joda/time/tz/data/Europe/Berlin"
+    },
+    null
+  ],
+  "record_debug_info": []
+}
